@@ -1,0 +1,52 @@
+version: '2'
+
+services:
+
+  clusir-ehc-ssh-2:
+    env_file:
+      - .env
+    build:
+      context: ./ssh
+    ports:
+      - 2222:22/tcp
+    networks:
+      front:
+        ipv4_address: 172.16.2.101
+
+  clusir-ehc-web-2:
+    build: ./web
+    env_file:
+      - .env
+    cap_add:
+      - SYS_TIME
+      - SYS_NICE
+    ports:
+      - 80:80
+    depends_on:
+      - clusir-ehc-db-2
+    volumes:
+      - ./web/src:/app/server:ro
+    networks:
+      front:
+        ipv4_address: 172.16.2.100
+
+  clusir-ehc-db-2:
+    image: mysql:5.7
+    env_file:
+      - .env
+    ports:
+      - 3306:3306
+    volumes: 
+     - ./database:/var/lib/mysql
+    networks:
+      front:
+        ipv4_address: 172.16.2.102
+
+networks:
+  front:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.16.2.0/24
+          gateway: 172.16.2.254
