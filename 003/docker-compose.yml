@@ -1,0 +1,30 @@
+version: '2'
+services: 
+  web:
+    build: 
+      context: .
+      dockerfile: Web.Dockerfile
+    ports:
+      - 80:80
+    networks:
+      front:
+        ipv4_address: 172.31.254.100
+
+  back:
+    build: 
+      context: .
+      dockerfile: Back.Dockerfile
+    ports:
+      - 2222:22/tcp
+    networks:
+      front:
+        ipv4_address: 172.31.254.200
+    
+networks:
+  front:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.31.254.0/24
+          gateway: 172.31.254.254

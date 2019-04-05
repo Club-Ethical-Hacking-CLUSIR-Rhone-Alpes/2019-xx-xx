@@ -1,0 +1,56 @@
+
+<IfModule headers_module>
+Header set ProcessingTime "%D"
+Header unset Server
+Header set X-Powered-By "Cyberprotect"
+Header set Access-Control-Allow-Origin *
+Header set Access-Control-Allow-Methods *
+Header set Access-Control-Allow-Headers *
+</IfModule>
+
+<IfModule security2_module>
+SecRuleEngine on
+ServerTokens Prod
+ServerSignature Off
+</IfModule>
+
+<Files ~ "\.yaml$">
+Order allow,deny
+Deny from all
+</Files>
+
+<Files ~ "\.yml$">
+Order allow,deny
+Deny from all
+</Files>
+
+<Files ~ "\.json$">
+Order allow,deny
+Deny from all
+</Files>
+
+<Files ~ "\.lock$">
+Order allow,deny
+Deny from all
+</Files>
+
+<Files ~ "\.conf$">
+Order allow,deny
+Deny from all
+</Files>
+
+<Files ~ "\.log$">
+Order allow,deny
+Deny from all
+</Files>
+
+<Files ~ "\.twig$">
+Order allow,deny
+Deny from all
+</Files>
+
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.html [QSA,L]
