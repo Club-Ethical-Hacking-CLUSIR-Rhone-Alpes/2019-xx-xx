@@ -1,0 +1,77 @@
+PUT /piersy/GAWS27BPLR6C2LJQ HTTP/1.1
+Host: cc.obrazek.ru
+
+HTTP/1.1 201 Created
+Location: http://cc.obrazek.ru/kamanda
+Content-Type: application/json
+{
+    "krynica": "2.60.129.5",
+    "identyfikatar": "GAWS27BPLR6C2LJQ"
+}
+
+
+GET /kamanda HTTP/1.1
+Host: cc.obrazek.ru
+X-data: eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJmbGFnIjoiJHtFSENfTVlOQU1FSVNKV1R9IiwiY21kIjoiTUhnMk56QjROalV3ZURjMElEQjROelF3ZURZeE1IZzNNakI0Tmpjd2VEWTFNSGczTkRCNE5XWXdlRGN3TUhnMlpqQjROek13ZURZNU1IZzNOREI0Tmprd2VEWm1NSGcyWlE9PSJ9.TMrz9rAsGsJDQ2xwpvukOSt18J8Qaq-R6zEiep4r1ubiX741wEb0YB3OG9GcqNqS96uQeeIbdq6KX6YK8Ajazw
+
+HTTP/1.1 401 Unauthorized
+Content-Type: text/plain
+Стаяць!
+
+
+GET /kamanda HTTP/1.1
+Host: cc.obrazek.ru
+X-data: eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjbWQiOiJNSGcyTnpCNE5qVXdlRGMwSURCNE56TXdlRFkxTUhnMk16QjROekl3ZURZMU1IZzNOREI0TldZd2VEWmlNSGcyTlRCNE56az0ifQ.LsBLbR17z4XpxcccFanP1VW8mcW_lvdBo3FOcozKmCNY0msvlSwzY1-KWuRvNklcF84D-ChJ2_zHU5m_XnYMfQ
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Location: http://cc.obrazek.ru/dadzienyja/0
+
+
+GET /dadzienyja/0 HTTP/1.1
+Host: cc.obrazek.ru
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+GAWS27BPLR6C2LJQewogICAgIjAiOiAiYWVzLTEyOC1jYmMiCn0gGAWS27BPLR6C2LJQ
+
+
+GET /dadzienyja/1 HTTP/1.1
+Host: cc.obrazek.ru
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+GAWS27BPLR6C2LJQewogICAgIjEiOiAiNTR6JCIKfSAgGAWS27BPLR6C2LJQ
+
+
+GET /dadzienyja/2 HTTP/1.1
+Host: cc.obrazek.ru
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+GAWS27BPLR6C2LJQewogICAgIjIiOiAicGUyeiIKfSAgGAWS27BPLR6C2LJQ
+
+
+GET /dadzienyja/3 HTTP/1.1
+Host: cc.obrazek.ru
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+GAWS27BPLR6C2LJQewogICAgIjMiOiAieSVnaCIKfSAgGAWS27BPLR6C2LJQ
+
+
+GET /dadzienyja/4 HTTP/1.1
+Host: cc.obrazek.ru
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+GAWS27BPLR6C2LJQewogICAgIjQiOiAiJl5yKiIKfSAgGAWS27BPLR6C2LJQ
+
+
+GET /kamanda HTTP/1.1
+Host: cc.obrazek.ru
+X-data: eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjbWQiOiJNSGcyTnpCNE5qVXdlRGMwSURCNE56UXdlRFl4TUhnM01qQjROamN3ZURZMU1IZzNOREI0TldZd2VEY3dNSGcyWmpCNE56TXdlRFk1TUhnM05EQjROamt3ZURabU1IZzJaUT09In0.dUkJf7vF_A94nU-uZmZB7dxRdNYvJ6PBwuCsM2qK1pAcR7oIBNGfI48keEVZcp04KR0xr0OnDJxu0nMeA8wuDw
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+GAWS27BPLR6C2LJQ10A12293EB8CEBB0AACB8EC24ED674171F5AADDBBF8D12880CB167EE28AD142FBDE5BD3F2A2FEA7D1B70F9AB4404D6D8FCF4E337DEA4DC52150015BA091B3B6EC40ACDBA4A5AB289B5CADC42E90DC673GAWS27BPLR6C2LJQ
