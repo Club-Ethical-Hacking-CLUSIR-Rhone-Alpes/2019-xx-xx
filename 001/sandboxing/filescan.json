@@ -1,0 +1,51 @@
+{
+  "category": "CLEAN", 
+  "rating": 2, 
+  "rating_mlp": 2, 
+  "objects": {
+    "1": {
+      "size": 439808, 
+      "ftype": 33554944, 
+      "sha1": "069089c8c5d61b646f1cdb8ecb26b28b2a181dd4", 
+      "score": 2, 
+      "meta": {
+        "date": "0x545B73FD [Thu Nov  6 13:13:33 2014 UTC]", 
+        "icon": "a64326d2b4fb9e45a7cd979da88ad340.ico", 
+        "packers": [
+          "Microsoft Visual C++ v8.0"
+        ], 
+        "language": [
+          "LANG_ENGLISH"
+        ], 
+        "version_info": [
+          {
+            "InternalName": "Spreadthrow", 
+            "CompanyName": "Axiom EPM Minute", 
+            "LegalTrademarks": "Spreadthrow", 
+            "ProductName": "Spreadthrow", 
+            "ProductVersion": "9.4.40.20", 
+            "FileDescription": "Spreadthrow", 
+            "Translation": "0x0409 0x04b0", 
+            "OriginalFilename": "scaleopen.exe"
+          }
+        ]
+      }, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/4184533593578543520", 
+      "sha256": "97f149f146b0ec63c32abff204ae27638f0310536172b0f718f1a91a5672fe71", 
+      "id": 1, 
+      "md5": "0d7a18ff70d35c8ae1806363ccd862d9"
+    }
+  }, 
+  "version": "300", 
+  "root": {
+    "static": [
+      1
+    ]
+  }, 
+  "options": {
+    "debug": false, 
+    "webfilter": true, 
+    "antivirus": false
+  }, 
+  "revision": 430094
+}

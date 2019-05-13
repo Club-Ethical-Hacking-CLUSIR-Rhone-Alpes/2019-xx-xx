@@ -1,0 +1,5885 @@
+**beging address(0x10000:0x10000)**
+\\?\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{78032B7E-4968-42D3-9F37-287EA86C0AAA}
+----------------------------------------------------------
+**beging address(0x20000:0x1000)**
+!This program cannot be run in DOS mode.
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Host Process for Windows Services
+FileVersion
+6.1.7600.16385 (win7_rtm.090713-1255)
+InternalName
+svchost.exe
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+svchost.exe.mui
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+6.1.7600.16385
+VarFileInfo
+Translation
+PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+**beging address(0x30000:0x4000)**
+C:\Windows\WinSxs\
+Microsoft.Windows.SystemCompatible
+Microsoft.Windows.SystemCompatible,processorArchitecture="amd64",publicKeyToken="6595b64144ccf1df",type="win32",version="6.0.7600.16385"System Default Context
+amd64_microsoft.windows.systemcompatible_6595b64144ccf1df_6.0.7600.16385_none_020095e6d39a70fd
+Microsoft.Windows.IsolationAutomation
+Microsoft.Windows.IsolationAutomation,processorArchitecture="amd64",publicKeyToken="6595b64144ccf1df",type="win32",version="1.0.0.0"C:\Windows\WinSxS\manifests\amd64_microsoft.windows.isolationautomation_6595b64144ccf1df_1.0.0.0_none_ee2620cf57bc84de.manifest
+amd64_microsoft.windows.isolationautomation_6595b64144ccf1df_1.0.0.0_none_ee2620cf57bc84de
+Microsoft.Windows.GdiPlus
+Microsoft.Windows.GdiPlus,processorArchitecture="amd64",publicKeyToken="6595b64144ccf1df",type="win32",version="1.1.7601.17514"C:\Windows\WinSxS\manifests\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a.manifest
+amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+Microsoft.Windows.Common-Controls
+Microsoft.Windows.Common-Controls,processorArchitecture="amd64",publicKeyToken="6595b64144ccf1df",type="win32",version="5.82.7601.17514"C:\Windows\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_a4d6a923711520a9.manifest
+amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_a4d6a923711520a9
+Microsoft.Windows.IsolationAutomation.ProxyStub
+Microsoft.Windows.IsolationAutomation.ProxyStub,processorArchitecture="amd64",publicKeyToken="6595b64144ccf1df",type="win32",version="1.0.7600.16385"C:\Windows\WinSxS\manifests\amd64_microsoft.windows.i..utomation.proxystub_6595b64144ccf1df_1.0.7600.16385_none_556753b6a456f932.manifest
+amd64_microsoft.windows.i..utomation.proxystub_6595b64144ccf1df_1.0.7600.16385_none_556753b6a456f932
+Microsoft.Windows.Common-Controls.Resources
+Microsoft.Windows.Common-Controls.Resources,language="en-us",processorArchitecture="amd64",publicKeyToken="6595b64144ccf1df",type="win32",version="5.82.7600.16385"C:\Windows\WinSxS\manifests\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_5.82.7600.16385_en-us_ba5641d1849f93bc.manifest
+amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_5.82.7600.16385_en-us_ba5641d1849f93bc
+sxsoa.dll
+C:\Windows\system32\sxsoa.dll
+GdiPlus.dll
+C:\Windows\system32\GdiPlus.dll
+comctl32.dll
+C:\Windows\system32\comctl32.dll
+sxsoaps.dll
+C:\Windows\system32\sxsoaps.dll
+sxsoaps.tlb
+C:\Windows\system32\sxsoaps.tlb
+comctl32.dll.mui
+C:\Windows\system32\comctl32.dll.mui
+ToolbarWindow32
+ToolbarWindow32
+comctl32.dll
+ComboBoxEx32
+ComboBoxEx32
+comctl32.dll
+msctls_trackbar32
+msctls_trackbar32
+comctl32.dll
+msctls_updown32
+msctls_updown32
+comctl32.dll
+msctls_progress32
+msctls_progress32
+comctl32.dll
+msctls_hotkey32
+msctls_hotkey32
+comctl32.dll
+msctls_statusbar32
+msctls_statusbar32
+comctl32.dll
+SysHeader32
+SysHeader32
+comctl32.dll
+SysListView32
+SysListView32
+comctl32.dll
+SysTreeView32
+SysTreeView32
+comctl32.dll
+SysTabControl32
+SysTabControl32
+comctl32.dll
+SysIPAddress32
+SysIPAddress32
+comctl32.dll
+SysPager
+SysPager
+comctl32.dll
+NativeFontCtl
+NativeFontCtl
+comctl32.dll
+comctl32.dll
+comctl32.dll
+comctl32.dll
+ScrollBar
+ScrollBar
+comctl32.dll
+tooltips_class32
+tooltips_class32
+comctl32.dll
+ButtonListBox
+ButtonListBox
+comctl32.dll
+SysAnimate32
+SysAnimate32
+comctl32.dll
+SysMonthCal32
+SysMonthCal32
+comctl32.dll
+SysDateTimePick32
+SysDateTimePick32
+comctl32.dll
+ReBarWindow32
+ReBarWindow32
+comctl32.dll
+comctl32.dll
+Combobox
+Combobox
+comctl32.dll
+ComboLBox
+ComboLBox
+comctl32.dll
+sxsoaps.dll
+sxsoa.dll
+Microsoft.Windows.ActCtx.1
+Microsoft.Windows.ActCtx.1
+sxsoaps.tlb
+sxsoa.dll
+Microsoft.Windows.ActCtx.1
+Microsoft.Windows.ActCtx
+**beging address(0x40000:0x1000)**
+C:\Windows\system32\
+Microsoft.Windows.Services.SvcHost,processorArchitecture="amd64",type="win32",version="5.1.0.0"C:\Windows\system32\svchost.exe
+**beging address(0xc8000:0x8000)**
+\Registry\Machine\System\CurrentControlSet\Control\Nls\Sorting\Versions
+KERNELBASE.dll
+-DelayLoad-L1-1-0.dll
+\SYSTEM32\
+00060101
+ !"#$%&'()*+,-./01234567
+LMNOPQRSTUVW
+root\leg
+pkg\0000
+**beging address(0xd0000:0x1000)**
+**beging address(0xe0000:0x100000)**
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Windows\system32\config\systemprofile\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=00900BC83802
+ComSpec=C:\Windows\system32\cmd.exe
+FP_NO_HOST_CHECK=NO
+LOCALAPPDATA=C:\Windows\system32\config\systemprofile\AppData\Local
+NUMBER_OF_PROCESSORS=2
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Windows\TEMP
+TMP=C:\Windows\TEMP
+USERDOMAIN=WORKGROUP
+USERNAME=00900BC83802$
+USERPROFILE=C:\Windows\system32\config\systemprofile
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+C:\Windows\system32\
+C:\Windows\system32;C:\Windows\system32;C:\Windows\system;C:\Windows;.;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+C:\Windows\system32\svchost.exe
+C:\Windows\system32\svchost.exe -k DcomLaunch
+C:\Windows\system32\svchost.exe
+C:\Windows\SYSTEM32\ntdll.dll
+C:\Windows\system32
+teC:\Windows\system32\
+C:\Windows\system32\kernel32.dll
+C:\Windows\system32\KERNELBASE.dll
+\Windows\ApiPortection
+C:\Windows\system32\svchost.exe -k DcomLaunch
+C:\Windows\system32;C:\Windows\system;C:\Windows;
+C:\Windows\system32\msvcrt.dll
+C:\Windows\system32\RPCRT4.dll
+C:\Windows\SYSTEM32\sechost.dll
+! #!%"'#)$+%-&/'1(3)5*7+9,;-=.?/A0E1I2M3Q4U5Y6]7a8e9i:m;q<u=y>}?
+00900BC83802
+00900BC83802
+x?#7ceN{
+WYyB4Qk/7
+PlugPlay
+DcomLaunch
+C:\Windows\system32\LPK.dll
+C:\Windows\system32\DRIVERS
+\Device\HarddiskVolume2\Windows\System32\svchost.exe
+C:\Windows\system32;C:\Windows\system32;C:\Windows\system;C:\Windows;.;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+qqqqqqqqqqqqqqqq
+c:\windows\system32\umpnpmgr.dll
+C:\Windows
+C:\Windows
+Microsoft
+C:\Windows
+C:\Windows
+C:\Windows
+ncacn_np
+plugplay
+epmapper
+S543232A8A384_________________ES2OA60W\5&394C0AD3&0&0.0.0
+0-94f2-00a0c91efb8b}
+c:\windows\system32\umpnpmgr.dll
+{4d36e972-e325-11ce-bfc1-08002be10318}\0014
+5AD&REV_02\3&267A616A&0&88
+c04fc3358c}\{78032B7E-4968-42D3-9F37-287EA86C0AAA}
+00000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F3900000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+V_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eMicInWave
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eSpeakerTopo
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eSpeakerWave
+C:\Windows\INF
+C:\Windows\LastGood
+C:\Windows\system32
+C:\Windows\INF
+C:\Windows\system32\GDI32.dll
+c:\windows\system32\SPINF.dll
+C:\Windows\system32\USER32.dll
+C:\Windows\INF
+C:\Windows\SYSTEM
+C:\Windows\system32
+C:\Windows\INF
+C:\Windows\system32\USP10.dll
+C:\Windows\system32\MSCTF.dll
+52C64B7E
+C:\Windows\system32\IMM32.DLL
+c:\windows\system32\DEVRTL.dll
+ncacn_np
+\\00900BC83802
+00900BC83802
+sr-Latn-CS
+qps-ploc
+qps-plocm
+C:\Windows\system32\RpcRtRemote.dll
+C:\Windows\system32\profapi.dll
+C:\Windows\system32\GPAPI.dll
+C:\Windows\system32\USERENV.dll
+C:\Windows\system32\WINSTA.dll
+C:\Windows\system32\CRYPTBASE.dll
+C:\Windows\system32\ADVAPI32.dll
+c:\windows\system32\umpo.dll
+C:\Windows\system32\SETUPAPI.dll
+C:\Windows\system32\CFGMGR32.dll
+C:\Windows\system32\OLEAUT32.dll
+C:\Windows\system32\ole32.dll
+C:\Windows\system32\DEVOBJ.dll
+c:\windows\system32\pcwum.DLL
+C:\Windows\system32\svchost.exe
+C:\Windows\System32\DriverStore
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+C:\Windows\system32\ntmarta.dll
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+Security=Impersonation Dynamic True
+c:\windows\system32\rpcss.dll
+c:\windows\system32\SspiCli.dll
+C:\Windows\System32\DriverStore\infpub.dat
+ofileAssociationProviderCimV2
+__InstanceProviderRegistration
+InteractionType
+PushVerify
+ref:__Provider
+QuerySupportLevels
+ValueMap
+WQL:UnarySelect
+WQL:References
+WQL:Associators
+WQL:V1ProviderDefined
+SupportsBatching
+SupportsDelete
+SupportsEnumeration
+SupportsGet
+SupportsPut
+SupportsTransactions
+__InstanceProviderRegistration
+\\.\root\cimv2\power:__Win32Provider.Name="ProfileAssociationProviderCimV2"
+PerLocaleInitialization
+PerUserInitialization
+SecurityDescriptor
+SupportsExplicitShutdown
+SupportsExtendedStatus
+SupportsQuotas
+SupportsSendStatus
+SupportsShutdown
+SupportsThrottling
+UnloadTimeout
+datetime
+interval
+__Win32Provider
+Decoupled:Com:FoldIdentity(FALSE)
+ProfileAssociationProviderCimV2
+\pipe\plugplay
+\\.\pipe\plugplay
+m32\RpcRtRem
+netprofm
+netprofm
+UmpoMain
+C:\Windows
+C:\Windows
+C:\Windows
+C:\Windows
+C:\Windows
+C:\Windows\system32\DllHost.exe /Processid:{E10F6C3A-F1AE-4ADC-AA9D-2FE65525666E}
+CryptDllConvertPublicKeyInfo
+CryptDllExportPublicKeyInfoEx2
+c:\windows\system32\rpcss.dll
+c:\windows\system32\umpo.dll
+CryptDllExportPublicKeyInfoEx
+c:[TermSrv
+CryptDllSignAndEncodeHash
+CryptSIPDllIsMyFileType2
+CryptDllImportPublicKeyInfoEx2
+CryptSIPDllRemoveSignedDataMsg
+CryptDllEncodePublicKeyAndParameters
+CryptSIPDllCreateIndirectData
+CryptDllVerifyEncodedSignature
+CertDllOpenSystemStoreProv
+CryptSIPDllVerifyIndirectData
+CryptDllImportPublicKeyInfoEx
+CryptSIPDllGetSignedDataMsg
+CryptSIPDllPutSignedDataMsg
+CertDllRegisterSystemStore
+CertDllUnregisterSystemStore
+CertDllRegisterPhysicalStore
+CertDllUnregisterPhysicalStore
+CertDllEnumPhysicalStore
+CryptDllExportPrivateKeyInfoEx
+CryptDllImportPrivateKeyInfoEx
+CertDllVerifyCertificateChainPolicy
+CryptMsgDllCNGGenContentEncryptKey
+CryptMsgDllCNGExportKeyTrans
+CryptMsgDllCNGExportKeyAgree
+CryptMsgDllCNGImportKeyTrans
+C:\Windows\System32\DriverStore\infstor.dat
+C:\Windows\System32\DriverStore\infstrng.dat
+C:\Windows\System32\DriverStore\drvindex.dat
+C:\Windows\System32\DriverStore\FileRepository
+Microsoft Unified Security Protocol Provider
+CryptSIPDllIsMyFileType
+CertDllVerifyRevocation
+CertDllVerifyCTLUsage
+CryptDllFormatObject
+CertDllEnumSystemStore
+CertDllOpenStoreProv
+CryptCNGPKCS12GetMap
+CryptCNGInitHMAC
+CryptDllEncodeObject
+CryptDllDecodeObject
+CryptDllEncodeObjectEx
+CryptDllDecodeObjectEx
+qqqqqqqqqqqqqqqq
+cpi_hal\
+\blbdrive\0000
+qqqqqqqqqqqqqqqq
+/sapolicylookup
+sapolicylookup
+deviceobjectidentifier
+objecttype
+sessionid
+classguid
+basecontainerid
+ovrrdcontainerid
+propsetmask
+propexsmask
+acpi\acpi0003\0
+acpi\fixedbutton\2&daba3ff&2
+acpi\genuineintel_-_intel64_family_6_model_42_-_________intel(r)_core(tm)_i5-2400_cpu_@_3.10ghz\_0
+acpi\genuineintel_-_intel64_family_6_model_60_-_intel(r)_core(tm)_i5-4590_cpu_@_3.30ghz\_0
+acpi\genuineintel_-_intel64_family_6_model_79_-_intel(r)_xeon(r)_cpu_e5-2650_v4_@_2.20ghz\_0
+acpi\genuineintel_-_intel64_family_6_model_79_-_intel(r)_xeon(r)_cpu_e5-2650_v4_@_2.20ghz\_1
+acpi\pnp0000\4&1d401fb5&0
+acpi\pnp0100\4&1d401fb5&0
+acpi\pnp0200\4&1d401fb5&0
+acpi\pnp0303\4&1d401fb5&0
+acpi\pnp0a03\0
+acpi\pnp0f03\4&1d401fb5&0
+acpi_hal\pnp0c08\0
+display\default_monitor\4&2abfaa30&0&12345678&00&02
+hdaudio\func_01&ven_8384&dev_7680&subsys_83847680&rev_1034\4&31e60982&0&0001
+hid\vid_80ee&pid_0010\6&7870a5a&0&0000
+hid\vid_80ee&pid_0021\6&2152eeac&0&0000
+htree\root\0
+ide\cdromvbox_cd-rom_____________________________1.0_____\5&394c0ad3&0&0.1.0
+ide\diskhitachi_hts543232a8a384_________________es2oa60w\5&394c0ad3&0&0.0.0
+ide\diskvbox_harddisk___________________________1.0_____\5&394c0ad3&0&0.0.0
+pci\ven_106b&dev_003f&subsys_00000000&rev_00\3&267a616a&0&30
+pci\ven_8086&dev_100e&subsys_001e8086&rev_02\3&267a616a&0&48
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&40
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&88
+pci\ven_8086&dev_1237&subsys_00000000&rev_02\3&267a616a&0&00
+pci\ven_8086&dev_2668&subsys_76808384&rev_01\3&267a616a&0&28
+pci\ven_8086&dev_7000&subsys_00000000&rev_00\3&267a616a&0&08
+pci\ven_8086&dev_7111&subsys_00000000&rev_01\3&267a616a&0&09
+pci\ven_80ee&dev_beef&subsys_00000000&rev_00\3&267a616a&0&10
+pci\ven_80ee&dev_cafe&subsys_00000000&rev_00\3&267a616a&0&20
+pciide\idechannel\4&2f42c713&0&0
+pciide\idechannel\4&2f42c713&0&1
+root\*isatap\0000
+root\*isatap\0001
+root\*isatap\0002
+root\*teredo\0000
+root\acpi_hal\0000
+root\blbdrive\0000
+root\compositebus\0000
+root\composite_battery\0000
+root\legacy_afd\0000
+root\legacy_ansfltr\0000
+root\legacy_beep\0000
+root\legacy_bowser\0000
+root\legacy_cdfs\0000
+root\legacy_clfs\0000
+root\legacy_cng\0000
+root\legacy_csc\0000
+root\legacy_dfsc\0000
+root\legacy_discache\0000
+root\legacy_fileinfo\0000
+root\legacy_fltmgr\0000
+root\legacy_fs_rec\0000
+root\legacy_fvevol\0000
+root\legacy_http\0000
+root\legacy_hwpolicy\0000
+root\legacy_ksecdd\0000
+root\legacy_ksecpkg\0000
+root\legacy_lltdio\0000
+root\legacy_luafv\0000
+root\legacy_mountmgr\0000
+root\legacy_mpsdrv\0000
+root\legacy_mrxsmb\0000
+root\legacy_mrxsmb10\0000
+root\legacy_mrxsmb20\0000
+root\legacy_msfs\0000
+root\legacy_msisadrv\0000
+root\legacy_mup\0000
+root\legacy_ndis\0000
+root\legacy_ndproxy\0000
+root\legacy_netbios\0000
+root\legacy_netbt\0000
+root\legacy_npfs\0000
+root\legacy_nsiproxy\0000
+root\legacy_ntfs\0000
+root\legacy_null\0000
+root\legacy_pcw\0000
+root\legacy_peauth\0000
+root\legacy_psched\0000
+root\legacy_rdbss\0000
+root\legacy_rdpcdd\0000
+root\legacy_rdpencdd\0000
+root\legacy_rdprefmp\0000
+root\legacy_rspndr\0000
+root\legacy_secdrv\0000
+root\legacy_spldr\0000
+root\legacy_srv\0000
+root\legacy_srv2\0000
+root\legacy_srvnet\0000
+root\legacy_storflt\0000
+root\legacy_tcpip\0000
+root\legacy_tcpipreg\0000
+root\legacy_tdx\0000
+root\legacy_udfs\0000
+root\legacy_vgasave\0000
+root\legacy_volmgrx\0000
+root\legacy_volsnap\0000
+root\legacy_wanarpv6\0000
+root\legacy_wdf01000\0000
+root\legacy_wfplwf\0000
+root\mssmbios\0000
+root\ms_agilevpnminiport\0000
+root\ms_l2tpminiport\0000
+root\ms_ndiswanbh\0000
+root\ms_ndiswanip\0000
+root\ms_ndiswanipv6\0000
+root\ms_pppoeminiport\0000
+root\ms_pptpminiport\0000
+root\ms_sstpminiport\0000
+root\rdpbus\0000
+root\rdp_kbd\0000
+root\rdp_mou\0000
+root\system\0000
+root\umbus\0000
+root\vdrvroot\0000
+root\volmgr\0000
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#0000000000100000
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#0000000006500000
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#0000000006600000
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#00000004f3800000
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#00000004f3900000
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#00000004f9b00000
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#00000004f9c00000
+storage\volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000000100000
+storage\volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000
+storage\volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004f3900000
+storage\volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004f9c00000
+storage\volumesnapshot\harddiskvolumesnapshot1
+sw\{96e080c7-143c-11d1-b40f-00a0c9223196}\{3c0d501a-140b-11d1-b40f-00a0c9223196}
+sw\{97ebaacc-95bd-11d0-a3ea-00a0c9223196}\{53172480-4791-11d0-a5d6-28db04c10000}
+sw\{cfd669f1-9bc2-11d0-8299-0000f822fe8a}\{0a4252a0-7e70-11d0-a5d6-28db04c10000}
+sw\{cfd669f1-9bc2-11d0-8299-0000f822fe8a}\{cf1dda2c-9743-11d0-a3ee-00a0c9223196}
+sw\{ddf4358e-bb2c-11d0-a42f-00a0c9223196}\{97ebaacb-95bd-11d0-a3ea-00a0c9223196}
+sw\{eeab7790-c514-11d1-b42b-00805fc1270e}\asyncmac
+sw\{eec12db6-ad9c-4168-8658-b03daef417fe}\{abd61e00-9350-47e2-a632-4438b90c6641}
+umb\umb\1&841921d&0&printerbusenumerator
+usb\root_hub\4&24d6eb65&0
+usb\vid_80ee&pid_0010\5&18f54cb7&0&1
+usb\vid_80ee&pid_0021\5&18f54cb7&0&2
+PCI\VEN_8086&DEV_100F&SUBSYS_075015AD&REV_02\3&267A616A&0&88
+-8dcb-00c04fc3358c}\{78032B7E-4968-42D3-9F37-287EA86C0AAA}
+stem32\Wbem;
+{aded5e82-b909-4619-9949-f5d71dac0bcb}
+C:\Windows\system32\ReinstallBackups
+Insufficient memory
+C:\Windows\system32\svchost.exe
+C:\Windows\inf
+00900BC83802
+IUserProfile2
+TS Service Security Package
+HTREE\ROOT\0
+RBUSENUMERATOR
+DeviceGroup
+_8086&DEV_100F&CC_0200
+9-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F3900000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+POWRPROF.DLL
+POWRPROF.DLL
+POWRPROF.DLL
+POWRPROF.DLL
+POWRPROF.DLL
+POWRPROF.DLL
+POWRPROF.DLL
+POWRPROF.DLL
+POWRPROF.DLL
+POWRPROF.DLL
+POWRPROF.DLL
+cryptsp.dll
+{17aaa29b-8b43-4b94-aafe-35f64daaf1ee}
+dows\system32\
+WRPROF.DLL
+dows\system32\
+WRPROF.DLL
+dows\system32\
+WRPROF.DLL
+dows\system32\
+WRPROF.DLL
+dows\system32\
+WRPROF.DLL
+dows\system32\
+WRPROF.DLL
+dows\system32\
+WRPROF.DLL
+dows\system32\
+WRPROF.DLL
+SuppressDuplicateDuration
+Microsoft Kerberos V1.0
+NTLM Security Package
+Schannel Security Package
+Microsoft Unified Security Protocol Provider
+Schannel Security Package
+TS Service Security Package
+PKU2U Security Package
+OFILE=C:\Progr
+FP_NO_HOST_CHECK=NO
+.VBS;.VB
+CESSOR_IDENTIFIER=
+NAME=SYS
+OFILE=C:\Progr
+FP_NO_HOST_CHECK=NO
+.VBS;.VB
+CESSOR_ARCHITEC
+CESSOR_IDENTIFIER=
+Root=C:\Wind
+NAME=SYS
+HID\VID_80EE&PID_0021&REV_0100
+HID\VID_80EE&PID_0021
+HID_DEVICE_SYSTEM_MOUSE
+HID_DEVICE_UP:0001_U:0002
+HID_DEVICE
+{f1fbfde2-a960-4165-9f88-50667911ce96}
+{aded5e82-b909-4619-9949-f5d71dac0bcb}
+ Securit
+indows\system32\SspiCli.dll
+Software\Microsoft\Ole\EventLog
+Microsoft Package Negotiator
+NegoExtender Security Package
+C:\Windows\system32\negoexts.DLL
+C:\Windows\system32\kerberos.DLL
+C:\Windows\system32\msv1_0.DLL
+C:\Windows\system32\schannel.DLL
+Digest Authentication for Windows
+C:\Windows\system32\wdigest.DLL
+C:\Windows\system32\tspkg.DLL
+C:\Windows\system32\pku2u.DLL
+C:\Windows\system32\credssp.dll
+C:\Windows\system32\credssp.dll
+Microsoft CredSSP Security Provider
+NT AUTHORITY\NETWORK SERVICE
+C:\Windows\system32\CLBCatQ.DLL
+User Profile Service DCOM server
+SHACCT Profile Notification Handler
+rpcss.dll
+cryptsp.dll
+SystemFunction035
+Negotiate
+Negotiate
+lsasspirpc
+lsasspirpc
+NegoExtender
+Kerberos
+Kerberos
+Microsoft Kerberos V1.0
+NTLM Security Package
+Schannel
+Schannel
+PKU2U Security Package
+actkernel
+Negotiate
+Kerberos
+Schannel
+plugplay
+epmapper
+:\Program Files (x86)\Internet Explorer;
+C:\Windows\sysWOW64\wbem\wmiprvse.exe
+Windows Management and Instrumentation
+C:\Windows\system32\wbem\wmidcprv.dll
+C:\Windows\system32\wbem\wmidcprv.dll
+C:\Windows\system32\wbem\FastProx.dll
+C:\Windows\system32\wbem\wmidcprv.dll
+C:\Windows\system32\wbem\wbemprox.dll
+C:\Windows\system32\wbem\wbemprox.dll
+C:\Windows\system32\wbem\wbemprox.dll
+Windows Management and Instrumentation
+Security=Impersonation Dynamic False
+C:\Windows\system32\wbem\wbemsvc.dll
+C:\Windows\system32\wbem\wbemsvc.dll
+C:\Windows\system32\wbem\wbemsvc.dll
+C:\Windows\system32\wbem\fastprox.dll
+Microsoft Package Negotiator
+NegoExtender
+NegoExtender Security Package
+Schannel Security Package
+Schannel Security Package
+Digest Authentication for Windows
+NegoExtender
+IUserProfile2
+IUserProfile2
+00900BC83802
+Offline Files Service
+Profile Notification Host
+epmapper
+epmapper
+EventSystem
+CscService
+CscService
+plugplay
+epmapper
+plugplay
+epmapper
+epmapper
+epmapper
+qqqqqqqqqqqqqqqq
+audiofun
+{0.0.1.00000000}.{2ef88749-b2bb-4e45-af6e-cf9f895bbb9f}/00010000
+ric.devi
+nf,%hdau
+nf,%hdau
+nf,%hdau
+nf,%hdau
+nf,%hdau
+nf,%hdau
+-+ncalrpc:[OLE3E1267ECD3CB40E381C4E6B44B07]
+ProfileAssociationProviderInterop
+e="PowerPolicyProvider"}
+00900BC83802
+192.168.56.33
+192.168.57.33
+00900BC83802
+192.168.56.33
+192.168.57.33
+Services
+NT AUTHORITY
+C:\Windows\system32;.;C:\Windows\system32;C:\Windows\system;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+UTHORITY\SYSTEM
+root\ms_ndiswanip\0000
+root\ms_ndiswanipv6\0000
+root\ms_pppoeminiport\0000
+root\ms_pptpminiport\0000
+root\ms_sstpminiport\0000
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&40
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&88
+root\*isatap\0000
+root\*isatap\0001
+root\*isatap\0002
+root\*teredo\0000
+s_075015ad&rev_02\3&267a616a&0&88
+root\*isatap\0000
+root\*isatap\0001
+root\*isatap\0002
+root\*teredo\0000
+qqqqqqqqqqqqqqqqd
+0-a3cc-00a0c9223196}\eMicInWave
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eSpeakerTopo
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eSpeakerWave
+ShellHWDetection
+IIS W3 Control
+ShellHWDetection
+CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}
+CLSID\{56EA1054-1959-467F-BE3B-A2A787C4B6EA}
+C:\Windows\system32\DllHost.exe
+C:\Windows\system32\apphelp.dll
+C:\Windows\system32\WINTRUST.dll
+Security=Impersonation Dynamic True
+C:\Windows\system32\CRYPT32.dll
+C:\Windows\system32\MSASN1.dll
+1.2.840.113549.1.1.1
+1.2.840.10040.4.1
+1.2.840.10046.2.1
+1.2.840.113549.1.3.1
+1.2.840.113549.1.1.1
+1.2.840.10040.4.1
+0.9.2342.19200300.100.1.25
+1.2.840.113549.1.9.20
+1.2.840.113549.1.9.21
+1.3.6.1.4.1.311.10.2
+1.3.6.1.4.1.311.2.1.27
+1.2.840.113549.1.9.15
+1.3.6.1.5.5.7.1.1
+1.3.6.1.5.5.7.1.11
+1.3.6.1.4.1.311.20.2
+1.3.6.1.4.1.311.13.2.3
+2.16.840.1.113730.1.1
+2.16.840.1.113730.1.2
+2.16.840.1.113730.1.3
+2.16.840.1.113730.1.4
+2.16.840.1.113730.1.7
+2.16.840.1.113730.1.8
+2.16.840.1.113730.1.12
+2.16.840.1.113730.1.13
+1.3.6.1.4.1.311.13.2.1
+1.3.6.1.4.1.311.21.1
+1.3.6.1.4.1.311.2.1.10
+1.3.6.1.4.1.311.21.3
+1.3.6.1.4.1.311.21.4
+1.3.6.1.4.1.311.21.2
+1.3.6.1.4.1.311.21.10
+1.3.6.1.4.1.311.21.11
+1.3.6.1.4.1.311.21.12
+1.3.6.1.4.1.311.21.7
+1.3.6.1.4.1.311.21.14
+1.3.6.1.4.1.311.10.9.1
+1.2.840.113549.1.12.1.1
+1.2.840.113549.1.12.1.2
+1.2.840.113549.1.12.1.3
+1.2.840.113549.1.12.1.4
+E-4ADC-AA9D-
+CryptDllExtractEncodedSignatureParameters
+CryptDllExportPublicKeyInfoFromBCryptKeyHandle
+=9ncalrpc:[epmapper,Security=Impersonation Dynamic False]
+\CLSID\{56EA1054-1959-467F-BE3B-A2A787C4B6EA}
+B+ncalrpc:[OLEBD3136792B7D448E86BF5B8B2FBE]
+NT AUTHORITY\SYSTEM
+__Win32Provider.Name="ProfileAssociationProviderCimV2"
+ProfileAssociationProviderInterop
+e="PowerPolicyProvider"}
+ProfileAssociationProviderCimV2
+iationProviderInterop"
+Microsoft WBEM (non)Standard Marshaling for IEnumWbemClassObject
+{A47D28E8-DFE2-47F8-A2E7-0CE100F5E6BC}
+nProviderInterop"
+__InstanceProviderRegistration
+iationProviderCimV2"
+C:\Program Files (x86)\Internet Explorer\iexplore.exe" -Embedding
+37ea02f-bbcb-4015-8e2c-a1c7b9c0b546
+tel64 Family 6 Model 79 Steppi
+C:\Windo
+erShell\
+\Modules
+CLSID\{4CFC7932-0F9D-4BEF-9C32-8EA2A6B56FCB}
+netprofm
+NT AUTHORITY\SYSTEM
+52C64B7E
+2.5.29.7
+2.5.29.8
+2.5.29.17
+2.5.29.18
+2.5.29.1
+2.5.29.35
+2.5.29.14
+2.5.29.15
+2.5.29.2
+2.5.29.4
+2.5.29.31
+2.5.29.46
+2.5.29.32
+2.5.29.20
+2.5.29.27
+2.5.29.28
+2.5.29.30
+2.5.29.33
+2.5.29.36
+Serialized
+Collection
+SystemRegistry
+Physical
+1.3.14.3.2.26
+1.3.14.3.2.12
+1.3.14.3.2.12
+2.5.29.1
+2.5.29.2
+1.2.840.113549.1.12.1.5
+1.2.840.113549.1.12.1.6
+1.2.840.113549.1.1.1
+1.2.840.10040.4.1
+1.2.840.113549.1.1.1
+1.2.840.10040.4.1
+1.3.6.1.5.5.7.2.2
+1.3.6.1.5.5.7.1.1
+1.3.6.1.5.5.7.1.11
+1.3.6.1.4.1.311.2.1.14
+1.2.840.113549.1.9.14
+1.3.6.1.4.1.311.10.2
+1.3.6.1.4.1.311.10.1
+1.2.840.113549.3.2
+1.2.840.113549.1.9.15
+1.3.6.1.5.5.7.1.3
+1.2.840.113549.1.9.5
+1.3.6.1.4.1.311.13.2.1
+1.3.6.1.4.1.311.13.2.2
+1.3.6.1.4.1.311.10.9.1
+1.3.6.1.4.1.311.21.7
+1.3.6.1.5.5.7.48.1.1
+1.3.6.1.5.5.7.1.12
+1.3.6.1.5.5.7.1.2
+1.2.840.10045.4.3
+1.2.840.10045.2.1
+1.2.840.113549.1.1.10
+1.2.840.113549.1.1.7
+2.16.840.1.113733.1.7.1.1
+1.3.6.1.5.5.7.2.2
+1.3.6.1.5.5.7.1.1
+1.3.6.1.5.5.7.1.11
+1.3.6.1.4.1.311.10.11.85
+1.3.6.1.4.1.311.2.1.14
+1.2.840.113549.1.9.14
+1.3.6.1.4.1.311.10.2
+1.3.6.1.4.1.311.10.1
+1.2.840.113549.3.2
+1.2.840.113549.1.9.15
+1.3.6.1.5.5.7.1.3
+1.2.840.113549.1.9.5
+1.3.6.1.4.1.311.13.2.1
+1.3.6.1.4.1.311.13.2.2
+1.3.6.1.4.1.311.10.9.1
+1.3.6.1.4.1.311.21.7
+1.3.6.1.5.5.7.48.1.1
+1.3.6.1.5.5.7.1.12
+1.3.6.1.5.5.7.1.2
+2.5.29.4
+2.5.29.7
+2.5.29.8
+2.5.29.10
+2.5.29.15
+2.5.29.19
+2.5.29.32
+2.5.29.35
+2.5.29.14
+2.5.29.17
+2.5.29.18
+2.5.29.21
+2.5.29.31
+2.5.29.37
+2.5.29.20
+2.5.29.27
+2.5.29.28
+2.5.29.46
+2.5.29.30
+2.5.29.33
+2.5.29.5
+2.5.29.36
+2.5.29.54
+2.5.29.1
+2.5.29.2
+2.5.29.4
+2.5.29.7
+2.5.29.8
+2.5.29.10
+2.5.29.15
+2.5.29.19
+2.5.29.32
+2.5.29.3
+2.5.29.35
+2.5.29.14
+2.5.29.17
+2.5.29.18
+2.5.29.21
+2.5.29.31
+2.5.29.37
+2.5.29.20
+2.5.29.27
+2.5.29.28
+2.5.29.46
+2.5.29.30
+2.5.29.33
+2.5.29.5
+2.5.29.36
+2.5.29.54
+1.2.840.10045.4.3
+1.2.840.10045.2.1
+1.2.840.113549.1.1.10
+1.2.840.113549.1.1.7
+1.2.840.113549.3.7
+1.2.840.113549.3.2
+1.2.840.113549.3.4
+1.2.840.113549.1.1.1
+1.2.840.113549.3.7
+1.2.840.113549.3.2
+1.2.840.113549.3.4
+C:\Windows\system32\CatRoot\
+C:\Windows\system32\CatRoot2\
+C:\Windows\system32\WLDAP32.dll
+C:\Windows\system32\wbemcomn.dll
+C:\Windows\system32\NTDSAPI.dll
+c:[TermSrv
+C:\Windows\system32\CRYPTSP.dll
+C:\Windows\system32\WS2_32.dll
+OLE3E1267ECD3CB40E381C4E6B44B07
+calrpc:00900BC83802[plugplay]
+C:\Windows\system32\rsaenh.dll
+C:\Windows\system32\WTSAPI32.dll
+OLEBD3136792B7D448E86BF5B8B2FBE
+OLEBD3136792B7D448E86BF5B8B2FBE
+PowerMeterProvider
+__ClientPreferredLanguages
+root\cimv2\power
+1000+000
+PowerPolicyProvider
+PowerPolicyProvider
+root\cimv2\power
+1000+000
+root\cimv2\power
+0000+000
+20181122115020.171000+000
+20181122115020.390000+000
+Security=Impersonation Dynamic True
+CryptMsgDllCNGImportKeyAgree
+CryptMsgDllCNGImportContentEncryptKey
+CryptMsgDllGenEncryptKey
+CryptMsgDllExportEncryptKey
+CryptMsgDllImportEncryptKey
+CryptMsgDllGenContentEncryptKey
+CryptMsgDllExportKeyTrans
+CryptMsgDllExportKeyAgree
+CryptMsgDllExportMailList
+CryptMsgDllImportKeyTrans
+CryptMsgDllImportKeyAgree
+CryptMsgDllImportMailList
+Microsoft WMI Provider Subsystem Decoupled Registrar
+c:[TermSrv
+Microsoft WBEM (non)Standard Marshaling for IWbemServices
+Thumbnail Cache Class Factory for Out of Proc Server
+c:[TermSrv
+c:[TermSrv
+"C:\Program Files (x86)\Internet Explorer\iexplore.exe"
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+1.3.14.3.2.7
+1.3.14.3.2.7
+RPC Control\TermS
+RPC Control\TermS
+Service-0x0-3e7$\Default
+NT Authority\NetworkService
+NT Authority\NetworkService
+NT Authority\NetworkService
+NT Authority\NetworkService
+NT Authority\NetworkService
+NT Authority\NetworkService
+Negotiate
+NegoExtender
+0002DF01-0000-0000-C000-000000000046}
+{1F87137D-0E7C-44D5-8C73-4EFFB68962F2}
+CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+references of {__Win32Provider.Name="ProfileAssociationProviderCimV2"}
+\\?\HID#VID_80EE&PID_0010#6&7870a5a&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+__ClientPreferredLanguages
+__GroupOperationId
+02\3&267a616a&0&40
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&88
+root\*isatap\0000
+root\*isatap\0001
+root\*isatap\0002
+root\*teredo\0000
+PCI\VEN_8086&DEV_100F&SUBSYS_075015AD&REV_02\3&267A616A&0&88
+-8dcb-00c04fc3358c}\{78032B7E-4968-42D3-9F37-287EA86C0AAA}
+EV_02#3&267a616a&0&88#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{0C2A78A1-54AD-46AD-90A9-BEA7ADC7CFAD}
+\\?\Root#*ISATAP#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{02201606-37D0-4902-8A14-BFFD8280A5E0}
+\\?\Root#*ISATAP#0001#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{A07AB03A-0C1B-4E1E-A387-349502D78B54}
+\\?\Root#*ISATAP#0002#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{16146A5F-81EE-4FE0-B685-9404F1F49F1E}
+\\?\Root#*TEREDO#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{C38D7B32-243A-4F22-BD3A-03723E56D534}
+\\?\Root#MS_AGILEVPNMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{29898C9D-B0A4-4FEF-BDB6-57A562022CEE}
+\\?\Root#MS_L2TPMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{E43D242B-9EAB-4626-A952-46649FBB939A}
+\\?\Root#MS_NDISWANBH#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\NDISWANBH
+\\?\Root#MS_NDISWANIP#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\NDISWANIP
+\\?\Root#MS_NDISWANIPV6#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\NDISWANIPV6
+\\?\Root#MS_PPPOEMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{8E301A52-AFFA-4F49-B9CA-C79096A1A056}
+\\?\Root#MS_PPTPMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{DF4A9D2C-8742-4EB1-8703-D395C4183F33}
+\\?\Root#MS_SSTPMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{71F897D7-EB7C-4D8D-89DB-AC80D9DD2270}
+\\?\Root#SYSTEM#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{eeab7790-c514-11d1-b42b-00805fc1270e}&asyncmac
+11e7-acb9-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F3900000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+qqqqqqqqqqqqqqqqd
+0-a3cc-00a0c9223196}\eMicInWave
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eSpeakerTopo
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eSpeakerWave
+NT AUTHORITY
+\ms_ndiswanipv6\0000
+root\ms_pppoeminiport\0000
+root\ms_pptpminiport\0000
+root\ms_sstpminiport\0000
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&40
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&88
+root\*isatap\0000
+root\*isatap\0001
+root\*isatap\0002
+root\*teredo\0000
+s_075015ad&rev_02\3&267a616a&0&88
+root\*isatap\0000
+root\*isatap\0001
+root\*isatap\0002
+root\*teredo\0000
+qqqqqqqqqqqqqqqqi
+ndows\System32\WindowsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\ADMINI~1\AppData\Local\Temp
+TMP=C:\Users\ADMINI~1\AppData\Local\Temp
+USERDOMAIN=00900BC83802
+USERNAME=Administrator
+USERPROFILE=C:\Users\Administrator
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+WinSta0\Default
+ncalrpc:[O
+oft ISATAP Adapter
+10318}\0009
+qqqqqqqqqqqqqqqq
+ROOT\*TEREDO\0000
+_075015AD&REV_02\3&267A616A&0&88
+root\ms_ndiswanipv6\0000
+sw\{eeab7790-c514-11d1-b42b-00805fc1270e}\asyncmac
+root\ms_pppoeminiport\0000
+root\ms_pptpminiport\0000
+root\ms_sstpminiport\0000
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&40
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&88
+root\*isatap\0000
+root\*isatap\0001
+root\*isatap\0002
+root\*teredo\0000
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\ADMINI~1\AppData\Local\Temp
+TMP=C:\Users\ADMINI~1\AppData\Local\Temp
+USERDOMAIN=00900BC83802
+USERNAME=Administrator
+USERPROFILE=C:\Users\Administrator
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+WinSta0\Default
+_________________________1.0_____#5&394c0ad3&0&0.1.0#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F3900000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{78032B7E-4968-42D3-9F37-287EA86C0AAA}
+E#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F3900000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+qqqqqqqqqqqqqqqq
+1.3.14.3.2.22
+1.3.14.3.2.12
+1.3.14.3.2.22
+1.3.14.3.2.12
+2.5.4.10
+2.5.4.11
+2.5.4.12
+2.5.4.13
+2.5.4.14
+2.5.4.15
+2.5.4.16
+2.5.4.17
+2.5.4.18
+2.5.4.19
+2.5.4.20
+2.5.4.21
+2.5.4.22
+2.5.4.23
+2.5.4.24
+2.5.4.25
+2.5.4.26
+2.5.4.27
+2.5.4.28
+2.5.4.29
+2.5.4.30
+2.5.4.31
+2.5.4.32
+2.5.4.33
+2.5.4.34
+2.5.4.35
+2.5.4.36
+2.5.4.37
+2.5.4.38
+2.5.4.39
+2.5.4.40
+2.5.4.42
+2.5.4.43
+2.5.29.19
+2.5.29.10
+2.5.29.21
+2.5.29.37
+dows\system32\
+marta.dll
+FP_NO_HOST_CHECK=NO
+NAME=SYS
+FP_NO_HOST_CHECK=NO
+NAME=SYS
+{B10826EB-1D74-46BB-9693-9683372186FC}
+{D185D36B-F447-450F-9AFB-865C2B8D6A96}
+{E0E8F829-31F5-4221-B63D-6FF84F28C2C9}
+ProfileAssociationProviderInterop
+Microsoft WBEM WbemClassObject Marshalling proxy
+Microsoft WBEM _IWmiCallSec Call Security Factory
+Kerberos
+root\cimv2\power
+NT AUTHORITY\SYSTEM
+PowerMeterProvider
+C:\Windows\system32\NSI.dll
+PowerMeterProvider
+root\cimv2\power
+00900BC83802
+NT Authority\NetworkService
+T AUTHORITY
+\REGISTRY\MACHINE\SOFTWARE\Classes\W
+Node\CLSID\{4CFC7932-0F9D-4BEF-9C32-8EA2A6B56FCB}
+WBEM Locator
+Microsoft Strong Cryptographic Provider
+00900BC83802
+NT AUTHORITY\SYSTEM
+PSFactoryBuffer
+C:\Windows\system32;.;C:\Windows\system32;C:\Windows\system;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+Network List Manager
+WbemDefaultPathParser
+root\cimv2\power
+PowerPolicyProvider
+root\interop
+root\interop
+Microsoft WBEM Call Context
+CLSID\{A47979D2-C419-11D9-A5B4-001185AD2B89}
+sr-Latn-CS
+qps-ploc
+qps-plocm
+CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}
+dowsPowerShell\v1.0\
+BasicConfigVector
+C:\Windows\System32\rundll32.exe shell32.dll,SHCreateLocalServerRunDll {995C996E-D918-4a8c-A302-45719A6F4EA7}
+Services
+\REGISTRY\MACHINE\SOFTWARE\Classes\Wow64
+ze\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}
+CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}
+CLSID\{CF4CC405-E2C5-4DDD-B3CE-5E7582D8C9FA}
+CLSID\{4590F812-1D3A-11D0-891F-00AA004B2E24}
+CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}
+CLSID\{1108BE51-F58A-4CDA-BB99-7A0227D11D5E}
+CLSID\{674B6698-EE92-11D0-AD71-00C04FD8FDFF}
+CLSID\{1F87137D-0E7C-44D5-8C73-4EFFB68962F2}
+CLSID\{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+CLSID\{9E175B6D-F52A-11D8-B9A5-505054503030}
+CLSID\{BA126AD1-2166-11D1-B1D0-00805FC1270E}
+CLSID\{1A1F4206-0688-4E7F-BE03-D82EC69DF9A5}
+CLSID\{995C996E-D918-4A8C-A302-45719A6F4EA7}
+CLSID\{1F87137D-0E7C-44D5-8C73-4EFFB68962F2}
+CLSID\{0002DF01-0000-0000-C000-000000000046}
+ProfileAssociationProviderCimV2
+ame="ProfileAssociationProviderInterop"}
+**beging address(0x1e0000:0x67000)**
+######$#########$######
+######$%&&&&&&%&&&&&&&&&%&&&&&&
+&&&&&&%&0
+'('('('('('('('('($%'('(%'('('('('('('('(($%'('('($%'('('('('('('('('('(''('('(%($$%$%$$%$$$%%$$$$%$$%$'$%(($$%''($%$%$$%$%($%''($$$%$%$$%%)$%%%))))'*($+%$+%'('('('('('('('(%'(($+%'($$$%'('('(P
+'('('('($%$%$%$%$%$%$%$%$%$%$%$%$%$%%%%%%%$$%$$%%$%$$$$%$%$%$%$%%%%%%%%%%%%%%%%%%%%%%%%%(%%(%%%%%%%%)%%%%%%%%%%%,,,,,,,,,--.,.....-----/--//---/..------//////--,,,,.---------.-----------------P
+0000000000000000000000000000000100000000111110000001111111111111$%$%--$%
+''($$$$$$$$$$$$$$$$$
+$$$$$$$''(((((%%%%%%%%%%%%%%%%%%%%%%%%%((((($%%$''%%%$%$%$%$%%%%%$%3$%$$%%$$$
+$'$'$$$'$$$$'$'$$$$$$$$$$'$$$$$$$$$$$$$$$$$$$$$$%%%%%%%%%(%%%%%%%(%(%%%(%%%%(%(%$%$%$%'($%$%$%$%$%40000011$%$%$%$%'($%$%'($%$%$%$%$%$%$%$%'($%$%'($%$%$%$%$%$%'($'($%$%$%$%$%$%%'('($%'($%'('('($%'('('($%'($%'('('('($%'($%$%$%
+$$$$$$$$$$$$$$$$$$$$$$
+%%%%%%%%%%%%%%%%%%%%%%%
+0000000000000000010000000000000000000000000007070070171
+888888888888888888888888888
+33:;;:<733111111111117
+888888888888888=8888888888000000001111001>>>11
+??????????;@@7880888888888888888888878111111191001111AA113000188BBBBBBBBBB888::8
+77777777777777
+818888888888888800000000000
+888888888000000000008
+CCCCCCCCCC88888888888888888000000000AA3"""8
+11D))))))))))))))))))))))))))))))))))))))
+0)EEE>>>>>>>>EEEE0
+))))))))))>>66FFFFFFFFFF6.)
+))))))))
+))))))))))))))))))))))
+0)EEE>>>>
+FFFFFFFFFF))GGDDDDDD4
+FFFFFFFFFF11)))1
+))))))))I
+))))))))))))))
+0)EEE>>>>>
+0)E>E>>>>
+))))))))))))
+DDD333333G3
+))))))))
+))))))))))))))))))
+)>>>EEEE
+JJJJJJJ4
+))))))))
+0)EEEEEEE
+))))))))))
+)EEE>>>>
+))))))))))))))))))
+))))))))
+)))))))))
+EEEEEEEE
+)))))))))))))))))))I)I))))))))KILIILLLLLLM
+GIIIIIIKMMMMMMMM6FFFFFFFFFF66
+)))I>II>>>>>>
+FFFFFFFFFF
+)4446666666666666664444400444444FFFFFFFFFFDDDDDDDDDD404040""""NN))))))))
+))))))))))))))))))))
+>>>>>>>>>>>>>1D>>000600))))
+11111111
+111111111111111111111111111111111111
+444444440444444
+)))))))))))EE>>>>E>>>>10D00DD11)FFFFFFFFFF666666))))))EE>>))))111)EDD))EEDDDDD)))>>>>)))))))))))))1EE>>NNNNNN0)NFFFFFFFFFF
+44$$$$$$
+)))))))))))6)
+))))))))))
+))))))))))))))))))
+)))))))))
+)))))))))))))))
+))))))))@
+)))))))))))
+1466666666DDDDDDDDDDDDDDDDDDDD
+3333333333
+)))))))))))))66))))))))
+O))))))))))))))))))))))))))""
+)))))))))))666))@
+)))))))))))))
+)))IIIIIIIIIIIIIIIIIPPE>>>>>>>EEEEEEEE1DD00000000000666)666G)0
+FFFFFFFFFF
+JJJJJJJJJJ
+"""""""""""111Q
+)))I))))))))))))))))))))
+)))))))))1)
+I)))))))))))))))>>>EEEE>>111
+DD1DDDDDD000
+""FFFFFFFFFF))))))))))))))
+EEEEEEEEEEEEEEEEE)))))))DD
+FFFFFFFFFF
+""3333333333333333
+)))))))>>EEE
+1111D)))))))))))))))0E>>>>>E>EEEEE>EN)))))))
+64444444444000000000444444444
+11D))))))))))))))D11>>EE>>N
+))))DDEEEEEE>1111111DD00
+66666FFFFFFFFFF
+)))FFFFFFFFFF))))))))))))))......66@
+%%%%%%%%%%%%......................(((((((((%%%%%%%%%%%%%)%%%%%%%%%%%%%%%%%%)))))11110000000000001111111
+'('('(((((((%%$%'('('('('($%$%$%P
+((((((((''''''''((((((
+((((((((
+'((((((((((((((
+((((((((********(((((
+((''''*/R///(((
+((''''*///((((
+///(((((((('''''///
+((''''*//
+OOOOOOOOOOO
+S9222222""TT""TT""""""""""OU
+V;;WWW"""2""""""""""2X"""""""""""""3""""""""""""O
+YYYYYYZ[\""RYYYYYYYYYYZ[\""
+GGGGGGGGG]GGGGGGGGGGGG
+33$3333$33%$$$%%$$$%3$333$$$$$333333$3$3$3$$$$G%$$$$%))))%33%%$$33333$%%%%3333%4
+JJJJJJJJJJJJJ)))$%))))
+33[G3\\333333333
+333333333""33333333333444444444444444444444444444444444444433333333334333333333333333333
+33333333333
+JJJJJJJJJJJJJJJJJJJJJJJJYYYYYYYYYYYYYYYYYYYY44444444444444JJJJJJ
+\333\\33\\333333333333333333\\330
+33333333333333
+33333333333343333333333333333
+333333333333
+3333333333333333333
+3333333""""""""""""""JJJJJJJJJJJJJJ3
+33333333
+33333333333333
+33333""3333
+333333""""""""""
+333""""""""""""""""""""""333333333333333""""3333333333333333""33
+$$$$$$$$$$$$$$$
+%%%%%%%%%%%%%%%
+$%$$$%%$%$%$%$$$
+%$%%$%%%%%%%)
+$%$%%333333
+))))))))
+"""""""""""""""""""""""""""""""-"
+3333333333
+333333333333
+^TT23)__""""TT""""33""""""""2"""3_________0000002`a`a`33___))"33
+bbbbbbbbbbbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbbbbbbccbccbccbccbccbbbbbbbbbbbbbbbbbbbbbbbbb
+ddeefgbhiiiiiiiiiiijijijijijijijijijijijijiijijijiiiiiijjijjijjijjijjiiiiiiiiiiiiiiiikikkiijkkjjjjlmnok
+)))))))))))
+pppppppppppppppppppppppppppppppppppp))))))))))))))))))))))))))
+44DDDD4444444444kkkkkkkkkkkkkkkk
+444444444444433
+DDDDDDDDDD4444444444
+3JJJJJJJJJJJJJJJ44444444444433344JJJJJJJJJJJJJJJ4444444444443333qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+444444433334444444444444444444334444444444444443P
+________________
+)))))))))))))"""FFFFFFFFFF))
+$%$%$%$%$%$%)0111"
+00"-$%$%$%$%
+3333333-----------$%$%$%$%$%$%$%%%$%$%$%$%$%$%$%)%%%%%%%%$%$%$$%$%$%$%$%-44$%
+ ))1)))1))))1)))))))EE>>E3333
+))))""""
+DD))))))))))))))))))DEEEEEEEEEEEEEEE0
+))))))>>>>>000r6)))))))>>>>>>>>111DN
+)))))))))>>>>>>EE>>DD11
+)))1))))))))1D
+FFFFFFFFFF
+ssssssssssssssss
+"tttttttttttttttt
+"DDDDDDDDDDDDDDDD
+"______________
+)))))))))))
+__________
+808888888888Z8888888888888
+888888888888
+8888888888888`#p#
+88888888888888""
+8888888888888888888888
+888888888888:3
+@$""""""""""
+"22"""""""""""""<"<
+"<""2"""""";""Zu33\
+88888888888888888888888
+TTxyxTzTTT{|}|~
+% %0%@%P%`%p%
+az-Cyrl-AZ
+az-Latn-AZ
+bs-Cyrl-BA
+bs-Latn-BA
+de-DE_phoneb
+es-ES_tradnl
+ha-Latn-NG
+hu-HU_technl
+iu-Cans-CA
+iu-Latn-CA
+ja-JP_radstr
+ka-GE_modern
+mn-Mong-CN
+qps-ploc
+qps-ploca
+qps-plocm
+sr-Cyrl-BA
+sr-Cyrl-CS
+sr-Cyrl-ME
+sr-Cyrl-RS
+sr-Latn-BA
+sr-Latn-CS
+sr-Latn-ME
+sr-Latn-RS
+tg-Cyrl-TJ
+tzm-Latn
+tzm-Latn-DZ
+uz-Cyrl-UZ
+uz-Latn-UZ
+x-IV_mathan
+zh-CN_stroke
+zh-HK_radstr
+zh-MO_radstr
+zh-MO_stroke
+zh-SG_stroke
+zh-TW_pronun
+zh-TW_radstr
+hh:mm:ss tt
+HH:mm:ss
+dd/MM/yyyy
+dd/MM/yy
+yyyy-MM-dd
+dd MMMM, yyyy
+dddd, dd MMMM, yyyy
+MMMM, yyyy
+hh:mm:ss
+Saudi Arabia
+Saudi Riyal
+Arabic (Saudi Arabia)
+hh:mm tt
+0409:00000409;0401:00000401
+Iraqi Dinar
+Arabic (Iraq)
+0409:00000409;0801:00000401
+Egyptian Pound
+Arabic (Egypt)
+0409:00000409;0c01:00000401
+Libyan Dinar
+Arabic (Libya)
+0409:00000409;1001:00000401
+dd-MM-yyyy
+dd-MM-yy
+Algerian Dinar
+Arabic (Algeria)
+040c:0000040c;1401:00020401
+Moroccan Dirham
+Arabic (Morocco)
+040c:0000040c;1801:00020401
+Tunisian Dinar
+Arabic (Tunisia)
+040c:0000040c;1c01:00020401
+Omani Rial
+Arabic (Oman)
+0409:00000409;2001:00000401
+Yemeni Rial
+Arabic (Yemen)
+0409:00000409;2401:00000401
+Syrian Pound
+Arabic (Syria)
+0409:00000409;2801:00000401
+Jordanian Dinar
+Arabic (Jordan)
+0409:00000409;2c01:00000401
+Lebanese Pound
+Arabic (Lebanon)
+0409:00000409;3001:00000401
+Kuwaiti Dinar
+Arabic (Kuwait)
+0409:00000409;3401:00000401
+UAE Dirham
+Arabic (U.A.E.)
+0409:00000409;3801:00000401
+Bahraini Dinar
+Arabic (Bahrain)
+0409:00000409;3c01:00000401
+Qatari Rial
+Arabic (Qatar)
+0409:00000409;4001:00000401
+HH:mm:ss '
+H:mm:ss '
+d.M.yyyy '
+dd.M.yyyy '
+d.MM.yyyy '
+dd.MM.yyyy '
+dd MMMM yyyy '
+d MMMM yyyy '
+dddd, dd MMMM yyyy '
+dddd, d MMMM yyyy '
+MMMM yyyy '
+Bulgarian
+Bulgaria
+Bulgarian Lev
+Bulgarian (Bulgaria)
+E0402:00030402;0402:00040402;0402:00000402;0402:00020402;0409:00020409
+HH'H'mm''''ss''''''
+dd.MM.yy
+dddd, d' / 'MMMM' / 'yyyy
+d'/'MMMM'/'yyyy
+d' 'MMMM' 'yyyy
+MMMM' / 'yyyy
+MMMM' de 'yyyy
+diumenge
+dimecres
+divendres
+dissabte
+setembre
+novembre
+desembre
+calendari gregori
+Catalan (Catalan)
+-Infinit
+HH'H'mm''''
+0403:0000040a
+tt hh:mm:ss
+tt h:mm:ss
+yyyy/M/d
+yyyy/MM/dd
+Chinese (Traditional)
+New Taiwan Dollar
+Chinese (Traditional, Taiwan)
+tt hh:mm
+_0404:00000404;0404:{531FDEBF-9B4C-4A43-A2AA-960E8FCDC732}{B2F9C502-1742-11D4-9790-0080C882687E}
+Hani;Hant;
+yyyy-M-d
+yyyy.M.d
+yyyy.MM.dd
+yy/MM/dd
+dddd,yyyy'
+d'd 'h'h 'm'm 's's'.fff
+Chinese (Simplified)
+People's Republic of China
+PRC Yuan Renminbi
+Chinese (Simplified, PRC)
+0804:00000804;0804:{81D4E9C9-1D3B-41BC-9E6C-4B40BF79E35E}{F3BA9077-6C7E-11D4-97FA-0080C882687E};0804:{81D4E9C9-1D3B-41BC-9E6C-4B40BF79E35E}{FCA121D2-8C6D-41fb-B2DE-A2AD110D4820}
+Hani;Hans;
+d/M/yyyy
+Hong Kong S.A.R.
+Hong Kong Dollar
+'Chinese (Traditional, Hong Kong S.A.R.)
+_0c04:00000c04;0404:{531FDEBF-9B4C-4A43-A2AA-960E8FCDC732}{0B883BA0-C1C7-11D4-87F9-0080C882687E}
+Singapore
+Singapore Dollar
+Chinese (Simplified, Singapore)
+Infinity
+-Infinity
+1004:00001004;0804:{81D4E9C9-1D3B-41BC-9E6C-4B40BF79E35E}{F3BA9077-6C7E-11D4-97FA-0080C882687E};0804:{E429B25A-E5D3-4D1F-9BE3-0C608477E3A1}{54FC610E-6ABD-4685-9DDD-A130BDF1B170};0804:{E429B25A-E5D3-4D1F-9BE3-0C608477E3A1}{733B4D81-3BC3-4132-B91A-E9CDD5E2BFC9}
+dddd yyyy'
+dddd yyyy MM dd
+yyyy MM dd
+Macao S.A.R.
+Macao Pataca
+#Chinese (Traditional, Macao S.A.R.)
+_1404:00001404;0404:{531FDEBF-9B4C-4A43-A2AA-960E8FCDC732}{0B883BA0-C1C7-11D4-87F9-0080C882687E}
+h.mm.ss tt
+d.M.yyyy
+d. MMMM yyyy
+MMMM yyyy
+Czech Republic
+republika
+Czech Koruna
+listopad
+prosinec
+listopadu
+prosince
+Czech (Czech Republic)
+republika)
+0405:00000405;0409:00020409
+dd. MMMM yyyy
+Danish Krone
+Dansk krone
+september
+november
+december
+Den gregorianske kalender
+Danish (Denmark)
+dansk (Danmark)
+0406:00000406;0409:00000409
+H:mm:ss' Uhr'
+HH:mm:ss' Uhr'
+dd.MM.yyyy
+dd.MMM.yyyy
+dddd, d. MMMM yyyy
+d. MMM yyyy
+H' Std. 'm' Min. 's' Sek.'
+d' T 'H' Std. 'm' Min.'
+H' Std. 'm' Min.'
+H' h 'm' min 's' s'
+H' h 'm' min 's,fff' s'
+H' h 'm' min'
+HH:mm:ss,fff
+Deutschland
+Dienstag
+Mittwoch
+Donnerstag
+September
+November
+Dezember
+Gregorianischer Kalender
+German (Germany)
+Deutsch (Deutschland)
++unendlich
+-unendlich
+H.mm' Uhr'
+0407:00000407;0409:00000409
+HH:mm:ss' h'
+H:mm:ss' h'
+dd. M. yy
+d. MMM yy
+H' h 'm' min 's.fff' s'
+HH:mm:ss.fff
+Switzerland
+Swiss Franc
+Schweizer Franken
+German (Switzerland)
+Deutsch (Schweiz)
+H.mm' h'
+HH.mm' h'
+0807:00000807;100C:0000100C
+dd.M.yyyy
+dddd, dd. MMMM yyyy
+d.MMMM yyyy
+d.MMMyyyy
+d MMM yyyy
+sterreich
+German (Austria)
+Deutsch (
+sterreich)
+HH:mm' Uhr'
+H:mm' Uhr'
+0c07:00000407
+Luxembourg
+Luxemburg
+German (Luxembourg)
+Deutsch (Luxemburg)
+1007:00000407
+Liechtenstein
+German (Liechtenstein)
+Deutsch (Liechtenstein)
+0807:00000807;1407:00000407
+h:mm:ss tt
+dd/MMM/yyyy
+dddd, d MMMM yyyy
+d MMMM yyyy
+Greek (Greece)
+0409:00000409;0408:00000408
+M/d/yyyy
+MM/dd/yy
+MM/dd/yyyy
+dd-MMM-yy
+dddd, MMMM dd, yyyy
+MMMM dd, yyyy
+United States
+US Dollar
+Wednesday
+Thursday
+Saturday
+February
+December
+Gregorian Calendar
+English (United States)
+0409:00000409
+dd MMMM yyyy
+United Kingdom
+UK Pound Sterling
+Pound Sterling
+English (United Kingdom)
+0809:00000809
+d/MM/yyyy
+dd-MMMM-yyyy
+Australia
+Australian Dollar
+English (Australia)
+0c09:00000409
+yy-MM-dd
+dd-MMM-yyyy
+MMMM-dd-yy
+MMMM d, yyyy
+d-MMM-yy
+Canadian Dollar
+English (Canada)
+)1009:00000409;1009:00011009;1009:00001009
+New Zealand
+New Zealand Dollar
+English (New Zealand)
+1409:00000409
+English (Ireland)
+1809:00001809;0409:00000409
+South Africa
+South African Rand
+English (South Africa)
+1c09:00000409
+Jamaican Dollar
+English (Jamaica)
+2009:00000409
+Caribbean
+English (Caribbean)
+2409:00000409
+dddd, dd MMMM yyyy
+Belize Dollar
+English (Belize)
+2809:00000409
+Trinidad and Tobago
+Trinidad y Tobago
+Trinidad Dollar
+English (Trinidad and Tobago)
+English (Trinidad y Tobago)
+2c09:00000409
+Zimbabwe
+Zimbabwe Dollar
+English (Zimbabwe)
+3009:00000409
+Republic of the Philippines
+Philippines
+Philippine Peso
+%English (Republic of the Philippines)
+English (Philippines)
+3409:00000409
+dddd, dd' de 'MMMM' de 'yyyy
+dddd d' de 'MMMM' de 'yyyy
+d' de 'MMMM' de 'yyyy
+septiembre
+noviembre
+diciembre
+calendario gregoriano
+!Spanish (Spain, Traditional Sort)
+ol (Espa
+a, alfabetizaci
+n tradicional)
+Infinito
+-Infinito
+040a:0000040a;0409:00000409
+Mexican Peso
+Spanish (Mexico)
+080a:0000080a;0409:00020409
+#Spanish (Spain, International Sort)
+ol (Espa
+a, alfabetizaci
+n internacional)
+0c0a:0000040a;0409:00000409
+Guatemala
+Guatemalan Quetzal
+Spanish (Guatemala)
+ol (Guatemala)
+100a:0000080a;0409:00020409
+Costa Rica
+Costa Rican Colon
+Spanish (Costa Rica)
+ol (Costa Rica)
+140a:0000080a;0409:00020409
+Panamanian Balboa
+Spanish (Panama)
+ol (Panam
+180a:0000080a;0409:00020409
+Dominican Republic
+blica Dominicana
+Dominican Peso
+Spanish (Dominican Republic)
+blica Dominicana)
+1c0a:0000080a;0409:00020409
+ Bolivarian Republic of Venezuela
+"Republica Bolivariana de Venezuela
+Venezuelan Bolivar
+*Spanish (Bolivarian Republic of Venezuela)
+ol (Republica Bolivariana de Venezuela)
+200a:0000080a;0409:00020409
+Colombia
+Colombian Peso
+Spanish (Colombia)
+ol (Colombia)
+240a:0000080a;0409:00020409
+Peruvian Nuevo Sol
+Nuevo Sol
+Spanish (Peru)
+280a:0000080a;0409:00020409
+Argentina
+Argentine Peso
+Spanish (Argentina)
+ol (Argentina)
+2c0a:0000080a;0409:00020409
+US Dolar
+Spanish (Ecuador)
+ol (Ecuador)
+300a:0000080a;0409:00020409
+Chilean Peso
+Spanish (Chile)
+ol (Chile)
+340a:0000080a;0409:00020409
+Peso Uruguayo
+Spanish (Uruguay)
+ol (Uruguay)
+380a:0000080a;0409:00020409
+Paraguay
+Paraguay Guarani
+Spanish (Paraguay)
+ol (Paraguay)
+3c0a:0000080a;0409:00020409
+Boliviano
+Spanish (Bolivia)
+ol (Bolivia)
+400a:0000080a;0409:00020409
+MM-dd-yyyy
+El Salvador
+Spanish (El Salvador)
+ol (El Salvador)
+440a:0000080a;0409:00020409
+Honduras
+Honduran Lempira
+Spanish (Honduras)
+ol (Honduras)
+480a:0000080a;0409:00020409
+Nicaragua
+Nicaraguan Cordoba Oro
+Spanish (Nicaragua)
+ol (Nicaragua)
+4c0a:0000080a;0409:00020409
+Puerto Rico
+Spanish (Puerto Rico)
+ol (Puerto Rico)
+)0409:00020409;500a:0000080a;0409:00000409
+d. MMMM'ta 'yyyy
+dd. MMMM'ta 'yyyy
+sunnuntai
+maanantai
+keskiviikko
+perjantai
+lauantai
+tammikuu
+helmikuu
+maaliskuu
+huhtikuu
+toukokuu
+marraskuu
+joulukuu
+gregoriaaninen kalenteri
+Finnish (Finland)
+suomi (Suomi)
+d. MMMM'ta'
+)040b:0000040b;040b:0001083b;0409:00000409
+dddd d MMMM yyyy
+d MMM yy
+HH' h 'mm
+dimanche
+mercredi
+vendredi
+septembre
+calendrier gr
+French (France)
+ais (France)
+ap. J.-C.
+040c:0000040c;0409:00000409
+H' h 'mm
+H' h 'm' min 's' s '
+Belgique
+French (Belgium)
+ais (Belgique)
+080c:0000080c;0409:00000409
+yy MM dd
+Dollar canadien
+French (Canada)
+ais (Canada)
+)1009:00001009;0c0c:00011009;1009:00000409
+Franc suisse
+French (Switzerland)
+ais (Suisse)
+100c:0000100c;0807:00000807
+French (Luxembourg)
+ais (Luxembourg)
+)140c:0000100C;140c:0000040c;0409:00000409
+Principality of Monaco
+Principaut
+ de Monaco
+French (Monaco)
+ais (Principaut
+ de Monaco)
+180c:0000040c;0409:00000409
+dd/MMMM/yyyy
+'MMMM yyyy
+dd MMM yy
+dddd dd MMMM yyyy
+dddd dd '
+'MMMM yyyy
+ddd dd '
+'MMMM yyyy
+Israeli New Shekel
+Hebrew (Israel)
+0409:00000409;040d:0000040d
+yyyy.MM.dd.
+yyyy. MM. dd.
+yyyy. MMMM d.
+yyyy. MMMM
+Hungarian
+Magyarorsz
+Hungarian Forint
+augusztus
+szeptember
+Gergely-napt
+Hungarian (Hungary)
+magyar (Magyarorsz
+040e:0000040e;0409:00020409
+d. M. yyyy.
+d. M. ''''yy.
+Icelandic
+Icelandic Krona
+sunnudagur
+vikudagur
+fimmtudagur
+studagur
+laugardagur
+desember
+Icelandic (Iceland)
+slenska (
+040f:0000040f;0409:00000409
+HH.mm.ss
+italiano
+domenica
+mercoled
+febbraio
+settembre
+dicembre
+Italian (Italy)
+italiano (Italia)
+Non un numero reale
++Infinito
+0410:00000410;0409:00000409
+dd. MM. yy
+Svizzera
+Franco svizzero
+Italian (Switzerland)
+italiano (Svizzera)
+)0810:0000100C;0810:00000410;0409:00000409
+yy/MM/dd' ('ddd')'
+yy/M/d' ('ddd')'
+yyyy/MM/dd' ('ddd')'
+Japanese
+Japanese Yen
+Japanese (Japan)
+Q0411:{03B5835F-F03C-411B-9CE2-AA23E1171E36}{A76C93D9-5523-4E90-AAFA-4DB112F9AC76}
+Hani;Hira;Jpan;Kana;
+Korean Won
+Korean (Korea)
+Q0412:{A028AE76-01B1-46C2-99C4-ACD9858AE02F}{B5FE1F02-D5F2-4445-9C03-C568F23C99A1}
+Hang;Hani;Kore;
+HH.mm.ss' uur'
+HH:mm:ss' uur'
+d-M-yyyy
+Nederlands
+Netherlands
+Nederland
+woensdag
+donderdag
+zaterdag
+februari
+augustus
+Gregoriaanse kalender
+Dutch (Netherlands)
+Nederlands (Nederland)
+HH.mm' uur'
+HH:mm' uur'
+0413:00020409;0413:00000413
+Dutch (Belgium)
+Nederlands (Belgi
+NaN (Niet-een-getal)
+oneindig
+-oneindig
+H.mm' u.'
+0813:00000813;0409:00000409
+'kl 'HH.mm.ss
+Norwegian (Bokm
+norsk (bokm
+Norwegian Krone
+Norsk krone
+gregoriansk kalender
+Norwegian, Bokm
+l (Norway)
+norsk, bokm
+l (Norge)
+'kl 'HH.mm
+0414:00000414;0409:00000409
+Norwegian (Nynorsk)
+norsk (nynorsk)
+Norwegian, Nynorsk (Norway)
+norsk, nynorsk (Noreg)
+0814:00000414;0409:00000409
+Polish Zloty
+niedziela
+poniedzia
+czwartek
+czerwiec
+dziernik
+stycznia
+kwietnia
+sierpnia
+dziernika
+listopada
+Kalendarz gregoria
+Polish (Poland)
+polski (Polska)
+nie jest liczb
+)0415:00000415;0415:00010415;0409:00020409
+dddd, d' de 'MMMM' de 'yyyy
+Portuguese
+segunda-feira
+quarta-feira
+quinta-feira
+sexta-feira
+fevereiro
+setembro
+novembro
+dezembro
+rio gregoriano
+Portuguese (Brazil)
+s (Brasil)
+dd' de 'MMMM
+)0416:00000416;0409:00020409;0409:00000409
+yy.MM.dd
+d/MMM/yy
+d.MMM.yy
+HH'H'mm'm'
+Portugal
+Fevereiro
+Setembro
+Novembro
+Dezembro
+Portuguese (Portugal)
+s (Portugal)
+0816:00000816;0409:00000409
+Romanian
+Romanian Leu
+miercuri
+ianuarie
+februarie
+septembrie
+octombrie
+noiembrie
+decembrie
+calendarul gregorian
+Romanian (Romania)
+70418:00010418;0418:00020418;0418:00000418;0409:00020409
+Russian Ruble
+Russian (Russia)
+0419:00000419;0409:00000409
+d.M.yyyy.
+dd.MM.yyyy.
+d. M. yy.
+dd.MM.yy.
+dd. MM. yy.
+d. MMMM yyyy.
+dd. MMMM yyyy.
+dddd, d. MMMM yyyy.
+Croatian
+hrvatski
+Hrvatska
+Croatian Kuna
+hrvatska kuna
+nedjelja
+ponedjeljak
+prosinac
+kolovoza
+studenog
+prosinca
+gregorijanski kalendar
+Croatian (Croatia)
+hrvatski (Hrvatska)
+041a:0000041a;0409:00020409
+d. M. yyyy
+d. M. yy
+Serbian (Latin)
+Serbia and Montenegro (Former)
+Srbija i Crna Gora (Prethodno)
+Serbian Dinar
+ponedeljak
+septembar
+novembar
+decembar
+/Serbian (Latin, Serbia and Montenegro (Former))
+'srpski (Srbija i Crna Gora (Prethodno))
++beskona
+-beskona
+081a:0000081a;0409:00000409
+Serbian (Cyrillic)
+2Serbian (Cyrillic, Serbia and Montenegro (Former))
+0c1a:00000c1a;0409:00000409
+Serbian (Latin, Serbia)
+srpski (Srbija)
+241a:0000081a;0409:00020409
+Serbian (Cyrillic, Serbia)
+281a:00000c1a;0409:00020409
+Montenegro
+Crna Gora
+Serbian (Latin, Montenegro)
+srpski (Crna Gora)
+2c1a:0000081a;0409:00020409
+Serbian (Cyrillic, Montenegro)
+301a:00000c1a;0409:00020409
+Croatian (Latin)
+Bosnia and Herzegovina
+Bosna i Hercegovina
+Convertible Marks
+konvertibilna marka
+(Croatian (Latin, Bosnia and Herzegovina)
+hrvatski (Bosna i Hercegovina)
+101a:0000041a;0409:00000409
+Bosnian (Latin)
+bosanski
+'Bosnian (Latin, Bosnia and Herzegovina)
+bosanski (Bosna i Hercegovina)
+141a:0000041a;0409:00000409
+'Serbian (Latin, Bosnia and Herzegovina)
+srpski (Bosna i Hercegovina)
+181a:0000081a;0409:00000409
+*Serbian (Cyrillic, Bosnia and Herzegovina)
+1c1a:00000c1a;0409:00000409
+Slovakia
+Slovensk
+ republika
+pondelok
+septembra
+novembra
+decembra
+nsky kalend
+Slovak (Slovakia)
+ina (Slovensk
+ republika)
+041b:0000041b;0409:00020409
+h:mm:ss.tt
+h:mm:ss.
+Albanian
+Albanian Lek
+e premte
+kalendari gregorian
+Albanian (Albania)
+shqipe (Shqip
+-infinit
+041c:0000041c;0409:00000409
+'kl 'H:mm:ss
+'den 'd MMMM yyyy
+dddd' den 'd MMMM yyyy
+Swedish Krona
+Svensk krona
+Swedish (Sweden)
+svenska (Sverige)
+'den 'd MMMM
+'kl 'H:mm
+041d:0000041d;0409:00000409
+Swedish (Finland)
+svenska (Finland)
+)081d:0000041d;081d:0000083b;0409:00000409
+dd MMM yyyy
+' d MMMM yyyy
+ddd d MMMM yyyy
+Thailand
+Thai Baht
+Thai (Thailand)
+0409:00000409;041e:0000041e
+dd MMMM yyyy dddd
+Turkish Lira
+rk Liras
+Pazartesi
+Cumartesi
+Gregoryen Takvimi
+Turkish (Turkey)
+041f:0000041f;0409:00000409
+Islamic Republic of Pakistan
+Pakistan Rupee
+Christian Calendar
+#Urdu (Islamic Republic of Pakistan)
+0420:00000420;0409:00000409
+Indonesian
+Bahasa Indonesia
+Indonesia
+Indonesian Rupiah
+Februari
+Nopember
+Desember
+kalendar Masehi
+Indonesian (Indonesia)
+Bahasa Indonesia (Indonesia)
+0421:00000409;0409:00000409
+d MMMM yyyy' 
+MMMM yyyy' 
+Ukrainian
+Ukrainian Grivna
+Ukrainian (Ukraine)
+)0422:00020422;0422:00000422;0409:00000409
+Belarusian
+Belarusian Ruble
+Belarusian (Belarus)
+)0423:00000423;0409:00000409;0419:00000419
+Slovenian
+slovenski
+Slovenia
+Slovenija
+ponedeljek
+gregorijanski koledar
+Slovenian (Slovenia)
+slovenski (Slovenija)
+0424:00000424;0409:00020409
+d.MM.yyyy
+d. MMMM yyyy'. a.'
+dd. MMMM yyyy'. a.'
+MMMM yyyy'. a.'
+Estonian
+Estonian Kroon
+veebruar
+oktoober
+detsember
+Gregoriuse kalender
+Estonian (Estonia)
+eesti (Eesti)
+avaldamatu
+0425:00000425
+yy.MM.dd.
+dddd, yyyy'. gada 'd. MMMM
+Latvian Lats
+pirmdiena
+otrdiena
+ceturtdiena
+piektdiena
+sestdiena
+septembris
+oktobris
+novembris
+decembris
+septembr
+Gregora kalend
+Latvian (Latvia)
+u (Latvija)
+0426:00010426;0426:00000426
+yyyy 'm.' MMMM d 'd.'
+yyyy 'm.' MMMM
+Lithuanian
+Lithuania
+Lithuanian Litas
+sekmadienis
+pirmadienis
+antradienis
+iadienis
+ketvirtadienis
+penktadienis
+tadienis
+balandis
+lapkritis
+Grigaliaus kalendorius
+Lithuanian (Lithuania)
+ (Lietuva)
+-begalyb
+MMMM d 'd.'
+0427:00010427
+Iranian Rial
+Vietnamese
+Vietnamese Dong
+Vietnamese (Vietnam)
+0409:00000409;042a:0000042a
+d/MMM/yyyy
+d MMMM, yyyy
+d-MMM-yyyy
+ddd, d-MMMM-yyyy
+ddd, dd-MMMM-yyyy
+Armenian
+Armenian Dram
+Armenian (Armenia)
+)042b:0000042b;0409:00000409;0419:00000419
+Azeri (Latin)
+Azerbaijan
+Azerbaijanian Manat
+Sentyabr
+sentyabr
+Qriqorian
+Azeri (Latin, Azerbaijan)
+rbaycan)
+)042c:0000042c;082c:0000082c;0419:00000419
+Azeri (Cyrillic)
+Azeri (Cyrillic, Azerbaijan)
+)082c:0000082c;042c:0000042c;0419:00000419
+dddd, yyyy.'eko' MMMM'k 'd
+yyyy.'eko' MMMM
+Espainia
+astelehena
+asteartea
+asteazkena
+osteguna
+ostirala
+larunbata
+urtarrila
+egutegi gregoriotarra
+Basque (Basque)
+euskara (euskara)
+Infinitu
+-Infinitu
+042d:0000040a
+Macedonian (FYROM)
+Macedonia (FYROM)
+Macedonian Denar
+2Macedonian (Former Yugoslav Republic of Macedonia)
+042f:0000042f;0409:00000409
+Setswana
+Aforika Borwa
+Latshipi
+Mosupologo
+Labobedi
+Laboraro
+Labotlhano
+Lamatlhatso
+Ferikgong
+Tlhakole
+Mopitloe
+Moranang
+Motsheganong
+Seetebosigo
+Diphalane
+Ngwanatsele
+Sedimothole
+Setswana (South Africa)
+Setswana (Aforika Borwa)
+0432:00000432;0432:00000409
+isiXhosa
+uMzantsi Afrika
+uLwesibini
+uLwesithathu
+uLwesine
+uLwesihlanu
+uMgqibelo
+Tshazimpuzi
+Silimela
+isiXhosa (South Africa)
+isiXhosa (uMzantsi Afrika)
+0434:00000409;0409:00000409
+iNingizimu Afrika
+uMsombuluko
+uLwesibili
+uMasingana
+uNhlolanja
+uNhlangulana
+uNtulikazi
+uMandulo
+uZibandlela
+isiZulu (South Africa)
+isiZulu (iNingizimu Afrika)
+0435:00000409;0409:00000409
+yyyy/MMM/dd
+Afrikaans
+Suid Afrika
+Woensdag
+Donderdag
+Saterdag
+Januarie
+Februarie
+Augustus
+Afrikaans (South Africa)
+Afrikaans (Suid Afrika)
+0436:00000409;0409:00000409
+' dd MM, dddd
+Georgian
+Georgian (Georgia)
+E0437:00010437;0437:00020437;0437:00000437;0409:00000409;0419:00000419
+Faroe Islands
+mikudagur
+ggjadagur
+leygardagur
+Gregorianski 
+lmanakkin
+Faroese (Faroe Islands)
+royskt (F
+0438:00000406;0409:00000409
+Indian Rupee
+Hindi (India)
+)0409:00000409;0439:00010439;0439:00000439
+ddMMyyyy
+dddd, d' ta'' 'MMMM yyyy
+d' ta'' 'MMMM yyyy
+It-Tnejn
+It-Tlieta
+Settembru
+Novembru
+Kalendarju
+Maltese (Malta)
+Malti (Malta)
+d' ta'' 'MMMM
+)0409:00000409;043a:0000043a;043a:0001043a
+MMMM d'. b. 'yyyy
+Sami (Northern)
+megiella
+sotnabeaivi
+gaskavahkku
+duorastat
+bearjadat
+suoidnem
+golggotm
+suoidnem
+golggotm
+Sami, Northern (Norway)
+megiella (Norga)
+MMMM d'. b. '
+043b:0000043b;0409:00000409
+Sami, Northern (Sweden)
+megiella (Ruo
+083b:0000083b;0409:00000409
+Sami, Northern (Finland)
+megiella (Suopma)
+)0c3b:0001083b;0c3b:0002083b;0409:00000409
+Sami (Lule)
+megiella
+nnodahka
+dijstahka
+gasskavahkko
+duorastahka
+bierjjedahka
+vvodahka
+sjnjuktjam
+vuoratjism
+moarmesm
+biehtsem
+sjnjilltjam
+sjnjuktjam
+vuoratjism
+moarmesm
+biehtsem
+sjnjilltjam
+Sami, Lule (Norway)
+megiella (Vuodna)
+103b:0000043b;0409:00000409
+Sami, Lule (Sweden)
+megiella (Svierik)
+143b:0000083b;0409:00000409
+Sami (Southern)
+arjelsaemiengiele
+bearjadahke
+laavvardahke
+voerhtje
+suehpede
+snjaltje
+njoktjen
+voerhtjen
+suehpeden
+snjaltjen
+Sami, Southern (Norway)
+arjelsaemiengiele (N
+183b:0000043b;0409:00000409
+Sami, Southern (Sweden)
+arjelsaemiengiele (Sveerje)
+1c3b:0000083b;0409:00000409
+MMMM d'. p. 'yyyy
+Sami (Skolt)
+nelljdpei
+rosttovm
+lvvmannu
+ttammannu
+lggmannu
+rosttovmannu
+Sami, Skolt (Finland)
+MMMM d'. p. '
+)203b:0001083b;203b:0002083b;0409:00000409
+Sami (Inari)
+pasepeivi
+vuossarg
+majebarg
+koskokko
+stuppeivi
+Sami, Inari (Finland)
+)243b:0001083b;243b:0002083b;0409:00000409
+Bahasa Melayu
+Malaysia
+Malaysian Ringgit
+Ringgit Malaysia
+Disember
+Malay (Malaysia)
+Bahasa Melayu (Malaysia)
+Brunei Darussalam
+Brunei Dollar
+Malay (Brunei Darussalam)
+!Bahasa Melayu (Brunei Darussalam)
+d MMMM yyyy '
+dd MMMM yyyy '
+Kazakhstan
+Kazakh (Kazakhstan)
+)043f:0000043f;0409:00000409;0419:00000419
+d'-'MMMM yyyy'-
+MMMM yyyy'-
+Kyrgyzstan
+Kyrgyz (Kyrgyzstan)
+0440:00000440;0409:00000409
+Kiswahili
+Kenyan Shilling
+Shilingi
+Jumapili
+Jumatatu
+Jumatano
+Alhamisi
+Jumamosi
+Septemba
+Kalenda ya Gregori
+Kiswahili (Kenya)
+dd/MM yyyy
+yyyy 'yil' d-MMMM
+Uzbek (Latin)
+Uzbekistan
+U'zbekiston Respublikasi
+Uzbekistan Som
+yakshanba
+dushanba
+seshanba
+chorshanba
+payshanba
+Grigorianski
+Uzbek (Latin, Uzbekistan)
+!U'zbek (U'zbekiston Respublikasi)
+)0443:00000409;0843:00000843;0419:00000419
+' d-MMMM
+Uzbek (Cyrillic)
+Uzbek (Cyrillic, Uzbekistan)
+)0843:00000843;0443:00000409;0419:00000419
+Tatar (Russia)
+)0444:00000444;0409:00000409;0419:00000419
+tt hh.mm.ss
+tt h.mm.ss
+hh.mm.ss
+Bengali (India)
+tt hh.mm
+70445:00020445;0445:00000445;0445:00010445;0409:00000409
+Punjabi (India)
+)0409:00000409;0446:00000446;0439:00010439
+Gujarati
+Gujarati (India)
+)0409:00000409;0447:00000447;0439:00010439
+Tamil (India)
+0409:00000409;0449:00000449
+Telugu (India)
+)0409:00000409;044a:0000044a;0439:00010439
+Kannada (India)
+)0409:00000409;044b:0000044b;0439:00010439
+Malayalam
+Malayalam (India)
+044c:0000044c;0409:00000409
+Marathi (India)
+)0409:00000409;044e:0000044e;044e:00000439
+Sanskrit
+Sanskrit (India)
+0409:00000409;044f:00000439
+' MMMM d
+Mongolian (Cyrillic)
+Mongolia
+Mongolian (Cyrillic, Mongolia)
+0450:00000450;0409:00000409
+y Deyrnas Unedig
+Dydd Sul
+Dydd Llun
+Dydd Mawrth
+Dydd Mercher
+Dydd Iau
+Dydd Gwener
+Dydd Sadwrn
+Chwefror
+Gorffennaf
+Tachwedd
+calendr Gregori
+Welsh (United Kingdom)
+Cymraeg (y Deyrnas Unedig)
+0452:00000452;0809:00000809
+Galician
+febreiro
+decembro
+Calendario Gregoriano
+Galician (Galician)
+galego (galego)
+0456:0000040a
+Konkani (India)
+0409:00000409;0457:00000439
+Syriac (Syria)
+0409:00000409;045a:0000045a
+ddd, yyyy MMMM dd
+yyyy, MMMM
+Maldives
+Divehi (Maldives)
+0409:00000409;0465:00000465
+runasimi
+Bolivia Suyu
+intichaw
+killachaw
+atipachaw
+quyllurchaw
+Ch' askachaw
+Illapachaw
+k'uychichaw
+Qulla puquy
+Hatun puquy
+Pauqar waray
+Inti raymi
+Anta Sitwa
+Qhapaq Sitwa
+Uma raymi
+Kantaray
+Ayamarq'a
+Kapaq Raymi
+Quechua (Bolivia)
+runasimi (Qullasuyu)
+)400a:0000080a;046b:0000080a;0409:00000409
+Ecuador Suyu
+Quechua (Ecuador)
+runasimi (Ecuador)
+)300a:0000080a;086b:0000080a;0409:00000409
+Peru Suyu
+Quechua (Peru)
+runasimi (Piruw)
+)280a:0000080a;0c6b:0000080a;0409:00000409
+Sesotho sa Leboa
+Afrika Borwa
+Lamorena
+Labohlano
+Mokibelo
+Pherekgong
+Mosegamanye
+Ngoatobo
+Diphalana
+Dibatsela
+Manthole
+Sesotho sa Leboa (South Africa)
+Sesotho sa Leboa (Afrika Borwa)
+046c:0000046c;0409:00000409
+yyyy MMMM
+Invariant Language
+Invariant Country
+International Monetary Fund
+&Invariant Language (Invariant Country)
+%Invariant Language (Invariant Region)
+MMMM, yy
+Aotearoa
+Hui-tanguru
+-te-rangi
+Paenga-wh
+Here-turi-k
+Whiringa-
+Whiringa-
+Maori (New Zealand)
+ori (Aotearoa)
+0481:00000481;1409:00000409
+d MMMM yyyy '
+Bashkir (Russia)
+046d:0000046d
+Indian Rupee;
+English (India)
+dd MMMM;
+Oriya (India)
+0448:00000448
+.' MMMM d
+.' MMMM dd
+Turkmenistan
+rkmenistan
+Turkmen manat
+grigorian 
+ylhasaby
+Turkmen (Turkmenistan)
+rkmenistan)
+0442:00000442;0409:00000409
+ HH:mm:ss
+Tajik (Cyrillic)
+Tajikistan
+Tajik (Cyrillic, Tajikistan)
+0428:00000428
+Woansdei
+Tongersdei
+jannewaris
+febrewaris
+septimber
+novimber
+desimber
+Frisian (Netherlands)
+Frysk (Nederl
+0462:00020409
+' d dddd
+d'H'mm'ss'.fff
+PRC Renminbi
+Tibetan (PRC)
+'d;MM/dd;
+0451:00000451
+ Domhnaigh
+ Sathairn
+Bealtaine
+Meitheamh
+Deireadh F
+ilire Greag
+Irish (Ireland)
+Gaeilge (
+083c:00001809
+MMMM,yyyy
+Nepalese Rupees
+Nepali (Nepal)
+infinity
+-infinity
+0461:00000461
+dddd, d MMMM, yyyy
+English (Malaysia)
+English (Singapore)
+Bosnian (Cyrillic)
+*Bosnian (Cyrillic, Bosnia and Herzegovina)
+201a:0000201a
+!Mongolian (Traditional Mongolian)
+&Mongolian (Traditional Mongolian, PRC)
+';MM/dd;
+0850:00000850
+Filipino
+Pilipinas
+Mierkoles
+Septyembre
+Nobyembre
+Disyembre
+kaledaryong Gregoryano
+Filipino (Philippines)
+Filipino (Pilipinas)
+Anno Domini
+0464:00000409
+HH:mm:ss' Ura'
+H:mm:ss' Ura'
+Rumantsch
+Franc svizzer
+dumengia
+glindesdi
+venderdi
+zercladur
+settember
+chalender gregorian
+Romansh (Switzerland)
+Rumantsch (Svizra)
+betg def.
++infinit
+HH:mm' Ura'
+H:mm' Ura'
+0417:00000807
+H:mm:ss' Auer'
+HH:mm:ss' Auer'
+ dd/MM/yy
+Luxembourgish
+tzebuergesch
+Donneschdeg
+Samschdeg
+Gregorianesche Kalenner
+Luxembourgish (Luxembourg)
+tzebuergesch (Luxembourg)
++onendlech
+-onendlech
+H.mm' Auer'
+046e:0000046e
+Kanien'k
+Awentatokent
+Awentata
+Ratironhia'kehron
+Okaristii
+Ronwaia'tanentaktonhne
+Tsothohrk
+Onerahtohk
+Ohiari:Ha
+Ohiarihk
+Kentenhk
+Mohawk (Mohawk)
+047c:00000409
+ddd, MMMM dd,yyyy
+MMMM dd,yyyy
+Inuktitut (Latin)
+Inuktitut
+Kanataup Kiinaujanga;
+Naattiinguja
+Naggajjau
+Pingatsiq
+Sitammiq
+Tallirmiq
+Sivataarvik
+Jaannuari
+Viivvuari
+Aaggiisi
+Sitipiri
+Nuvipiri
+Tisipiri
+Ulluqsiutit
+Inuktitut (Latin, Canada)
+Inuktitut (Kanatami)
+085d:0000085d;1009:00000409
+yyyy, dd, MMMM, dddd
+yyyy, dd, MMMM
+Afghanistan
+Pashto (Afghanistan)
+0463:00000463
+Mapudungun
+Mapudungun (Chile)
+047a:0000080a
+yyyy MMMM' 
+Sri Lanka
+Sri Lanka Rupee
+Sinhala (Sri Lanka)
+)045b:0000045b;045b:0001045b;0409:00000409
+HH:mm:ss:fff
+H:mm:ss:fff
+Greenlandic
+kalaallisut
+Greenland
+Kalaallit Nunaat
+ataasinngorneq
+marlunngorneq
+pingasunngorneq
+sisamanngorneq
+tallimanngorneq
+arfininngorneq
+septembari
+oktobari
+novembari
+decembari
+qaamatisiutit gregorianerisooq
+Greenlandic (Greenland)
+kalaallisut (Kalaallit Nunaat)
+046f:00000406;0406:00000406
+MM.dd.yyyy
+MM.dd.yy
+MMMM d yyyy '
+MMMM dd yyyy '
+MMMM yyyy '
+Yakut (Russia)
+)0485:00000485;0419:00000419;0409:00000409
+yyyy,MMMM dd, dddd
+h tt m tt s tt
+ hh tt mm tt ss tt
+ H tt m tt S tt
+ HH tt mm tt SS tt
+Assamese
+Assamese (India)
+044d:0000044d;0409:00000409
+Lao P.D.R.
+Lao (Lao P.D.R.)
+0454:00000454;0409:00000409
+dddd,MMMM dd,yyyy
+h:mm:ss:ff
+Inuktitut (Syllabics)
+Inuktitut (Syllabics, Canada)
+)045d:0001045d;085d:0000085d;1009:00000409
+' MMMM d-'
+' MMMM d-'
+Uyghur (PRC)
+MMMM d'-
+0480:00010480;0409:00000409
+Estados Unidos
+lar de EE.UU.
+calendario gregoriano en ingl
+Spanish (United States)
+ol (Estados Unidos)
+dd' de 'MMMM;
+540a:0000080a;0409:00000409
+dddd, 'dnja' d. MMMM yyyy
+Upper Sorbian
+hornjoserb
+nowember
+februara
+nowembra
+gregorianska protyka
+Upper Sorbian (Germany)
+hornjoserb
+njedefinowane
+H.mm 'hod
+7042e:0002042e;042e:0001042e;0407:00000407;0409:00000409
+Lower Sorbian
+dolnoserb
+gregorianska pratyja
+Lower Sorbian (Germany)
+dolnoserb
+ina (Nimska)
+H.mm 'go
+Cambodia
+Soriyeakitek
+Khmer (Cambodia)
+0453:00000453;0409:00000409
+brezhoneg
+Merc'her
+C'hwevrer
+Mezheven
+Gwengolo
+deiziadur gregorian
+Breton (France)
+brezhoneg (Fra
+g. J.-K.
+Corsican
+dumenica
+ghjennaghju
+ferraghju
+ghjunghju
+nuvembre
+calendariu gregurianu
+Corsican (France)
+Corsu (France)
+Mica numericu
++Infinitu
+dopu J-C
+dddd,' lo 'd MMMM' de 'yyyy
+de genier
+de febrier
+de setembre
+d'octobre
+de novembre
+de desembre
+calendier gregorian
+Occitan (France)
+Occitan (Fran
+Non Numeric
++Infinit
+sus-Crist
+Alsatian
+Dienschd
+Mittwuch
+Dunnerschd
+Nowember
+Gregorischer K
+Alsatian (France)
+ssisch (Fr
+nkrisch)
+Ohne Nummer
++Unendlich
+-Unendlich
+Vor J.-C.
+' MMMM d '
+dd HH:mm:ss.fff
+Ethiopia
+Ethiopian Birr
+Amharic (Ethiopia)
+_045e:{E429B25A-E5D3-4D1F-9BE3-0C608477E3A1}{8F96574E-C86C-4bd6-9666-3F7327D4CBE8};0409:00000409
+dddd, yyyy'
+Yi (PRC)
+0478:{E429B25A-E5D3-4D1F-9BE3-0C608477E3A1}{409C8376-007B-4357-AE8E-26316EE3FB0D};0804:00000804;0804:{81D4E9C9-1D3B-41BC-9E6C-4B40BF79E35E}{F3BA9077-6C7E-11D4-97FA-0080C882687E};0804:{E429B25A-E5D3-4D1F-9BE3-0C608477E3A1}{54FC610E-6ABD-4685-9DDD-A130BDF1B170};0804:{E429B25A-E5D3-4D1F-9BE3-0C608477E3A1}{733B4D81-3BC3-4132-B91A-E9CDD5E2BFC9}
+nab'e ik'
+ukab' ik'
+ukaj ik'
+uro' ik'
+uwaq ik'
+uwuq ik'
+uwajxaq ik'
+ub'elej ik'
+ulaj ik'
+ujulaj ik'
+ukab'laj ik'
+ukab'laj
+K'iche (Guatemala)
+100a:0000080a;0409:00000409
+XOF Senegal
+Wolof (Senegal)
+Wolof (S
+)0488:00000488;040c:0000040c;0409:00000409
+Hausa (Latin)
+Nigerian Naira
+Januwaru
+Hausa (Latin, Nigeria)
+Hausa (Nigeria)
+)0468:00000468;0409:00000409;040c:0000040c
+Osu kinni
+Osu keji
+Osu keta
+Osu kerin
+Osu karun
+Osu kefa
+Osu keje
+Osu kejo
+Osu kesan
+Osu kewa
+Osu kokanla
+Osu keresi
+Yoruba (Nigeria)
+)046a:0000046a;046a:00000409;046a:0000040c
+Onwa mbu
+Onwa ibua
+Onwa ato
+Onwa ano
+Onwa ise
+Onwa isi
+Onwa asa
+Onwa asato
+Onwa itolu
+Onwa iri
+Onwa iri n'ofu
+Onwa iri n'ibua
+Igbo (Nigeria)
+)0470:00000470;0409:00000409;040c:0000040c
+saa moya z.m.
+saa moya z.n.
+Kinyarwanda
+Rwandan Franc
+Ifaranga
+Ku wa mbere
+Ku wa kabiri
+Ku wa gatatu
+Ku wa kane
+Ku wa gatanu
+Ku wa gatandatu
+Ku cyumweru
+Mutarama
+Gashyantare
+Gicurasi
+Nyakanga
+Ukwakira
+Ugushyingo
+Kinyarwanda (Rwanda)
+046a:00000409
+Bangladesh
+Bangladeshi Taka
+Bengali (Bangladesh)
+)0845:00000445;0845:00010445;0409:00000409
+Gregorian Localized
+Dari (Afghanistan)
+048c:00000463
+Tamazight (Latin)
+Tamazight
+Cutenber
+Dujanbir
+Tamazight (Latin, Algeria)
+Tamazight (Djaza
+Scottish Gaelic
+oghachd Aonaichte
+Nota Bhreatannach
+Diciadain
+Diardaoin
+Dihaoine
+Disathairne
+Am Faoilleach
+An Gearran
+An Giblean
+An t-Iuchar
+An t-Sultain
+An t-Samhain
+miosachan Greag
+ Scottish Gaelic (United Kingdom)
+idhlig (An R
+oghachd Aonaichte)
+ochnachd
+-Neo-chr
+ochnachd
+0491:00011809
+h::mm::ss tt
+d//MM//yyyy
+dddd, d '
+f' MMMM '
+h::mm::ss
+Pseudo Language
+Gregorian Calendar [Pse
+Gregorian Calendar [
+Pseudo Language (Pseudo)
+) !!! !!]
+Pseudo Mirrored
+!Pseudo Language (Pseudo Mirrored)
+) !!! !!! !]
+0409:00000409;09ff:000009ff
+Pseudo Asia
+qpspanese Yen
+Pseudo Language (Pseudo Asia)
+) !!! !!! ]
+Q05fe:{03B5835F-F03C-411B-9CE2-AA23E1171E36}{A76C93D9-5523-4E90-AAFA-4DB112F9AC76}
+Hani;Hira;Kana;
+Norwegian
+srpski (Latinica)
+O'zbekcha (Lotin)
+Mongolian
+bosanski (Latinica)
+Inuktitut (Qaliujaaqpait)
+Gregorian
+Gregorian Calendar (English)
+gg y/M/d
+gg y/M/d' ('ddd')'
+y/M/d' ('ddd')'
+gg yy/MM/dd
+gg yy/MM/dd' ('ddd')'
+yyy/MM/dd
+yyy-MM-dd
+Taiwan Calendar
+gg yyyy-MM-dd
+gg yyyy'
+gg yyyy'
+gg yyyy'
+gg yyyy'
+gg yyyy'
+dd/MM/yyyy '
+' d MMMM gg yyyy
+Japanese Lunisolar
+Chinese Lunisolar
+Lunar ETO Chinese
+Lunar ETO Korean
+Lunar ETO Rokuyou
+Korean Lunisolar
+Taiwan Lunisolar
+@y@y@y@y@y@y@y@y@y@y
+pxpxpxpxpxpxpxpxpxpx
+JvJvJvJvJvJvJvJvJvJv
+JuJuJuJuJuJuJuJuJuJu
+JtJtJtJtJtJtJtJtJtJt
+JsJsJsJsJsJsJsJsJsJs
+`q`q`q`q`q`q`q`q`q`q
+PhPhPhPhPhPhPhPhPhPh
+ h h h h h h h h h h
+f`f`f`f`f`f`f`f`f`f`f
+*#*#*#*#*#*#*#*#*#
+b b b b b b b b b b X X X X X X X X X X N N N N N N N N N N D D D D D D D D D D : : : : : : : : : :  
+1:1;1<1=1>1w1x1y1T1
+111213141515161718191:1;1<1=1>1?1@1B1C1D1E1E1E1E1E1E1G1I1K1M1O1O1O1O1O1P1Q1R1R1R1R1R1R1S1V1
+   0 @ P ` p 
+! !0!@!P!`! 
+% %0%@%P%`%p%
+@&P&`&p&
+@'P'`'p'
+( (0(@(P(`(p(
+) )0)@) 
+0+@+P+`+p+ 
+0,@,P,`,p,
+0 @ P ` p 
+ !0!@!P!`!P
+0"@"P"`"p"
+# #0#@#P#P
+$ $0$@$P$`$p$
+% %0%@%P%`%p%
+& &0&@&P&`&p&P
+' '0'@'P
+( (0(@(P
+@)P)`)p)
+ *0*@*P*`*p*
+, ,0,@,P,P
+- -0-@-P-`-P
+. .0.@.P.`.p.
+@0P0`0p0
+1 101@1P1`1p1
+2 202@2P2P
+3 303@3P3`3p3
+4 404@4P4`4p4
+5 505@5P5`5p5
+6 606@6P
+7 707@7P7`7P
+@8P8`8p8
+9 909@9P9`9p9
+: :0:@:P:`:p:
+; ;0;@;P;`;P
+< <0<@<P<`<p<
+@=P=`=p=
+> >0>@>P>`>p>
+-169.965
+-169.352
+-102.634
+-174.586
+-177.332
+ArabArmnBaliBengBopoBraiBugiBuhdCansCariChamCherZyyyCoptXsuxCprtCyrlDsrtDevaEthiGeorGlagGothGrekGujrGuruHaniHangHanoHebrHiraQaaiKndaKanaHrktKaliKharKhmrLaooLatnLepcLimbLinbLyciLydiMlymMongMymrTaluNkooOgamOlckItalXpeoOryaOsmaPhagPhnxRjngRunrSaurShawSinhSundSyloSyrcTglgTagbTaleTamlTeluThaaThaiTibtTfngUgarZzzzVaiiYiii
+**beging address(0x250000:0x20000)**
+! #!%"'#)$+%-&/'1(3)5*7+9,;-=.?/A0E1I2M3Q4U5Y6]7a8e9i:m;q<u=y>}?
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Windows\system32\config\systemprofile\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=00900BC83802
+ComSpec=C:\Windows\system32\cmd.exe
+FP_NO_HOST_CHECK=NO
+LOCALAPPDATA=C:\Windows\system32\config\systemprofile\AppData\Local
+NUMBER_OF_PROCESSORS=2
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Windows\TEMP
+TMP=C:\Windows\TEMP
+USERDOMAIN=WORKGROUP
+USERNAME=00900BC83802$
+USERPROFILE=C:\Windows\system32\config\systemprofile
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+**beging address(0x350000:0x6000)**
+MMDEVAPI
+MMDEVAPI Device Window
+hreadWndName
+TreeList
+msctls_progress32
+hreadWndName
+&Restore
+Mi&nimize
+Ma&ximize
+&Properties
+&Select All
+&Find...
+**beging address(0x410000:0x1000)**
+**beging address(0x420000:0x1000)**
+**beging address(0x430000:0xd000)**
+!This program cannot be run in DOS mode.
+Select Device
+MS Shell Dlg
+Show &compatible hardware
+SysListView32
+SysListView32
+SysListView32
+(Retrieving a list of all devices)
+&Windows Update
+&Have Disk...
+<A>Tell me why driver signing is important</A>
+MS Shell Dlg
+Copy &files from:
+&Browse...
+File Error
+MS Shell Dlg
+An error has occurred.
+File Progress
+MS Shell Dlg
+SysAnimate32
+msctls_progress32
+MS Shell Dlg
+Confirm File Replace
+MS Shell Dlg
+No to &All
+Source: %1.
+Target: %1.
+The target file exists and is a different language than the source.
+The target file exists and is newer than the source.
+The target file already exists.
+Overwrite the %1 file with the %2 one?
+Overwrite the newer file?
+Would you like to overwrite it?
+Resources
+MS Shell Dlg
+&Resource settings:
+SysListView32
+Setting &based on:
+&Use automatic settings
+&Change Setting...
+&Set Configuration Manually
+Parent device:
+Conflicting device list:
+MS Shell Dlg
+This resource is assigned to the following child device(s):
+msctls_updown32
+Conflict information
+Segoe UI
+Show &compatible hardware
+SysListView32
+SysListView32
+SysListView32
+(Retrieving a list of all devices)
+Windows is updating the list of printers.  This might take a few minutes.
+&Windows Update
+&Have Disk...
+<A>Tell me why driver signing is important</A>
+Microsoft
+(Unknown)
+Locate File
+Insufficient memory
+(Additional models)
+Files Needed
+%1 -- Files Needed
+&Copy files from: &Copy manufacturer's files from:
+Some files on %1 are needed.
+The file '%1' on %2 is needed.iInsert the manufacturer's installation disk, and then make sure that the correct drive is selected below.;Insert %1 into the drive selected below, and then click OK.;Type the path where the file is located, and then click OK.
+Insert Disk
+Copy Error
+Setup cannot copy the file %1.
+If you cancel copying this file Windows might not work correctly. Are you sure you want to cancel this file?TIf you cancel now Windows might not work correctly. Are you sure you want to cancel?
+Ensure that the manufacturer's disk is properly inserted in the drive selected below, or provide the location where the file can be found.vEnsure that the disk labeled '%1' is in the drive selected below, or provide the location where the file can be found.kEnsure that the location specified below is correct, or change it and insert '%1' in the drive you specify.
+Error Details
+Rename Error
+Delete Error
+Backup Error8Do you want to continue Setup without copying this file?
+unspecified language
+unknown language
+Backup %1
+%1 -- Copying Files...
+Copying Files...
+%1 -- Renaming Files...
+Renaming Files...
+%1 -- Deleting Files...
+Deleting Files...
+%1 -- Backup Files...
+Backup Files...)Cannot copy file to destination directoryCInstallation is not yet completed. Are you sure you want to cancel?
+Confirm installation cancel
+p%s: The following models are compatible with your hardware. Click the one you want to set up, and then click OK.mClick the %s that matches your hardware, and then click OK. If you don't know which model you have, click OK.
+: If your model is not on the list, click Show All Devices.C If you have an installation disk for this device, click Have Disk.
+> This list shows only what was found on the installation disk.
+Install From Disk
+Select the manufacturer and model of your hardware device and then click Next. If you have a disk that contains the driver you want to install, click Have Disk.
+Select Device
+Resource type
+Setting}You cannot modify the resources for this device directly. To change its resources, change the resources of its parent device.
+Basic configuration
+Memory Range
+Input/Output Range
+Direct Memory Access
+Interrupt Request
+interrupt request
+direct memory access
+memory range
+input/output range
+Override configuration
+Large Memory Range
+large memory range
+^Before you can use this forced configuration, resources marked with '?' must be explicitly set
+JThis device isn't using any resources because it is not currently enabled.?This device isn't using any resources because it has a problem.
+This device cannot find enough free resources that it can use.
+If you want to use this device, you will need to disable one of the other devices on this system.
+The resources this device is using do not match any of its known configurations. To assign resources manually for this device, click Set Configuration Manually.
+No Modifications Allowed5Enter the %s you would like to set for this device.
+You may either enter a specific range and the nearest valid range will be automatically selected, or you may select a range using the up and down arrows.
+Edit Resource Setting
+The setting you entered, %1, is not valid for this device.
+The next valid setting of %2 has been chosen automatically.
+Would you like to continue using the new setting?
+Either the starting or ending value you entered is invalid.
+Check that the starting and ending values are between 0x00000000 and 0xFFFFFFFF.
+Either the starting or ending value you entered is invalid.
+Check that the starting and ending values are between 0x0000 and 0xFFFF.fThe direct memory access (DMA) value entered is invalid.
+Check that the DMA value is between 0 and 7.kThe interrupt request (IRQ) value entered is invalid.
+Please check that the IRQ value is between 0 and 15.
+Warning: The setting you have chosen conflicts with another device.
+To select a different resource setting, click No. To continue, click Yes.
+Conflict Warning
+Either the starting or ending value you entered is invalid.
+Check that the starting and ending values are between 0x00000000'00000000 and 0xFFFFFFFF'FFFFFFFF.
+/No conflict information is currently available.}You cannot modify the resources in this configuration. Try choosing a different configuration in the 'Settings Based On' box.
+This resource setting cannot be modified in this configuration. Try choosing a different configuration in the 'Settings Based On' box.5Enter the %s you would like to set for this device.
+You may either enter a specific value and the nearest valid value will be automatically selected, or you may select a value using the up and down arrows.
+Edit %sVWindows cannot determine if the setting you have chosen conflicts with another device.
+UnknownEThe setting you have chosen does not conflict with any other devices.
+No devices are conflicting.
+Creating a Forced Configuration6You adjusted one or more resource settings manually.
+AIf you continue, these settings will be assigned to the device.
+Do you want to continue?
+LWarning: The setting you have chosen conflicts with the following device(s):
+%1!s! %2!s! used by:
+No conflicts.+This device does not require any resources.+First select the resource you wish to edit.
+%1!s! %2!s! not available.
+MWindows cannot determine if there are any resource conflicts for this device.
+Unknown Device
+modelQWarning: The setting you have chosen may not work due to the following reason(s):
+The resource is unavailable
+Current configuration
+Memory Range
+I/O Range
+Large Memory Range
+Setup Information
+Precompiled Setup Information
+&Install
+Manufacturer This driver is digitally signed.$This driver is not digitally signed!.This driver has an Authenticode(tm) signature.
+Windows for 32-bit systems!Windows for Itanium-based systems
+Windows for x64-based systems
+Information
+Fatal Error
+Device installer error
+Unknown driver software package
+Update Driver WarningzInstalling this device driver is not recommended because Windows cannot verify that it is compatible with your hardware.  
+Windows Driver Cabinet,(Unable to find any drivers for this device)"(Retrieving a list of all devices)
+Windows was unable to find any drivers for this device.
+If you have a disk that contains the updated driver, or you wish to search in another location, click OK.
+If the driver is not compatible, your hardware will not work correctly and your computer might become unstable or stop working completely.  /Do you want to continue installing this driver?
+?Select the device driver you want to install for this hardware.
+ Version: %0d.%0d.%0d.%0d
+Continuing your installation of this software may impair or destabilize the correct operation of your system either immediately or in the future. Microsoft strongly 
+recommends that you stop this installation now and contact the hardware vendor for software that has passed Windows Logo testing.
+Continuing your installation of this software may impair or destabilize the correct operation of your system either immediately or in the future. Microsoft strongly 
+recommends that you stop this installation now and contact the software vendor for software that has passed Windows Logo testing.
+Unknown Publisher$Unknown Publisher Certificate Issuer
+#File not found or not valid format.9The Trust Provider is unknown or not configured properly.;The object to be verified is unknown to the Trust Provider.!Authenticode signature not found.?The signature does not match the content of the signed message.%Content does not match the signature.*Signature does not contain a valid signer.7Signature does not contain a valid signing certificate.
+Signature does not contain a valid counter signing certificate..A certificate (signing or issuer) has expired.GCertificate signature could not be verified using issuer's certificate.JUnable to create certificate chain from the signing certificate to a root.<The root certificate has not been enabled as a trusted root.5The test root has not been enabled as a trusted root.eSigning certificate's starting or ending time is outside one of its issuer's starting or ending time.[A purpose specified in a certificate (signing or issuer) makes it invalid for Authenticode.MA basic constraint of a certificate in the signature failed for Authenticode.SCertificate does not contain or does not meet the Authenticode financial extension.TThe signature contains a time stamp.  However, the time stamp could not be verified.<Signing certificate or issuing certificate has been revoked.;An error occurred while accessing online revocation server.JSignature is not trusted by Authenticode with the current policy settings.VThe extension in a certificate means the certificate can not be used for Authenticode.@The root certificate has not been enabled for the requested use.FThe installed INF file does not contain digital signature information..Error in ASN encoding (MSOSS error code: 0x%1)(Error in Authenticode (error code: 0x%1)#Publisher authenticity verified by 
+ &Always trust software from "%1"
+Unknown driver package software4Would you like to install driver software from "%1"?
+(No description available)
+Not digitally signed
+Device Driver Package Install:
+ZWindows will notify you if there are steps you can take to get your device up and running.
+Check online for a solution now!Check online for a solution later
+Don't check online
+ZWindows will notify you if there are steps you can take to get your device up and running.
+Check online for a solution now!Check online for a solution later1Don't check online; I'll set up this device later
+Driver software installation
+Could not find driver software
+Windows detected a new device attached to your computer, but could not find the driver software it needs to make the device usable. Each device manufacturer typically includes driver software of a CD that comes with the device, or as a download from its website. The hardware ID of your device is %ws.
+Driver software installation!Could not install driver software
+Windows could not copy all of the files needed to install this device driver software. This sometimes happens when the driver software was not designed for this version of Windows.
+Driver software installation,Could not install driver software for deviceJWindows encountered a problem while installing device drivers for your %ws
+Could not load driver software
+Windows was able to successfully install device driver software, but the driver software encountered a problem when it tried to run. The problem code is %d.
+Architecture
+Hardware Id
+Win32 error
+Inf name
+Driver Package hash
+DDInstall section name
+Setup class GUID
+PnP problem code
+Driver name
+Driver version
+Driver date
+Driver software installation!Installed generic driver software
+Windows installed driver software that supports the basic features of your %ws. Its manufacturer may provide software that enables additional features.
+Driver date and version
+OS Version
+Install Language
+Class Description
+MSG_FIRST
+%1 (error #%2!u!).
+Source: %3
+Destination: %4%0
+An error occurred while renaming a file: "%1" (error #%2!u!).
+Current file name: %3
+New file name: %4
+Click Retry to retry the operation or click Cancel to cancel.%0
+An error occurred while deleting file %1.
+%2 (error #%3!u!).
+Click Retry to retry the operation or click Cancel to cancel.%0
+The required files are already installed on your hard disk. Setup can use these existing files, or Setup can recopy them from your original Windows CD-ROM or from a network share.
+Would you like to skip file copying and use the existing files? (If you click No, you will be prompted to insert your Windows CD-ROM or to supply an alternate location where the needed files may be found.)%0
+You must select an item before continuing.
+The folder you specified doesn't contain driver software for your device. Select a folder that contains your driver software and try again.
+Windows could not load the installer for %1. Contact your hardware vendor for assistance.
+Windows could not retrieve the list of devices.
+Installation failed.
+Please insert the disc labeled '%1' into drive '%2!c!:' and then click OK.
+You can also click OK without inserting a disc if you want to specify an alternate location for the setup files.%0
+An error occurred while backing up file %1.
+%2 (error #%3!u!).
+Click Retry to retry the operation or click Cancel to cancel.%0
+An error occurred while copying file %1.
+Click Retry to retry the operation or click Cancel to cancel.%0
+Windows was unable to get a list of devices from Windows Update. Please try again later.
+The folder you specified doesn't contain a compatible software driver for your device. If the folder contains a driver, make sure it is designed to work with %1.
+Driver Management concluded the process to install driver %1 for Device Instance ID %4 with the following status: %9.
+Driver Management concluded the process to remove driver %1 from Device Instance ID %4 with the following status: %9.
+Driver Management has concluded the process to add Service %1 for Device Instance ID %3 with the following status: %6.
+Driver Management has concluded the process to remove Service %1 for Device Instance ID %3 with the following status: %6.
+Driver Management has restricted the installation of Device Instance ID %1 because of a Device Installation Restriction policy setting.
+Driver Management has deferred the process to install Device Instance ID %1 until a driver has been selected because of a Device Installation Restriction policy setting.
+Driver Management has removed Device Instance ID %1 because of a Device Installation Restriction policy setting.
+Driver Management has not removed Device Instance ID %1 with matching policy restriction because it is a required system device.
+Driver Management will reboot the system in %1 seconds to enforce a Device Installation Restriction policy setting.
+One or more of the Plug and Play service's subsystems has changed state. %n%nPlugPlay install subsystem enabled: '%1' %nPlugPlay caching subsystem enabled: '%2' %n
+Device action request for device '%1' was vetoed by '%2' with veto type %3.
+Response Time
+Information
+The service '%1' may not have unregistered for device event notifications before it was stopped.
+Client side device installation was not performed because the file '%1' was not found.
+HotPlug notification was not performed because the file '%1' was not found.
+Plug and Play user-interface dialogs have been suppressed on EmbeddedNT.
+Client side device installation was not performed for '%1' because all user-interface dialogs have been suppressed.
+HotPlug notification was not performed for '%1' because all user-interface dialogs have been suppressed.
+Plug and Play user-interface dialogs have been suppressed in Factory Mode.
+Microsoft-Windows-UserPnp
+Microsoft-Windows-PnPMgrTriggerProvider
+New device queued up for install.
+Plug and Play install scheduler has started.
+Plug and Play install scheduler has exited.
+Plug and Play install worker thread has started.
+Plug and Play install worker thread has exited.
+Parent of current device is already ahead in the install queue.
+Current device is a volume snapshot device.
+Client %5 successfully registered for device notifications.
+Error sending device event notification window message to client %1 (hWnd=%2, Session=%3, Err=%4).
+Error sending service control for device event notification to client %1 (Session=%2, Err=%3).
+Error broadcasting system message for device event notification (Err=%1).
+Sending notification for event %2 for device: %1.
+Received device event from Kernel PnP (GUID=%1, EventCategory=%2, Async=%3).
+User PnP completed handling of the device event (GUID=%1, EventCategory=%2, Async=%3).
+Start processing '%1'.
+Finished processing '%1' (Err=%2).
+START: Core device install operations.
+END: Core device install operations.
+ENTER: Synchronization wait for core device install.
+EXIT: Synchronization wait for core device install.
+ENTER: Wait for next plug and play event.
+EXIT: Wait for next plug and play event.
+ENTER: Stage driver package
+EXIT: Stage driver package
+ENTER: Searching WU for driver updates.
+EXIT: Searching WU for driver updates.
+ENTER: Downloading driver update from WU.
+EXIT: Downloading driver update from WU.
+ENTER: Sending event notification to service (%1).
+EXIT: Sending event notification to service (%1).
+ENTER: Sending event notification to window (%1).
+EXIT: Sending event notification to window (%1).
+ENTER: Device installation restrictions policy check.
+EXIT: Device installation restrictions policy check.
+ENTER: Build driver info list.
+EXIT: Build driver info list.
+ENTER: Build driver info list - search published INFs.
+EXIT: Build driver info list - search published INFs.
+ENTER: Build driver info list - search Device Path.
+EXIT: Build driver info list - search Device Path.
+ENTER: Build driver info list - use CDM to search WU.
+EXIT: Build driver info list - use CDM to search WU.
+ENTER: Build driver info list - search caller specified folder.
+EXIT: Build driver info list - search caller specified folder.
+ENTER: PnpInstallDevice - install device instance.
+EXIT: PnpInstallDevice - install device instance.
+START: Searching WMIS for metadata package
+STOP: Searching WMIS for metadata package
+START: Downloading metadata package from WMIS
+STOP: Downloading metadata package from WMIS
+START: Searching local index for metadata package
+STOP: Searching local index for metadata package
+START: Unpacking metadata package into cache
+STOP: Unpacking metadata package into cache
+START: Parsing packageinfo.xml for metadata properties
+STOP: Parsing packageinfo.xml for metadata properties
+START: Scanning local store for new metadata packages
+STOP: Scanning local store for new metadata packages
+START: Initializing DMRC
+STOP: Initializing DMRC
+START: Uninitialize DMRC
+STOP: Uninitializing DMRC
+%1 (Package: %2 Error Code = %3, Win32 Error Code = %4)
+A new device metadata package was downloaded from WMIS. (Path: %1)
+%1 (Package: %2 Error Code = %3, Win32 Error Code = %4)
+A new device metadata package was discovered. (Package Name: %1, Path: %2)
+DMRC was queried for type '%1' with lookup key '%2'
+%1 (Error Code = %2, Last Http Status Code = %3)
+Error creating pending install event
+Error allocating event block
+Error writing to surprise removal pipe
+Error writing to server side install pipe
+The device %1 disappeared from the system without first being prepared for removal.
+The device '%1' (%2) disappeared from the system without first being prepared for removal.
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Windows Setup API
+FileVersion
+6.1.7600.16385 (win7_rtm.090713-1255)
+InternalName
+SETUPAPI.DLL
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+SETUPAPI.DLL.MUI
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+6.1.7600.16385
+VarFileInfo
+Translation
+PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+**beging address(0x440000:0x10000)**
+OR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Publ
+TEMP=C:\Windows\TEMP
+TMP=C:\Windows\TEMP
+USERDOMAIN=WORKGROUP
+USERNAME=00900BC83802$
+USERPROFILE=C:\Windows\system32\config\systemprofile
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpacka
+                          
+                        
+        
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+C:\Windows\system32\svchost.exe
+DcomLaunch
+systemprofile\AppData\Local
+NUMBER_OF_PROCESSORS=2
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system3
+;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.W
+ESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program
+ulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SystemDrive=C:
+SystemRoot=C:\Windows
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Windows\system32\config\systemprofile\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=00900BC83802
+ComSpec=C:\Windows\system32\cmd.exe
+FP_NO_HOST_CHECK=NO
+LOCALAPPDATA=C:\Windows\system32\config\systemprofile\AppData\Local
+NUMBER_OF_PROCESSORS=2
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Windows\TEMP
+TMP=C:\Windows\TEMP
+USERDOMAIN=WORKGROUP
+USERNAME=00900BC83802$
+USERPROFILE=C:\Windows\system32\config\systemprofile
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+NT AUTHORITY\SYSTEM
+NT AUTHORITY\NETWORK SERVICE
+**beging address(0x4c5000:0xb000)**
+**beging address(0x4d0000:0x1000)**
+**beging address(0x4e0000:0x1000)**
+**beging address(0x4f0000:0x1000)**
+**beging address(0x500000:0x1000)**
+**beging address(0x510000:0x1000)**
+**beging address(0x520000:0x2000)**
+**beging address(0x630000:0x4000)**
+!This program cannot be run in DOS mode.
+Plug and Play
+Enables a computer to recognize and adapt to hardware changes with little or no user input. Stopping or disabling this service will result in system instability.
+Disable Device
+Eject Device
+Enable Device
+Generate Legacy Device
+Query-remove/Remove Device
+Re-enumerate Device
+Register Driver
+Set Device Problem
+Setup Device
+Unknown Device Action
+Eject Dock Device
+Set Hardware Profile
+Driver Management concluded the process to install driver %1 for Device Instance ID %4 with the following status: %9.
+Driver Management concluded the process to remove driver %1 from Device Instance ID %4 with the following status: %9.
+Driver Management has concluded the process to add Service %1 for Device Instance ID %3 with the following status: %6.
+Driver Management has concluded the process to remove Service %1 for Device Instance ID %3 with the following status: %6.
+Driver Management has restricted the installation of Device Instance ID %1 because of a Device Installation Restriction policy setting.
+Driver Management has deferred the process to install Device Instance ID %1 until a driver has been selected because of a Device Installation Restriction policy setting.
+Driver Management has removed Device Instance ID %1 because of a Device Installation Restriction policy setting.
+Driver Management has not removed Device Instance ID %1 with matching policy restriction because it is a required system device.
+Driver Management will reboot the system in %1 seconds to enforce a Device Installation Restriction policy setting.
+One or more of the Plug and Play service's subsystems has changed state. %n%nPlugPlay install subsystem enabled: '%1' %nPlugPlay caching subsystem enabled: '%2' %n
+Device action request for device '%1' was vetoed by '%2' with veto type %3.
+Response Time
+Information
+The service '%1' may not have unregistered for device event notifications before it was stopped.
+Client side device installation was not performed because the file '%1' was not found.
+HotPlug notification was not performed because the file '%1' was not found.
+Plug and Play user-interface dialogs have been suppressed on EmbeddedNT.
+Client side device installation was not performed for '%1' because all user-interface dialogs have been suppressed.
+HotPlug notification was not performed for '%1' because all user-interface dialogs have been suppressed.
+Plug and Play user-interface dialogs have been suppressed in Factory Mode.
+Microsoft-Windows-UserPnp
+Microsoft-Windows-PnPMgrTriggerProvider
+New device queued up for install.
+Plug and Play install scheduler has started.
+Plug and Play install scheduler has exited.
+Plug and Play install worker thread has started.
+Plug and Play install worker thread has exited.
+Parent of current device is already ahead in the install queue.
+Current device is a volume snapshot device.
+Client %5 successfully registered for device notifications.
+Error sending device event notification window message to client %1 (hWnd=%2, Session=%3, Err=%4).
+Error sending service control for device event notification to client %1 (Session=%2, Err=%3).
+Error broadcasting system message for device event notification (Err=%1).
+Sending notification for event %2 for device: %1.
+Received device event from Kernel PnP (GUID=%1, EventCategory=%2, Async=%3).
+User PnP completed handling of the device event (GUID=%1, EventCategory=%2, Async=%3).
+Start processing '%1'.
+Finished processing '%1' (Err=%2).
+START: Core device install operations.
+END: Core device install operations.
+ENTER: Synchronization wait for core device install.
+EXIT: Synchronization wait for core device install.
+ENTER: Wait for next plug and play event.
+EXIT: Wait for next plug and play event.
+ENTER: Stage driver package
+EXIT: Stage driver package
+ENTER: Searching WU for driver updates.
+EXIT: Searching WU for driver updates.
+ENTER: Downloading driver update from WU.
+EXIT: Downloading driver update from WU.
+ENTER: Sending event notification to service (%1).
+EXIT: Sending event notification to service (%1).
+ENTER: Sending event notification to window (%1).
+EXIT: Sending event notification to window (%1).
+ENTER: Device installation restrictions policy check.
+EXIT: Device installation restrictions policy check.
+ENTER: Build driver info list.
+EXIT: Build driver info list.
+ENTER: Build driver info list - search published INFs.
+EXIT: Build driver info list - search published INFs.
+ENTER: Build driver info list - search Device Path.
+EXIT: Build driver info list - search Device Path.
+ENTER: Build driver info list - use CDM to search WU.
+EXIT: Build driver info list - use CDM to search WU.
+ENTER: Build driver info list - search caller specified folder.
+EXIT: Build driver info list - search caller specified folder.
+ENTER: PnpInstallDevice - install device instance.
+EXIT: PnpInstallDevice - install device instance.
+START: Searching WMIS for metadata package
+STOP: Searching WMIS for metadata package
+START: Downloading metadata package from WMIS
+STOP: Downloading metadata package from WMIS
+START: Searching local index for metadata package
+STOP: Searching local index for metadata package
+START: Unpacking metadata package into cache
+STOP: Unpacking metadata package into cache
+START: Parsing packageinfo.xml for metadata properties
+STOP: Parsing packageinfo.xml for metadata properties
+START: Scanning local store for new metadata packages
+STOP: Scanning local store for new metadata packages
+START: Initializing DMRC
+STOP: Initializing DMRC
+START: Uninitialize DMRC
+STOP: Uninitializing DMRC
+%1 (Package: %2 Error Code = %3, Win32 Error Code = %4)
+A new device metadata package was downloaded from WMIS. (Path: %1)
+%1 (Package: %2 Error Code = %3, Win32 Error Code = %4)
+A new device metadata package was discovered. (Package Name: %1, Path: %2)
+DMRC was queried for type '%1' with lookup key '%2'
+%1 (Error Code = %2, Last Http Status Code = %3)
+Error creating pending install event
+Error allocating event block
+Error writing to surprise removal pipe
+Error writing to server side install pipe
+The device %1 disappeared from the system without first being prepared for removal.
+The device '%1' (%2) disappeared from the system without first being prepared for removal.
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+User-mode Plug-and-Play Service
+FileVersion
+6.1.7600.16385 (win7_rtm.090713-1255)
+InternalName
+Umpnpmgr.DLL
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+Umpnpmgr.DLL.MUI
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+6.1.7600.16385
+VarFileInfo
+Translation
+PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+**beging address(0x716000:0xa000)**
+I_RpcExceptionFilter
+**beging address(0x720000:0x2cf000)**
+az-Latn-AZ
+linguistic_casing
+JJVVVVdd
+                          
+                       
+                 
+         
+PPPPPPPPPPPPPPPP                                
+00000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000
+                          
+JJVVVVdd
+                          
+                       
+                 
+         
+PPPPPPPPPPPPPPPP                                
+00000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000
+                          
+JJVVVVdd
+        
+                 
+                       
+                 
+         
+PPPPPPPPPPPPPPPP                                
+00000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000
+                          
+JJVVVVdd
+        
+                 
+                       
+                 
+         
+PPPPPPPPPPPPPPPP                                
+00000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000
+                          
+######$#########$######
+######$%&&&&&&%&&&&&&&&&%&&&&&&
+&&&&&&%&0
+'('('('('('('('('($%'('(%'('('('('('('('(($%'('('($%'('('('('('('('('('(''('('(%($$%$%$$%$$$%%$$$$%$$%$'$%(($$%''($%$%$$%$%($%''($$$%$%$$%%)$%%%))))'*($+%$+%'('('('('('('('(%'(($+%'($$$%'('('(P
+'('('('($%$%$%$%$%$%$%$%$%$%$%$%$%$%%%%%%%$$%$$%%$%$$$$%$%$%$%$%%%%%%%%%%%%%%%%%%%%%%%%%(%%(%%%%%%%%)%%%%%%%%%%%,,,,,,,,,--.,.....-----/--//---/..------//////--,,,,.---------.-----------------P
+0000000000000000000000000000000100000000111110000001111111111111$%$%--$%
+''($$$$$$$$$$$$$$$$$
+$$$$$$$''(((((%%%%%%%%%%%%%%%%%%%%%%%%%((((($%%$''%%%$%$%$%$%%%%%$%3$%$$%%$$$
+$'$'$$$'$$$$'$'$$$$$$$$$$'$$$$$$$$$$$$$$$$$$$$$$%%%%%%%%%(%%%%%%%(%(%%%(%%%%(%(%$%$%$%'($%$%$%$%$%40000011$%$%$%$%'($%$%'($%$%$%$%$%$%$%$%'($%$%'($%$%$%$%$%$%'($'($%$%$%$%$%$%%'('($%'($%'('('($%'('('($%'($%'('('('($%'($%$%$%
+$$$$$$$$$$$$$$$$$$$$$$
+%%%%%%%%%%%%%%%%%%%%%%%
+0000000000000000010000000000000000000000000007070070171
+888888888888888888888888888
+33:;;:<733111111111117
+888888888888888=8888888888000000001111001>>>11
+??????????;@@7880888888888888888888878111111191001111AA113000188BBBBBBBBBB888::8
+77777777777777
+818888888888888800000000000
+888888888000000000008
+CCCCCCCCCC88888888888888888000000000AA3"""8
+11D))))))))))))))))))))))))))))))))))))))
+0)EEE>>>>>>>>EEEE0
+))))))))))>>66FFFFFFFFFF6.)
+))))))))
+))))))))))))))))))))))
+0)EEE>>>>
+FFFFFFFFFF))GGDDDDDD4
+FFFFFFFFFF11)))1
+))))))))I
+))))))))))))))
+0)EEE>>>>>
+0)E>E>>>>
+))))))))))))
+DDD333333G3
+))))))))
+))))))))))))))))))
+)>>>EEEE
+JJJJJJJ4
+))))))))
+0)EEEEEEE
+))))))))))
+)EEE>>>>
+))))))))))))))))))
+))))))))
+)))))))))
+EEEEEEEE
+)))))))))))))))))))I)I))))))))KILIILLLLLLM
+GIIIIIIKMMMMMMMM6FFFFFFFFFF66
+)))I>II>>>>>>
+FFFFFFFFFF
+)4446666666666666664444400444444FFFFFFFFFFDDDDDDDDDD404040""""NN))))))))
+))))))))))))))))))))
+>>>>>>>>>>>>>1D>>000600))))
+11111111
+111111111111111111111111111111111111
+444444440444444
+)))))))))))EE>>>>E>>>>10D00DD11)FFFFFFFFFF666666))))))EE>>))))111)EDD))EEDDDDD)))>>>>)))))))))))))1EE>>NNNNNN0)NFFFFFFFFFF
+44$$$$$$
+)))))))))))6)
+))))))))))
+))))))))))))))))))
+)))))))))
+)))))))))))))))
+))))))))@
+)))))))))))
+1466666666DDDDDDDDDDDDDDDDDDDD
+3333333333
+)))))))))))))66))))))))
+O))))))))))))))))))))))))))""
+)))))))))))666))@
+)))))))))))))
+)))IIIIIIIIIIIIIIIIIPPE>>>>>>>EEEEEEEE1DD00000000000666)666G)0
+FFFFFFFFFF
+JJJJJJJJJJ
+"""""""""""111Q
+)))I))))))))))))))))))))
+)))))))))1)
+I)))))))))))))))>>>EEEE>>111
+DD1DDDDDD000
+""FFFFFFFFFF))))))))))))))
+EEEEEEEEEEEEEEEEE)))))))DD
+FFFFFFFFFF
+""3333333333333333
+)))))))>>EEE
+1111D)))))))))))))))0E>>>>>E>EEEEE>EN)))))))
+64444444444000000000444444444
+11D))))))))))))))D11>>EE>>N
+))))DDEEEEEE>1111111DD00
+66666FFFFFFFFFF
+)))FFFFFFFFFF))))))))))))))......66@
+%%%%%%%%%%%%......................(((((((((%%%%%%%%%%%%%)%%%%%%%%%%%%%%%%%%)))))11110000000000001111111
+'('('(((((((%%$%'('('('('($%$%$%P
+((((((((''''''''((((((
+((((((((
+'((((((((((((((
+((((((((********(((((
+((''''*/R///(((
+((''''*///((((
+///(((((((('''''///
+((''''*//
+OOOOOOOOOOO
+S9222222""TT""TT""""""""""OU
+V;;WWW"""2""""""""""2X"""""""""""""3""""""""""""O
+YYYYYYZ[\""RYYYYYYYYYYZ[\""
+GGGGGGGGG]GGGGGGGGGGGG
+33$3333$33%$$$%%$$$%3$333$$$$$333333$3$3$3$$$$G%$$$$%))))%33%%$$33333$%%%%3333%4
+JJJJJJJJJJJJJ)))$%))))
+33[G3\\333333333
+333333333""33333333333444444444444444444444444444444444444433333333334333333333333333333
+33333333333
+JJJJJJJJJJJJJJJJJJJJJJJJYYYYYYYYYYYYYYYYYYYY44444444444444JJJJJJ
+\333\\33\\333333333333333333\\330
+33333333333333
+33333333333343333333333333333
+333333333333
+3333333333333333333
+3333333""""""""""""""JJJJJJJJJJJJJJ3
+33333333
+33333333333333
+33333""3333
+333333""""""""""
+333""""""""""""""""""""""333333333333333""""3333333333333333""33
+$$$$$$$$$$$$$$$
+%%%%%%%%%%%%%%%
+$%$$$%%$%$%$%$$$
+%$%%$%%%%%%%)
+$%$%%333333
+))))))))
+"""""""""""""""""""""""""""""""-"
+3333333333
+333333333333
+^TT23)__""""TT""""33""""""""2"""3_________0000002`a`a`33___))"33
+bbbbbbbbbbbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbbbbbbccbccbccbccbccbbbbbbbbbbbbbbbbbbbbbbbbb
+ddeefgbhiiiiiiiiiiijijijijijijijijijijijijiijijijiiiiiijjijjijjijjijjiiiiiiiiiiiiiiiikikkiijkkjjjjlmnok
+)))))))))))
+pppppppppppppppppppppppppppppppppppp))))))))))))))))))))))))))
+44DDDD4444444444kkkkkkkkkkkkkkkk
+444444444444433
+DDDDDDDDDD4444444444
+3JJJJJJJJJJJJJJJ44444444444433344JJJJJJJJJJJJJJJ4444444444443333qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+444444433334444444444444444444334444444444444443P
+________________
+)))))))))))))"""FFFFFFFFFF))
+$%$%$%$%$%$%)0111"
+00"-$%$%$%$%
+3333333-----------$%$%$%$%$%$%$%%%$%$%$%$%$%$%$%)%%%%%%%%$%$%$$%$%$%$%$%-44$%
+ ))1)))1))))1)))))))EE>>E3333
+))))""""
+DD))))))))))))))))))DEEEEEEEEEEEEEEE0
+))))))>>>>>000r6)))))))>>>>>>>>111DN
+)))))))))>>>>>>EE>>DD11
+)))1))))))))1D
+FFFFFFFFFF
+ssssssssssssssss
+"tttttttttttttttt
+"DDDDDDDDDDDDDDDD
+"______________
+)))))))))))
+__________
+808888888888Z8888888888888
+888888888888
+8888888888888`#p#
+88888888888888""
+8888888888888888888888
+888888888888:3
+@$""""""""""
+"22"""""""""""""<"<
+"<""2"""""";""Zu33\
+88888888888888888888888
+TTxyxTzTTT{|}|~
+% %0%@%P%`%p%
+AEUETHssaeuethIJijOEoeD
+LJLjljNJNjnj
+AUBqcccdcmc
+VfmGBGyhaHgHPHzinIUk
+kAKBkgKKk
+VkWktlmlnlxm
+WmVMVmWMWnAnFnmnsnVnWoVPapApcpFPHPRpspVpWsrSvWbDbQpfnlslzAEaeAEaeaaAA
+aoAOauAU
+avAVavAVayAYooOOSSthTHthTHvyVYLLll
+tzm-Latn-DZ
+sr-Latn-CS
+sr-Cyrl-CS
+bs-Latn-BA
+sr-Latn-BA
+sr-Cyrl-BA
+sr-Cyrl-RS
+sr-Cyrl-ME
+sr-Latn-RS
+sr-Latn-ME
+az-Latn-AZ
+az-Cyrl-AZ
+tr-TR_turkic
+az-Latn-AZ_turkic
+hu-HU_technl
+es-ES_tradnl
+x-IV_mathan
+ja-JP_radstr
+zh-TW_pronun
+zh-CN_stroke
+zh-SG_stroke
+zh-MO_stroke
+zh-TW_radstr
+zh-HK_radstr
+zh-MO_radstr
+az-Cyrl-AZ
+az-Latn-AZ
+az-Latn-AZ_turkic
+bs-Latn-BA
+de-DE_phoneb
+es-ES_tradnl
+hu-HU_technl
+ja-JP_radstr
+ka-GE_modern
+sr-Cyrl-BA
+sr-Cyrl-CS
+sr-Cyrl-ME
+sr-Cyrl-RS
+sr-Latn-BA
+sr-Latn-CS
+sr-Latn-ME
+sr-Latn-RS
+tr-TR_turkic
+tzm-Latn-DZ
+x-IV_mathan
+zh-CN_stroke
+zh-HK_radstr
+zh-MO_radstr
+zh-MO_stroke
+zh-SG_stroke
+zh-TW_pronun
+zh-TW_radstr
+**beging address(0x9f0000:0x2000)**
+**beging address(0xb70000:0x3000)**
+&Try Again
+&Continue
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+++++++--+-+
+-+----++++++++
+tFTOd8fen=
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+^%S<O_Z__`'""
+--~Ts>o_zY
+**beging address(0xb80000:0x181000)**
+**beging address(0xe06000:0xa000)**
+3353097500
+S-1-5-21-440116545-4042662141-3353097614-500
+Control Panel\International
+C:\Windows\system32\drivers\en-US\pci.sys.mui
+SW\{eeab7790-c514-11d1-b42b-00805fc1270e}
+1D1-B42B-00805FC
+SW\{eeab7790-c514-11d1-b42b-00805fc1270e}
+d36e972-e325-11ce-bfc1-08002be10318}\0012
+**beging address(0xe10000:0x10000)**
+eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\#{78032B7E-4968-42D3-9F37-287EA86C0AAA}
+MMDEVAPI Device Window
+MMDEVAPI Device Window
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+MMDEVAPI Device Window
+MMDEVAPI Device Window
+MMDEVAPI Device Window
+MMDEVAPI Device Window
+MMDEVAPI Device Window
+IMAPI2 Notification Window
+\?\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}
+eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\#
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+MMDEVAPI Device Window
+MMDEVAPI Device Window
+MMDEVAPI Device Window
+MMDEVAPI Device Window
+spoolsv.exe
+spoolsv.exe
+spoolsv.exe
+LanmanWorkstation
+BluetoothNotificationAreaIconWindowClass
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+VID_80EE&PID_0021#6&2152eeac&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\#
+ID_DEVICE
+MMDEVAPI Device Window
+AudioSrv
+Dnscache
+Schedule
+WPDShServiceObject_WND
+AudioSrv
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+AudioEndpointBuilder
+AudioEndpointBuilder
+eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\#
+PCI\VEN_80EE&DEV_BEEF
+PCI\VEN_80EE&DEV_BEEF&CC_030000
+PCI\VEN_80EE&DEV_BEEF&CC_0300
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+VID_80EE&PID_0021#6&2152eeac&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\#
+0c91405dd}
+ShellHWDetection
+ShellHWDetection
+ShellHWDetection
+ShellHWDetection
+ShellHWDetection
+ShellHWDetection
+#?#USB#VID_80EE&PID_0010#5&18f54cb7&0&1#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+#?#Root#MS_NDISWANIPV6#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}
+#ery\0000
+ide\diskhitachi_hts543232a8a384_________________es2oa60w\5&394c0ad3&0&0.0.
+.t\legacy_luafv\0000
+root\legacy_wdf01000\0000
+storage\volume\{8eed2816-674f-11e7-a1
+96e6f6e6963}#0000000006500000
+root\legacy_rdbss\0000
+acpi\pnp0000\4&1d401fb5&0
+Dlume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000
+root\legacy_afd\0000
+On_8086&dev_7000&subsys_00000000&rev_00\3&267a616a&0&08
+root\legacy_mountmgr\0000
+Z669f1-9bc2-11d0-8299-0000f822fe8a}\{cf1dda2c-9743-11d0-a3ee-00a0c9223196}
+root\lega
+eplwf\0000
+root\legacy_rdpcdd\0000
+acpi\pnp0100\4&1d401fb5&0
+root\legacy_ansfltr\000
+pt\legacy_mpsdrv\0000
+root\mssmbios\0000
+root\legacy_rdpencdd\0000
+acpi\pnp0200\4&1d
+ide\diskvbox_harddisk___________________________1.0_____\5&394c0ad3&0&0.0.0
+acy_beep\0000
+root\ms_agilevpnminiport\0000
+root\legacy_mrxsmb\0000
+storage\volume\
+2816-674f-11e7-a13a-806e6f6e6963}#0000000006600000
+acpi\acpi0003\0
+pci\ven_8086&dev
+&subsys_00000000&rev_01\3&267a616a&0&09
+storage\volume\{9d5b2340-df21-11e7-acb9-806
+6963}#00000004f3900000
+root\legacy_rdprefmp\0000
+acpi\pnp0303\4&1d401fb5&0
+root\leg
+owser\0000
+acpi\fixedbutton\2&daba3ff&2
+root\legacy_mrxsmb10\0000
+root\ms_l2tpminip
+sw\{ddf4358e-bb2c-11d0-a42f-00a0c9223196}\{97ebaacb-95bd-11d0-a3ea-00a0c9223196
+t\legacy_rspndr\0000
+acpi\pnp0a03\0
+root\legacy_cdfs\0000
+acpi\genuineintel_-_intel
+mily_6_model_42_-_________intel(r)_core(tm)_i5-2400_cpu_@_3.10ghz\_0
+root\legacy_mr
+root\ms_ndiswanbh\0000
+acpi\pnp0f03\4&1d401fb5&0
+root\legacy_secdrv\0000
+acy_clfs\0000
+pci\ven_106b&dev_003f&subsys_00000000&rev_00\3&267a616a&0&30
+pci\ven_
+dev_beef&subsys_00000000&rev_00\3&267a616a&0&10
+storage\volume\{8eed2816-674f-11e7-
+806e6f6e6963}#00000004f3800000
+root\legacy_msfs\0000
+storage\volume\{9d5b2340-df21-
+acb9-806e6f6e6963}#00000004f9c00000
+root\ms_ndiswanip\0000
+acpi_hal\pnp0c08\0
+y_spldr\0000
+root\legacy_cng\0000
+root\legacy_msisadrv\0000
+root\ms_ndiswanipv6\000
+play\default_monitor\4&2abfaa30&0&12345678&00&02
+root\legacy_srv\0000
+root\legacy_c
+sw\{eeab7790-c514-11d1-b42b-00805fc1270e}\asyncmac
+root\legacy_mup\0000
+pci\ven_
+dev_100e&subsys_001e8086&rev_02\3&267a616a&0&48
+pci\ven_80ee&dev_cafe&subsys_000000
+v_00\3&267a616a&0&20
+root\ms_pppoeminiport\0000
+root\legacy_srv2\0000
+root\legacy_d
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#00000004f3900000
+acpi\gen
+ntel_-_intel64_family_6_model_60_-_intel(r)_core(tm)_i5-4590_cpu_@_3.30ghz\_0
+lumesnapshot\harddiskvolumesnapshot1
+root\legacy_ndis\0000
+root\legacy_srvnet\0000
+legacy_discache\0000
+hdaudio\func_01&ven_8384&dev_7680&subsys_83847680&rev_1034\4&3
+82&0&0001
+root\ms_pptpminiport\0000
+sw\{eec12db6-ad9c-4168-8658-b03daef417fe}\{abd6
+9350-47e2-a632-4438b90c6641}
+root\legacy_ndproxy\0000
+root\legacy_storflt\0000
+cy_fileinfo\0000
+root\ms_sstpminiport\0000
+pci\ven_8086&dev_100f&subsys_075015ad&re
+3&267a616a&0&40
+pciide\idechannel\4&2f42c713&0&0
+sw\{96e080c7-143c-11d1-b40f-00a0c9
+6}\{3c0d501a-140b-11d1-b40f-00a0c9223196}
+root\legacy_netbios\0000
+root\legacy_tcpi
+root\legacy_fltmgr\0000
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#000
+f9b00000
+root\rdpbus\0000
+pciide\idechannel\4&2f42c713&0&1
+root\legacy_netbt\0000
+dp_kbd\0000
+root\legacy_tcpipreg\0000
+hid\vid_80ee&pid_0010\6&7870a5a&0&0000
+_fs_rec\0000
+acpi\genuineintel_-_intel64_family_6_model_79_-_intel(r)_xeon(r)_cpu_e
+0_v4_@_2.20ghz\_0
+umb\umb\1&841921d&0&printerbusenumerator
+pci\ven_8086&dev_100f&su
+075015ad&rev_02\3&267a616a&0&88
+root\rdp_mou\0000
+root\legacy_npfs\0000
+root\legacy
+root\legacy_fvevol\0000
+root\*isatap\0000
+root\system\0000
+hid\vid_80ee&pid_00
+2152eeac&0&0000
+root\legacy_nsiproxy\0000
+sw\{97ebaacc-95bd-11d0-a3ea-00a0c9223196}\{53172480-4791-11d0-a5d
+Pnp\{71d10298-bdb9-4dcd-a87a-eec6137ab254}\0
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000000100000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F3900000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000
+#?#HDAUDIO#FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}
+$V_7680&SUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eCDInWave
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV
+5&SUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eHeadphoneTopo
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_
+FSUBSYS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eMicInTopo
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_7680&
+WS_83847680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eMicInWave
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_7680&SUBSY
+h47680&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eSpeakerTopo
+\\?\HDAUDIO#FUNC_01&VEN_8384&DEV_7680&SUBSYS_8
+y80&REV_1034#4&31e60982&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eSpeakerWave
+nete1g3e.inf,%e100fgen.devicedesc%;Intel(R) PRO/1000 MT Network Connection
+-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00
+ 000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b23
+*21-11e7-acb9-806e6f6e6963}#0000000006600000#{53f5630d-b6bf-11d0-94f2-00a0c9
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F39000
+>3f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7
+H-806e6f6e6963}#00000004F9C00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000000100000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F3900000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000
+ntel(R) PRO/1000 MT Network Connection #2
+eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}
+**beging address(0xef8000:0x8000)**
+**beging address(0xf78000:0x8000)**
+**beging address(0x1018000:0x8000)**
+root\swenum
+**beging address(0x10e5000:0xb000)**
+40904B0@
+TMSAMVOF
+85@5H5d5l5|5
+C:\Program Files (x86)\Internet Explorer\en\iexplore.exe.mui
+iexplore.exe.mui
+C:\Program Files (x86)\Internet Explorer\
+rogram Files (x8
+C:\Progr
+C:\Program Files (x86)\Internet Explorer\iexplore.exe
+NABLE_TRACE
+ice Pack 1
+0000-000
+_075015A
+{4d36e972-e325-11ce-bfc1-08002be10318}\0014
+**beging address(0x1178000:0x8000)**
+**beging address(0x11c0000:0x2c000)**
+High Definition Audio Device
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+AudioSrv
+AudioSrv
+AudioSrv
+\FileSystem\rdbss
+tem\rdbss
+! #!%"'#)$+%-&/'1(3)5*7+9,;-=.?/A0E1I2M3Q4U5Y6]7a8e9i:m;q<u=y>}?
+eventlog
+eventlog
+AudioEndpointBuilder
+AudioEndpointBuilder
+DWM Notification Window
+DWM Notification Window
+C:\Windows\Explorer.EXE
+C:\Windows\Explorer.EXE
+C:\Windows\Explorer.EXE
+Dnscache
+Schedule
+spoolsv.exe
+iphlpsvc
+ PDBusEnum
+LanmanWorkstation
+tem\rdbss
+\FileSystem\srvnet
+\FileSystem\srvnet
+O:BAG:SYD:P(A;CI;KRKW;;;BU)(A;CI;KA;;;BA)(A;CI;KA;;;SY)(A;CI;KA;;;CO)
+WinHttpAutoProxySvc
+Network Flyout
+Battery Meter
+:BAG:SYD:P(A;CI;KRKW;;;BU)(A;CI;KA;;;BA)(A;CI;KA;;;SY)(A;CI;KA;;;CO)
+\FileSystem\rdbss
+**beging address(0x13c8000:0x8000)**
+515c16f1
+**beging address(0x1518000:0x8000)**
+**beging address(0x1520000:0x47000)**
+! #!%"'#)$+%-&/'1(3)5*7+9,;-=.?/A0E1I2M3Q4U5Y6]7a8e9i:m;q<u=y>}?
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001
+IDE\CdRomVBOX_CD-ROM_____________________________1.0_____\5&394c0ad3&0&0.1.0
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000000100000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F3900000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000
+8W\{eeab7790-c514-11d1-b42b-00805fc1270e}\asyncmac
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+root\legacy_mountmgr\0000
+sw\{cfd669f1-9bc2-11d0-8299-0000f8
+na}\{cf1dda2c-9743-11d0-a3ee-00a0c9223196}
+root\legacy_wfplwf\0000
+root\legacy_rdpcdd\0000
+acpi\pnp0100\4&1d401fb5&0
+root\legacy_ansfltr\0000
+root\legacy_mpsdrv\0000
+root\mssmbios\0000
+root\legacy_rdpencdd\0000
+np0200\4&1d401fb5&0
+ide\diskvbox_harddisk___________________________1.0_____\5&394c0ad3&0&0.0.0
+root\legacy_beep\0000
+root\ms_agilevpnminiport\0000
+root\legacy_mrxsmb\0000
+storage\volume\{8eed2816-674f-11e7-a13a
+6f6e6963}#0000000006600000
+acpi\acpi0003\0
+pci\ven_8086&dev_7111&subsys_00000000&rev_01\3&267a616a&0&09
+storage\volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004f3900000
+root\legacy_rdprefmp\0000
+acpi\pnp03
+1d401fb5&0
+root\legacy_bowser\0000
+acpi\fixedbutton\2&daba3ff&2
+root\legacy_mrxsmb10\0000
+root\ms_l2tpminiport\0000
+sw\{ddf4358e-bb2c-11d0-a42f-00a0c9223196}\{97ebaacb-95bd-11d0-a3ea-00a0c9223196}
+root\legacy_rs
+acpi\pnp0a03\0
+root\legacy_cdfs\0000
+acpi\genuineintel_-_intel64_family_6_model_42_-_________intel(r)_core(tm)_i5-2400_cpu_@_3.10ghz\_0
+root\legacy_mrxsmb20\0000
+root\ms_ndiswanbh\0000
+acpi\pnp0f03\4&1d401f
+root\legacy_secdrv\0000
+root\legacy_clfs\0000
+pci\ven_106b&dev_003f&subsys_00000000&rev_00\3&267a616a&0&30
+pci\ven_80ee&dev_beef&subsys_00000000&rev_00\3&267a616a&0&10
+storage\volume\{8eed2816-674f-11e7-a13a-806
+6963}#00000004f3800000
+root\legacy_msfs\0000
+storage\volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004f9c00000
+root\ms_ndiswanip\0000
+acpi_hal\pnp0c08\0
+root\legacy_spldr\0000
+root\legacy_cng\0000
+root\lega
+isadrv\0000
+root\ms_ndiswanipv6\0000
+display\default_monitor\4&2abfaa30&0&12345678&00&02
+root\legacy_srv\0000
+root\legacy_csc\0000
+sw\{eeab7790-c514-11d1-b42b-00805fc1270e}\asyncmac
+root\legacy_mup\0000
+pci\ven_
+dev_100e&subsys_001e8086&rev_02\3&267a616a&0&48
+pci\ven_80ee&dev_cafe&subsys_00000000&rev_00\3&267a616a&0&20
+root\ms_pppoeminiport\0000
+root\legacy_srv2\0000
+root\legacy_dfsc\0000
+storage\volume\{8eed2816-674f-1
+13a-806e6f6e6963}#00000004f3900000
+acpi\genuineintel_-_intel64_family_6_model_60_-_intel(r)_core(tm)_i5-4590_cpu_@_3.30ghz\_0
+storage\volumesnapshot\harddiskvolumesnapshot1
+root\legacy_ndis\0000
+root\legacy_srvn
+root\legacy_discache\0000
+hdaudio\func_01&ven_8384&dev_7680&subsys_83847680&rev_1034\4&31e60982&0&0001
+root\ms_pptpminiport\0000
+sw\{eec12db6-ad9c-4168-8658-b03daef417fe}\{abd61e00-9350-47e2-a632-4438b90c6641
+t\legacy_ndproxy\0000
+root\legacy_storflt\0000
+root\legacy_fileinfo\0000
+root\ms_sstpminiport\0000
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&40
+pciide\idechannel\4&2f42c713&0&0
+sw\{96e080c7-143c-
+b40f-00a0c9223196}\{3c0d501a-140b-11d1-b40f-00a0c9223196}
+root\legacy_netbios\0000
+root\legacy_tcpip\0000
+root\legacy_fltmgr\0000
+storage\volume\{8eed2816-674f-11e7-a13a-806e6f6e6963}#00000004f9b00000
+root\rdpbu
+pciide\idechannel\4&2f42c713&0&1
+root\legacy_netbt\0000
+root\rdp_kbd\0000
+root\legacy_tcpipreg\0000
+hid\vid_80ee&pid_0010\6&7870a5a&0&0000
+root\legacy_fs_rec\0000
+acpi\genuineintel_-_intel64_family_6_model_79_
+el(r)_xeon(r)_cpu_e5-2650_v4_@_2.20ghz\_0
+umb\umb\1&841921d&0&printerbusenumerator
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&88
+root\rdp_mou\0000
+root\legacy_npfs\0000
+root\legacy_tdx\0000
+root\legacy_fvevol\0000
+root\*isatap\0000
+root\system\0000
+hid\vid_80ee&pid_0021\6&2152eeac&0&0000
+root\legacy_nsiproxy\0000
+sw\{97ebaacc-95bd-11d0-a3ea-00a0c9223196}\{53172480-4791-11d0-a5d
+Pnp\{71d10298-bdb9-4dcd-a87a-eec6137ab254}\0
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F3900000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#0000000006600000
+STORAGE\Volume\{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000
+iphlpsvc
+*PDBusEnum
+PDBusEnum
+PDBusEnum
+lanmanserver
+WinHttpAutoProxySvc
+Battery Meter
+Battery Meter
+Explorer.EXE
+Explorer.EXE
+Explorer.EXE
+ ad&rev_02\3&267a616
+pci\ven_8086&dev_
+&subsys_075015ad&rev
+)&267a616a&0&88
+,tap\0000
+root\*isat
+root\*isatap\000
+2t\*teredo\0000
+%4d36e972-e325-11ce-bfc1-08002be10318}\0014
+H4d36e972-e325-11ce-bfc1-08002be10318}\0011
+ntel(R) PRO/1000 MT Network Connection
+ot\ms_ndiswanip\0000
+root\ms_ndiswanipv6\0000
+poeminiport\0000
+root\ms_pptpminiport\0000
+root\ms_
+iniport\0000
+pci\ven_8086&dev_100f&subsys_075015ad&
+%2\3&267a616a&0&40
+pci\ven_8086&dev_100f&subsys_0750
+,rev_02\3&267a616a&0&88
+root\*isatap\0000
+root\*isat
+root\*isatap\0002
+root\*teredo\0000
+MDEVAPI Device Window
+^ystem\CurrentControlSet\Con
+bClass\{4d36e968-e325-11ce-b
+f8002be10318}
+ PRO/1000 MT Network Connection #2
+\??\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{78032B7E-4968-42D3-9F37-287EA86C0AAA}
+\??\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{78032B7E-4968-42D3-9F37-287EA86C0AAA}
+00a0c91efb8b}
+\\?\STORAGE#Volume#{9d5b2340-df21-11e7-acb9-806e6f6e6963}#00000004F9C00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+#?#IDE#CdRomVBOX_CD-ROM_____________________________1.0_____#5&394c0ad3&0&0.1.0#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+\\?\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{78032B7E-4968-42D3-9F37-287EA86C0AAA}
+(75015AD&REV_02#3&267a616a&0&88#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{0C2A78A1-54AD-46AD-90A9-BEA7ADC7CFAD}
+\\?\Root#*ISATAP#0000#{ad498944-762f-1
+;dcb-00c04fc3358c}\{02201606-37D0-4902-8A14-BFFD8280A5E0}
+\\?\Root#*ISATAP#0001#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{A07AB03A-0C1B-4E1E-A387-3495
+\\?\Root#*ISATAP#0002#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{16146A5F-81EE-4FE0-B685-9404F1F49F1E}
+\\?\Root#*TEREDO#0000#{ad498944-762f-11d0-
+a00c04fc3358c}\{C38D7B32-243A-4F22-BD3A-03723E56D534}
+\\?\Root#MS_AGILEVPNMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{29898C9D-B0A4-4FEF-B
+t7A562022CEE}
+\\?\Root#MS_L2TPMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{E43D242B-9EAB-4626-A952-46649FBB939A}
+\\?\Root#MS_NDISWANBH#0000
+98944-762f-11d0-8dcb-00c04fc3358c}\NDISWANBH
+\\?\Root#MS_NDISWANIP#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\NDISWANIP
+\\?\Root#MS_NDISWANIPV6#00
+d498944-762f-11d0-8dcb-00c04fc3358c}\NDISWANIPV6
+\\?\Root#MS_PPPOEMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{8E301A52-AFFA-4F49-B9CA-C79
+\\?\Root#MS_PPTPMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{DF4A9D2C-8742-4EB1-8703-D395C4183F33}
+\\?\Root#MS_SSTPMINIPORT#0000#{ad
+4-762f-11d0-8dcb-00c04fc3358c}\{71F897D7-EB7C-4D8D-89DB-AC80D9DD2270}
+\\?\Root#SYSTEM#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{eeab7790-c514-11
+2b-00805fc1270e}&asyncmac
+agilevpnminiport\0000
+root\ms_l2tpminiport\0000
+root\ms_ndiswanbh\0000
+root\ms_ndiswanip\0000
+root\ms_ndiswanipv6\0000
+sw\{eeab7790-c514-11d1-b42b-00805fc1270e}\asyncmac
+root\ms_pppoeminiport\0000
+root\ms_pptpminiport\0000
+root\ms_sstpminiport\0000
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&40
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&88
+root\*isatap\0000
+root\*isatap\0001
+root\*isatap\0002
+root\*teredo\0000
+agilevpnminiport\0000
+root\ms_l2tpminiport\0000
+root\ms_ndiswanbh\0000
+root\ms_ndiswanip\0000
+root\ms_ndiswanipv6\0000
+sw\{eeab7790-c514-11d1-b42b-00805fc1270e}\asyncmac
+root\ms_pppoeminiport\0000
+root\ms_pptpminiport\0000
+root\ms_sstpminiport\0000
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&40
+pci\ven_8086&dev_100f&subsys_075015ad&rev_02\3&267a616a&0&88
+root\*isatap\0000
+root\*isatap\0001
+root\*isatap\0002
+root\*teredo\0000
+**beging address(0x17d0000:0x3a000)**
+oot%\sys
+WbemClassObject Marshalling proxy
+Call Context
+Universal Refresher
+WBEM Class Object
+WMI Object Factory
+WMI Object Factory
+(non)Standard Marshaling for IWbemObjectSink
+(non)Standard Marshaling for IEnumWbemClassObject
+(non)Standard Marshaling for IWbemUnboundObjectSink
+(non)Standard Marshaling for IWbemMultiTarget
+(non)Standard Marshaling for IWbemServices
+_IWmiCallSec Call Security Factory
+! #!%"'#)$+%-&/'1(3)5*7+9,;-=.?/A0E1I2M3Q4U5Y6]7a8e9i:m;q<u=y>}?
+_IWbemConfigureRefreshingSvc Configure Refreshing Services Factory
+_WbemFetchRefresherMgr Proxy Helper
+_IWbemRefresherMgr Refresher Cache Factory
+_IWbemEnumMarshaling Enumerator Helper
+root\cimv2\power
+root\interop
+root\cimv2\power
+root\cimv2\power
+00900BC83802
+ROOT\cimv2\power
+__Provider
+__SystemClass
+__Win32Provider
+ClientLoadableCLSID
+Concurrency
+DefaultMachineName
+HostingModel
+ImpersonationLevel
+InitializationReentrancy
+Namespace
+COM Object
+InitializationTimeoutInterval
+datetime
+interval
+InitializeAsAdminFirst
+OperationTimeoutInterval
+datetime
+interval
+PerLocaleInitialization
+PerUserInitialization
+SecurityDescriptor
+SupportsExplicitShutdown
+SupportsExtendedStatus
+SupportsQuotas
+SupportsSendStatus
+SupportsShutdown
+SupportsThrottling
+UnloadTimeout
+datetime
+interval
+__Win32Provider
+Decoupled:Com
+PowerMeterProvider
+00900BC83802
+ROOT\cimv2\power
+CIM_Sensor
+CIM_LogicalDevice
+CIM_EnabledLogicalElement
+CIM_LogicalElement
+CIM_ManagedSystemElement
+CIM_ManagedElement
+CIM_NumericSensor
+UMLPackagePath
+CIM::Device::Sensors
+Accuracy
+Deprecated
+CIM_NumericSensor.ProgrammaticAccuracy
+Hundredths of Percent
+MappingStrings
+MIF.DMTF|Temperature Probe|002.19
+MIF.DMTF|Electrical Current Probe|001.19
+MIF.DMTF|Voltage Probe|001.19
+percent * 10^-2
+AccuracyUnits
+Experimental
+ModelCorrespondence
+CIM_NumericSensor.ProgrammaticAccuracy
+AdditionalAvailability
+Availability
+AvailableRequestedStates
+BaseUnits
+ModelCorrespondence
+CIM_NumericSensor.UnitModifier
+CIM_NumericSensor.RateUnits
+CommunicationStatus
+CreationClassName
+CurrentReading
+MappingStrings
+MIF.DMTF|Temperature Probe|002.5
+MIF.DMTF|Electrical Current Probe|001.5
+MIF.DMTF|Voltage Probe|001.5
+CurrentState
+Description
+DetailedStatus
+DeviceID
+ElementName
+EnabledDefault
+EnabledState
+EnabledThresholds
+ErrorCleared
+ErrorDescription
+HealthState
+Hysteresis
+IdentifyingDescriptions
+InstallDate
+datetime
+IsLinear
+LastErrorCode
+LocationIndicator
+LowerThresholdCritical
+MappingStrings
+MIF.DMTF|Temperature Probe|002.13
+MIF.DMTF|Electrical Current Probe|001.13
+MIF.DMTF|Voltage Probe|001.13
+LowerThresholdFatal
+MappingStrings
+MIF.DMTF|Temperature Probe|002.15
+MIF.DMTF|Electrical Current Probe|001.15
+MIF.DMTF|Voltage Probe|001.15
+LowerThresholdNonCritical
+MappingStrings
+MIF.DMTF|Temperature Probe|002.11
+MIF.DMTF|Electrical Current Probe|001.11
+MIF.DMTF|Voltage Probe|001.11
+MaxQuiesceTime
+MaxReadable
+MappingStrings
+MIF.DMTF|Temperature Probe|002.9
+MIF.DMTF|Electrical Current Probe|001.9
+MIF.DMTF|Voltage Probe|001.9
+MinReadable
+MappingStrings
+MIF.DMTF|Temperature Probe|002.10
+MIF.DMTF|Electrical Current Probe|001.10
+MIF.DMTF|Voltage Probe|001.10
+NominalReading
+MappingStrings
+MIF.DMTF|Temperature Probe|002.6
+MIF.DMTF|Electrical Current Probe|001.6
+MIF.DMTF|Voltage Probe|001.6
+NormalMax
+MappingStrings
+MIF.DMTF|Temperature Probe|002.7
+MIF.DMTF|Electrical Current Probe|001.7
+MIF.DMTF|Voltage Probe|001.7
+NormalMin
+MappingStrings
+MIF.DMTF|Temperature Probe|002.8
+MIF.DMTF|Electrical Current Probe|001.8
+MIF.DMTF|Voltage Probe|001.8
+OperatingStatus
+OperationalStatus
+OtherEnabledState
+OtherIdentifyingInfo
+OtherSensorTypeDescription
+PollingInterval
+PossibleStates
+PowerManagementCapabilities
+PowerManagementSupported
+PowerOnHours
+PrimaryStatus
+ProgrammaticAccuracy
+Experimental
+ModelCorrespondence
+CIM_NumericSensor.AccuracyUnits
+RateUnits
+ModelCorrespondence
+CIM_NumericSensor.UnitModifier
+CIM_NumericSensor.BaseUnits
+RequestedState
+Resolution
+MappingStrings
+MIF.DMTF|Temperature Probe|002.17
+MIF.DMTF|Electrical Current Probe|001.17
+MIF.DMTF|Voltage Probe|001.17
+SensorType
+SettableThresholds
+StatusDescriptions
+StatusInfo
+SupportedThresholds
+SystemCreationClassName
+SystemName
+TimeOfLastStateChange
+datetime
+Tolerance
+Deprecated
+CIM_NumericSensor.Resolution
+CIM_NumericSensor.Accuracy
+TotalPowerOnHours
+TransitioningToState
+UnitModifier
+ModelCorrespondence
+CIM_NumericSensor.BaseUnits
+CIM_NumericSensor.RateUnits
+UpperThresholdCritical
+MappingStrings
+MIF.DMTF|Temperature Probe|002.14
+MIF.DMTF|Electrical Current Probe|001.14
+MIF.DMTF|Voltage Probe|001.14
+UpperThresholdFatal
+MappingStrings
+MIF.DMTF|Temperature Probe|002.16
+MIF.DMTF|Electrical Current Probe|001.16
+MIF.DMTF|Voltage Probe|001.16
+UpperThresholdNonCritical
+MappingStrings
+MIF.DMTF|Temperature Probe|002.12
+MIF.DMTF|Electrical Current Probe|001.12
+MIF.DMTF|Voltage Probe|001.12
+ValueFormulation
+Experimental
+RequestStateChange
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+RequestedState
+CIM_EnabledLogicalElement.RequestedState
+ModelCorrespondence
+TimeoutPeriod
+datetime
+datetime
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ref:CIM_ConcreteJob
+ReturnValue
+SetPowerState
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+PowerState
+datetime
+datetime
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+EnableDevice
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+OnlineDevice
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+QuiesceDevice
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+SaveProperties
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+RestoreProperties
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+RestoreDefaultThresholds
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+GetNonLinearFactors
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+SensorReading
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+Accuracy
+Resolution
+Tolerance
+Hysteresis
+ReturnValue
+Deprecated
+No Value
+CIM_NumericSensor
+CIM_Sensor
+CIM_LogicalDevice
+CIM_EnabledLogicalElement
+CIM_LogicalElement
+CIM_ManagedSystemElement
+CIM_ManagedElement
+Win32_PowerMeter
+PowerMeterProvider
+{a94766cf-0670-45b6-8ba5-04bd664d6e79}
+Accuracy
+AccuracyUnits
+AdditionalAvailability
+Availability
+AvailableRequestedStates
+AveragingInterval
+BaseUnits
+BudgetEnabled
+BudgetWriteable
+CommunicationStatus
+ConfiguredBudget
+CreationClassName
+CurrentReading
+CurrentState
+Description
+DetailedStatus
+DeviceID
+ElementName
+EnabledDefault
+EnabledState
+EnabledThresholds
+ErrorCleared
+ErrorDescription
+HealthState
+Hysteresis
+IdentifyingDescriptions
+InstallDate
+datetime
+IsLinear
+LastErrorCode
+LocationIndicator
+LowerThresholdCritical
+LowerThresholdFatal
+LowerThresholdNonCritical
+MaximumAveragingInterval
+MaxOperatingBudget
+MaxQuiesceTime
+MaxReadable
+MeterType
+MinimumAveragingInterval
+MinOperatingBudget
+MinReadable
+NominalReading
+NormalMax
+NormalMin
+OperatingStatus
+OperationalStatus
+OtherEnabledState
+OtherIdentifyingInfo
+OtherSensorTypeDescription
+PollingInterval
+PossibleStates
+PowerManagementCapabilities
+PowerManagementSupported
+PowerOnHours
+PrimaryStatus
+ProgrammaticAccuracy
+RateUnits
+RequestedState
+Resolution
+SamplingPeriod
+SensorType
+SettableThresholds
+StatusDescriptions
+StatusInfo
+SupportCapabilities
+SupportedThresholds
+SystemCreationClassName
+SystemName
+TimeOfLastStateChange
+datetime
+Tolerance
+TotalPowerOnHours
+TransitioningToState
+UnitModifier
+UpperThresholdCritical
+UpperThresholdFatal
+UpperThresholdNonCritical
+ValueFormulation
+RequestStateChange
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+RequestedState
+CIM_EnabledLogicalElement.RequestedState
+ModelCorrespondence
+TimeoutPeriod
+datetime
+datetime
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ref:CIM_ConcreteJob
+ReturnValue
+SetPowerState
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+PowerState
+datetime
+datetime
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+EnableDevice
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+OnlineDevice
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+QuiesceDevice
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+SaveProperties
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+RestoreProperties
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+RestoreDefaultThresholds
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+ReturnValue
+GetNonLinearFactors
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+SensorReading
+W7MQAMD64FRE00
+ROOT\cimv2\power
+__PARAMETERS
+abstract
+Accuracy
+Resolution
+Tolerance
+Hysteresis
+ReturnValue
+00900BC83802
+ROOT\cimv2\power
+__IndicationRelated
+__SystemClass
+__ExtrinsicEvent
+abstract
+SECURITY_DESCRIPTOR
+TIME_CREATED
+__ExtrinsicEvent
+__IndicationRelated
+__SystemClass
+Win32_PowerMeterEvent
+PowerMeterProvider
+3eab588a-a6eb-409e-a287-f18daff7ff26
+abstract
+EventSource
+ref:CIM_PowerMeter
+EventType
+ValueType
+SECURITY_DESCRIPTOR
+TIME_CREATED
+nitializ
+00900BC83802
+ROOT\cimv2\power
+__Provider
+__SystemClass
+__Win32Provider
+ClientLoadableCLSID
+Concurrency
+DefaultMachineName
+HostingModel
+ImpersonationLevel
+InitializationReentrancy
+Namespace
+COM Object
+InitializationTimeoutInterval
+datetime
+interval
+InitializeAsAdminFirst
+OperationTimeoutInterval
+datetime
+interval
+PerLocaleInitialization
+PerUserInitialization
+SecurityDescriptor
+SupportsExplicitShutdown
+SupportsExtendedStatus
+SupportsQuotas
+SupportsSendStatus
+SupportsShutdown
+SupportsThrottling
+UnloadTimeout
+datetime
+interval
+__Win32Provider
+Decoupled:Com
+PowerPolicyProvider
+\root\cimv2\power:__Win32Provider.Name="PowerPol
+ROOT\cim
+_SystemClass
+__MethodProvi
+00900BC83802
+ROOT\interop
+__Provider
+__SystemClass
+__Win32Provider
+ClientLoadableCLSID
+Concurrency
+DefaultMachineName
+HostingModel
+ImpersonationLevel
+InitializationReentrancy
+Namespace
+COM Object
+InitializationTimeoutInterval
+datetime
+interval
+InitializeAsAdminFirst
+OperationTimeoutInterval
+datetime
+interval
+PerLocaleInitialization
+PerUserInitialization
+SecurityDescriptor
+SupportsExplicitShutdown
+SupportsExtendedStatus
+SupportsQuotas
+SupportsSendStatus
+SupportsShutdown
+SupportsThrottling
+UnloadTimeout
+datetime
+interval
+__Win32Provider
+Decoupled:Com:FoldIdentity(FALSE)
+ProfileAssociationProviderInterop
+00900BC83802
+ROOT\interop
+CIM_ElementConformsToProfile
+Association
+UMLPackagePath
+CIM::Interop
+ConformantStandard
+ref:CIM_RegisteredProfile
+ManagedElement
+ref:CIM_ManagedElement
+CIM_ElementConformsToProfile
+Win32_PowerMeterConformsToProfile
+ProfileAssociationProviderInterop
+{fa20a145-baea-4d8a-bacd-a952e926fe8f}
+Association
+ConformantStandard
+ref:CIM_RegisteredProfile
+ManagedElement
+ref:Win32_PowerMeter
+MSFT_TargetNamespace
+root\cimv2\power
+\\.\root\interop:Win32_PowerSupplyProfile.InstanceID="Power Supply"
+portsBat
+00900BC83802
+ROOT\interop
+CIM_ElementConformsToProfile
+Association
+UMLPackagePath
+CIM::Interop
+ConformantStandard
+ref:CIM_RegisteredProfile
+ManagedElement
+ref:CIM_ManagedElement
+CIM_ElementConformsToProfile
+Win32_PowerSupplyConformsToProfile
+{ac1de07e-50bd-49ec-a849-c1b7e089e3c0}
+Association
+ConformantStandard
+ref:CIM_RegisteredProfile
+ManagedElement
+ref:Win32_PowerSupply
+MSFT_TargetNamespace
+root\cimv2\power
+\\.\root\interop:Win32_PowerSupplyProfile.InstanceID="Power Supply"
+ofileAss
+00900BC83802
+ROOT\cimv2\power
+__Provider
+__SystemClass
+__Win32Provider
+ClientLoadableCLSID
+Concurrency
+DefaultMachineName
+HostingModel
+ImpersonationLevel
+InitializationReentrancy
+Namespace
+COM Object
+InitializationTimeoutInterval
+datetime
+interval
+InitializeAsAdminFirst
+OperationTimeoutInterval
+datetime
+interval
+PerLocaleInitialization
+PerUserInitialization
+SecurityDescriptor
+SupportsExplicitShutdown
+SupportsExtendedStatus
+SupportsQuotas
+SupportsSendStatus
+SupportsShutdown
+SupportsThrottling
+UnloadTimeout
+datetime
+interval
+__Win32Provider
+Decoupled:Com:FoldIdentity(FALSE)
+ProfileAssociationProviderCimV2
+00900BC83802
+ROOT\cimv2\power
+CIM_ElementConformsToProfile
+Abstract
+Association
+UMLPackagePath
+CIM::Interop
+ConformantStandard
+ref:CIM_RegisteredProfile
+ManagedElement
+ref:CIM_ManagedElement
+CIM_ElementConformsToProfile
+Win32_PowerMeterConformsToProfile
+ProfileAssociationProviderCimV2
+{fa20a145-baea-4d8a-bacd-a952e926fe8f}
+ConformantStandard
+ref:CIM_RegisteredProfile
+MSFT_TargetNamespace
+root\interop
+ManagedElement
+ref:Win32_PowerMeter
+\\.\root\interop:Win32_PowerSupplyProfile.InstanceID="Power Supply"
+ansactio
+ValueMap
+WQL:UnarySelect
+WQL:References
+WQL:Associators
+WQL:V1ProviderDefined
+SupportsBatching
+SupportsDelete
+SupportsEnumeration
+SupportsGet
+SupportsPut
+SupportsTransactions
+ROOT\cimv2\power
+__InstanceProviderRegistration
+\\.\root\cimv2\power:__Win32Provider.Name="ProfileAssociationProviderCimV2"
+**beging address(0x1910000:0x2a000)**
+C:\Windows\system32\wbem\fastprox.dll
+C:\Windows\system32\wbem\wmiutils.dll
+C:\Windows\system32\wbem\wmiutils.dll
+C:\Windows\system32\wbem\wmiutils.dll
+C:\Windows\system32\wbem\fastprox.dll
+C:\Windows\system32\wbem\fastprox.dll
+C:\Windows\system32\wbem\fastprox.dll
+C:\Windows\system32\wbem\fastprox.dll
+ProfileAssociationProviderCimV2
+__InstanceProviderRegistration
+Vd498944-762f-11d0-8dcb-00c04fc3358c
+C:\Windows\system32\wbem\wmiprvse.exe
+:\Windows\sysWOW64\wbem\ui\SwDRM.dll
+:\Windows\sysWOW64\wbem\WmiPrvSE.exe
+Shell Hardware Mixed Content Handler
+Shell Hardware Mixed Content Handler
+ecurity=Impersonation Dynamic False
+515c31d8-f734-163d-a0fd-11a08c91e8f1}
+\sapolicylookup
+Sync Center Control
+Sync Center Control
+YT AUTHORITY\SYSTEM
+NT AUTHORITY\SYSTEM
+_sapolicylookup
+hT AUTHORITY\SYSTEM
+references of {__Win32Provider.Name="ProfileAssociationProviderCimV2"}
+windows_tracing_flagsl3
+teC:\BVTBin\Tests\installpackage\csilogfile.log
+ot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\
+EGISTRY\MACHINE\SOFTWARE\Class
+Microsoft WMI Provider Subsystem Secured Host
+Microsoft WMI Provider Subsystem Secured Host
+C:\Windows\system32\wbem\wmiprvse.exe -secured
+Microsoft WMI Provider Subsystem Secured Host
+offlinefileswmiprovider_uninstall.mof
+V-1-5-21-440116545-4042662141-3353097614-500
+C:\Windows\sysWOW64\wbem\wmiprvse.exe -secured
+Microsoft WMI Provider Subsystem Secured Host
+portabledeviceclassextension.mof
+:\Windows\sysWOW64\wbem\TrustedInstaller.exe
+sTransac*At
+plugplay
+netprofm
+netprofm
+ROOT\cimv2\power
+ROOT\cimv2\power
+e100fgen.devicedesc
+Intel(R) PRO/1000 MT Network Connection
+SYS_00000000
+PCI\VEN_80EE&DEV_BEEF&REV_00
+PCI\VEN_80EE&DEV_BEEF
+PCI\VEN_80EE
+PCI\VEN_80EE&DEV_BEEF&CC_0300
+\DriverStore
+hdaudio.inf_loc
+amData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Internet Explorer;
+7&CC_0600
+c:00900BC8
+C:\Windows\system32\DllHost.exe
+Thumbnail Cache Out of Proc Server
+Search Gatherer Notification
+Network Connection Manager Class
+C:\Windows\System32\mobsync.exe
+imapiv2-base.mof
+auxiliarydisplaycpl.mof
+c:[TermSrv
+dshowrdpfilter.mof
+auxiliarydisplayapi.mof
+imapiv2-legacyshim.mof
+networkitemfactory.mof
+c:[TermSrv
+InternetExplorer.Application.1
+portabledevicewmdrm.mof
+c:[TermSrv
+c:[TermSrv
+c:[TermSrv
+servicemodel35.mof
+textvaluelist.xsl
+wgxinstalledgame.mof
+winsatuninstall.mof
+wmiperfclass.dll
+c:[TermSrv
+xsl-mappings.xml
+MSIServer
+2ermSrvApi
+>ermSrvApi
+C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+@nete1g3e.inf,%e100fgen.devicedesc%;Intel(R) PRO/1000 MT Network Connection
+C:\Windows\system32\
+C:\Windows\syste
+nbem;;C:\Windows\sys
+p;C:\Windows\system;C:\Windows;.;C:\ProgramData\Oracle\Java\javapath
+zindows\syst
+{C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v
+ows\system32\wbem\wmiprvse.exe
+C:\Windows\system32\wbem\wmiprvse.exe -secured -Embe
+C:\Windows\system32\wbem\wmiprvse.exe -secured
+FALLUSERSPROFILE=C:\ProgramData
+indows\system32\config\systemprofile\AppData\Roaming
+CommonProgramFiles=C:\
+am Files\Co
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ProgramW6432=C:\Pro
+Files\Common Files
+COMPUTERNAME=00900BC83802
+ComSpec=C:\Win
+system32\cmd.exe
+FP_NO_HOST
+LOCALAPPDATA=C:\Windows\system32\config\system
+le\AppData\Local
+NUMBER_OF_PROCESSO
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Ja
+vapath;C:\Windows\system32;C:\Windows;C:\Wi
+\System32\Wbem;C:\Windows\System32\
+wsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS
+;.JS;.JSE;.WSF;.WSH;.MSC
+OR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6
+l 79 Stepping 1, Ge
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\Prog
+ProgramF
+C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\P
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Pu
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Windows\TEMP
+TMP=C:\Windows\TEMP
+USERNAME=00900BC83802$
+USERPROFILE=C:\Windows\system32\config\systemprof
+indir=C:\Wi
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\in
+package\csilogfile.
+-1-5-21-
+86&CC_06
+RPC Control\TermSrvApi
+RPC Control\TermSrvApi
+bthmtpenum.mof
+RPC Control\TermSrvApi
+RPC Control\TermSrvApi
+drvinst.mof
+RPC Control\TermSrvApi
+RPC Control\TermSrvApi
+fdssdp.mof
+RPC Control\TermSrvApi
+fundisc.mof
+RPC Control\TermSrvApi
+ipsecsvc.mof
+Internet Explorer(Ver 1.0)
+:RPC Control\TermSrvApi
+vRPC Control\TermSrvApi
+RPC Control\TermSrvApi
+RPC Control\TermSrvApi
+01&CTLR_VEN_8086&CTLR_DEV_2668&VEN_8384&DEV_7680&REV_1034
+HDAUDIO\FUNC_01&CTLR_
+N_8086&VEN_8384&DEV_7680&REV_1034
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680&REV_1034
+R_VEN_808
+CTLR_DEV_2
+8&VEN_8384&D
+DIO\FUNC_
+86&VEN_8384&DEV_7680
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680
+HDAUDIO\FUNC_01&CTLR_VEN
+086&CTLR_DEV_2668&VEN_8384
+HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8384
+HDAUDIO\FUNC_
+&VEN_8384
+O\FUNC_01&CTLR
+EN_8086&CTLR_DEV_2668
+HDAUDIO\FUNC_01&CTLR_VEN_8086
+HDAUDIO\FUNC_01&GF&VEN_8384
+EV_7680&SUBSYS_83847680&REV_1034
+HDAUDIO\FUNC_01
+REV_1034
+HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_2668&VEN_8384&DEV_7680
+HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8384&DEV_7680
+HDAUDIO\FUNC_01&VEN_8384&DEV_7680
+HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_2668&VEN_8384
+HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8384
+HDAUDIO\FUNC_01&VEN_8384
+HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_2668
+HDAUDIO\FUNC_01&CTLR_VEN_8086
+HDAUDIO\FUNC_01&GF&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034
+HDAUDIO\FUNC_01
+dows\system32\cmd.exe
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\Administrator
+LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+LOGONSERVER=\\00900BC83802
+NUMBER_OF_PROCESSORS=2
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\ADMINI~1\AppData\Local\Temp
+TMP=C:\Users\ADMINI~1\AppData\Local\Temp
+USERDOMAIN=00900BC83802
+USERNAME=Administrator
+USERPROFILE=C:\Users\Administrator
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+USERDOMAIN=00900BC83802
+USERNAME=Administrator
+USERPROFILE=C:\Users\Administrator
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Administrator\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x8
+ministrator
+USERPROFILE=C:\Users\Administrator
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+ACPI\GenuineIntel_-_Intel64_Family_6_Model_79
+*GenuineIntel_-_Intel64_Family_6_Model_79
+ACPI\GenuineIntel_-_Intel64_Family_6
+*GenuineIntel_-_Intel64_Family_6
+ACPI\GenuineIntel_-_Intel64
+*GenuineIntel_-_Intel64
+FilteredConfigVector
+SW\{eeab7790-c514-11d1-b42b-00805fc1270e}\asyncmac
+C:\Windows\system32\
+C:\Program Files (x86)\Internet Explorer;C:\Windows\system32;C:\Windows\system;C:\Windows;.;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Internet Explorer;
+C:\Program Files (x86)\Internet Explorer\iexplore.exe
+"C:\Program Files (x86)\Internet Explorer\iexplore.exe" -Embedding
+0"C:\Program Files (x86)\Internet Explorer\iexplore.exe"
+WinSta0\Default
+=C:=C:\Windows\System32
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Administrator\AppData\Roaming
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=00900BC83802
+ComSpec=C:\Windows\system32\cmd.exe
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\Administrator
+launcher=d:\FSALauncher\FSALauncher_x64.exe
+LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+LOGONSERVER=\\00900BC83802
+NUMBER_OF_PROCESSORS=2
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Internet Explorer;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\ADMINI~1\AppData\Local\Temp
+TMP=C:\Users\ADMINI~1\AppData\Local\Temp
+USERDOMAIN=00900BC83802
+USERNAME=Administrator
+USERPROFILE=C:\Users\Administrator
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+WMIC.exemx
+WMICOOKR.dlldx
+WmiDcPrv.dllf
+WmiPerfClass.dll
+WmiPerfClass.mof
+WmiPerfInst.dll
+WmiPerfInst.mof
+WmiPrvSE.exe
+wmiutils.dll
+wpcsprov.mof
+wpcuninst.mof
+wpdbusenum.mof
+wpdcomp.mof
+wpdfs.mofx
+wpdmtp.mof
+wpdshext.mof
+WPDShServiceObj.mof
+wpdsp.mofx
+wpdwcn.mof
+wscenter.mof
+wscmisetup.mof
+WSDApi.mof
+WsmAuto.mof
+wzcdlg.mof
+xsl-mappings.xml
+xwizards.mof
+Winsat.mof~1.
+WinsatUninstall.mof
+wlan.mof
+WMIADAP.exe
+WmiApRpl.dll
+iscsiprf.mof
+msfeedsbs.mof
+msiscsi.mof
+mstsc.mof
+mstscax.mof
+msv1_0.mof
+mswmdm.mof
+ncsi.mof
+netprofm.mof
+networkmap.mof
+newdev.mof
+nlasvc.mof
+nlsvc.mof
+nshipsec.mof
+onex.mof
+p2p-collab.mof
+p2p-mesh.mof
+p2p-pnrp.mof
+pnpsetup.mof
+policman.dll
+policman.mof
+polstore.mof
+qmgr.mof
+racwmiprov.dll
+racwmiprov.mof
+rawxml.xsl
+rdpcore.mof
+rdpencom.mof
+rdpendp.mof
+regevent.mof
+repository
+samsrv.mof
+scersop.mof
+schannel.mof
+schedsvc.mof
+sensorscpl.mof
+setupapi.mof
+ssdpsrv.mof
+stdprov.dll
+tcpip.mof
+texttable.xsl
+tsmf.mof
+tspkg.mof
+umpnpmgr.mof
+vdswmi.dll
+viewprov.dll
+vsswmi.dll
+wbemcntl.dll
+wbemdisp.dll
+wbemdisp.tlb
+wbemprox.dll
+wbemsvc.dll
+wdigest.mof
+wfapigp.mof
+whqlprov.mof
+win32_tpm.dll
+wininit.mof
+winipsec.mof
+winmgmt.exe
+winsat.mof
+wlan.mof
+wmiadap.exe
+wmiaprpl.dll
+wmic.exe
+wmicookr.dll
+wmidcprv.dll
+wmiperfinst.dll
+wmiperfinst.mof
+wmiprvse.exe
+wmiutils.dll
+wpcsprov.mof
+wpcuninst.mof
+wpdbusenum.mof
+wpdcomp.mof
+wpdfs.mof
+wpdmtp.mof
+wpdshext.mof
+wpdsp.mof
+wpdwcn.mof
+wscenter.mof
+wscmisetup.mof
+wsdapi.mof
+wsmauto.mof
+wzcdlg.mof
+xwizards.mof
+ZVarFileInfo\Translation
+=C:=C:\Windows\System32
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Administrator\AppData\Roaming
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=00900BC83802
+ComSpec=C:\Windows\system32\cmd.exe
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\Administrator
+launcher=d:\FSALauncher\FSALauncher_x64.exe
+LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+LOGONSERVER=\\00900BC83802
+NUMBER_OF_PROCESSORS=2
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Internet Explorer;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4f01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\ADMINI~1\AppData\Local\Temp
+TMP=C:\Users\ADMINI~1\AppData\Local\Temp
+USERDOMAIN=00900BC83802
+USERNAME=Administrator
+USERPROFILE=C:\Users\Administrator
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+**beging address(0x1a10000:0x1000)**
+**beging address(0x7efe0000:0x5000)**
+Service Pack 1
+C:\Windows
+C:\Windows\system32
+\BaseNamedObjects
+control.ini
+Color Schemes
+Control Panel\Color Schemes
+Control Panel\Current
+Custom Colors
+Control Panel\Custom Colors
+don't load
+Control Panel\don't load
+drivers.desc
+Microsoft\Windows NT\CurrentVersion\drivers.desc
+Control Panel\MMCPL
+Patterns
+Control Panel\Patterns
+related.desc
+Microsoft\Windows NT\CurrentVersion\related.desc
+Screen Saver.3DText
+Control Panel\Screen Saver.3DText
+Userinstallable.drivers
+Microsoft\Windows NT\CurrentVersion\Userinstallable.drivers
+KeyboardLayout.ini
+Keyboard Layout\Preload
+Keyboard Layout
+\Registry\Machine\System\CurrentControlSet\Control\Keyboard Layout
+Keyboard Layout
+Substitutes
+Keyboard Layout\Substitutes
+regedt32.ini
+Software\Microsoft\RegEdt32
+system.ini
+drivers32
+Microsoft\Windows NT\CurrentVersion\Drivers32
+Microsoft\Windows NT\CurrentVersion\MCI
+Microsoft\Windows NT\CurrentVersion\MCI32
+Microsoft\Windows NT\CurrentVersion\WOW\boot
+ScreenSaverActive
+Control Panel\Desktop
+ScreenSaverIsSecure
+SCRNSAVE.EXE
+Microsoft\Windows NT\CurrentVersion\Winlogon
+Control Panel\International
+Winlogon
+Microsoft\Windows NT\CurrentVersion\Fonts
+FontSubstitutes
+Microsoft\Windows NT\CurrentVersion\FontSubstitutes
+Microsoft\Windows NT\CurrentVersion\AeDebug
+Microsoft\Windows NT\CurrentVersion\Ports
+PrinterPorts
+Software\Microsoft\Windows NT\CurrentVersion\PrinterPorts
+Software\Microsoft\Windows NT\CurrentVersion\Devices
+MODULECOMPATIBILITY
+MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\MODULECOMPATIBILITY
+TRUETYPE
+SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TRUETYPE
+MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\NWCS
+EXTENSIONS
+SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\EXTENSIONS
+SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TWAIN
+MSCHARMAP
+SOFTWARE\\MICROSOFT\\CHARMAP
+CONTROL PANEL\\CURSORS
+NET_FILES
+SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\NETWORK\\PERSISTENT CONNECTIONS
+EMBEDDING
+MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\EMBEDDING
+WINDOWS HELP
+SOFTWARE\\MICROSOFT\\WINDOWS HELP
+CONTROL PANEL\\IOPROCS
+CONTROL PANEL\\COLORS
+GRE_INITIALIZE
+MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\GRE_INITIALIZE
+CONTROL PANEL\\DESKTOP
+CONTROL PANEL\\SOUNDS
+MCI EXTENSIONS
+MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\MCI EXTENSIONS
+SOFTWARE\\MICROSOFT\\CLOCK
+MouseSpeed
+Control Panel\Mouse
+MouseThreshold1
+MouseThreshold2
+SwapMouseButtons
+Control Panel\Sound
+DoubleClickSpeed
+CoolSwitch
+DoubleClickHeight
+DoubleClickWidth
+DragFullWindows
+InitialKeyboardIndicators
+Control Panel\Keyboard
+LowPowerActive
+LowPowerTimeOut
+PowerOffActive
+PowerOffTimeOut
+ScreenSaveActive
+ScreenSaveTimeOut
+SnapToDefaultButton
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+Microsoft\Windows NT\CurrentVersion\Windows
+TRANSMISSIONRETRYTIMEOUT
+MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\WINDOWS
+DEFAULTSEPARATEVDM
+\\REGISTRY\\MACHINE\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\WOW
+APPINIT_DLLS
+DEVICENOTSELECTEDTIMEOUT
+SWAPDISK

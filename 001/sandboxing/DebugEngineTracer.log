@@ -1,0 +1,156 @@
+[1130/105845:INFO:DebugEngineTracer.cpp(117)] OnStartTrace Debug:0
+[1130/105845:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\System32\msiexec.exe+++++++++++
+[1130/105847:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105849:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105851:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105851:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105851:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105857:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105909:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105909:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105914:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\calc.exe+++++++++++
+[1130/105914:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105914:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\notepad.exe+++++++++++
+[1130/105914:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105917:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105920:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\wbem\WmiPrvSE.exe+++++++++++
+[1130/105920:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105921:INFO:DebugEngineTracer.cpp(1310)] ***********ProcessCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1310)] ***********ProcessCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1310)] ***********ProcessCreateTracerLog: c:\program files (x86)\windows media player\wmplayer.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1310)] ***********ProcessCreateTracerLog: c:\program files (x86)\windows media player\setup_wm.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1407)] ***********FileDeleteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1407)] ***********FileDeleteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1407)] ***********FileDeleteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1407)] ***********FileDeleteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1365)] ***********FileChangeSizeTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1407)] ***********FileDeleteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1407)] ***********FileDeleteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1407)] ***********FileDeleteTracerLog: c:\program files (x86)\internet explorer\iexplore.exe***********
+[1130/105921:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105921:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\windows media player\setup_wm.exe***********
+[1130/105922:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\windows media player\setup_wm.exe***********
+[1130/105922:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\windows media player\setup_wm.exe***********
+[1130/105922:INFO:DebugEngineTracer.cpp(1344)] ***********FileChangeAttrTracerLog: c:\program files (x86)\windows media player\setup_wm.exe***********
+[1130/105922:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\windows media player\setup_wm.exe***********
+[1130/105922:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\windows media player\setup_wm.exe***********
+[1130/105923:INFO:DebugEngineTracer.cpp(1386)] ***********FileCreateTracerLog: c:\program files (x86)\windows media player\setup_wm.exe***********
+[1130/105923:INFO:DebugEngineTracer.cpp(1449)] ***********FileWriteTracerLog: c:\program files (x86)\windows media player\setup_wm.exe***********
+[1130/105925:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/105943:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\calc.exe+++++++++++
+[1130/105944:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\notepad.exe+++++++++++
+[1130/110009:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/110013:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\calc.exe+++++++++++
+[1130/110013:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\notepad.exe+++++++++++
+[1130/110014:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe+++++++++++
+[1130/110014:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe+++++++++++
+[1130/110014:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\System32\svchost.exe+++++++++++
+[1130/110014:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\System32\sppsvc.exe+++++++++++
+[1130/110017:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/110035:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/110041:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\calc.exe+++++++++++
+[1130/110042:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\notepad.exe+++++++++++
+[1130/110044:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/110045:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/110055:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/110055:INFO:DebugEngineTracer.cpp(1390)] --------FileCreateTracerLog: c:\windows\system32\svchost.exe--------
+[1130/110109:INFO:DebugEngineTracer.cpp(1453)] --------FileWriteTracerLog: c:\windows\system32\svchost.exe--------
+[1130/110111:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\calc.exe+++++++++++
+[1130/110112:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\SysWOW64\notepad.exe+++++++++++
+[1130/110121:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\System32\SearchProtocolHost.exe+++++++++++
+[1130/110121:INFO:DebugEngineTracer.cpp(1289)] +++++++++++OtherProcCreateTracerLog: C:\Windows\System32\SearchFilterHost.exe+++++++++++
+[1130/110134:INFO:DebugEngineTracer.cpp(159)] DebugEngineTracer:: bsuspicious_log_ is true or file_op > 5!
+[1130/110134:INFO:DebugEngineTracer.cpp(164)] DebugEngineTracer:: bdebug_exit_ = 0
+[1130/110134:INFO:DebugEngineTracer.cpp(170)] DebugEngineTracer:: btypeexe_ = 1
+[1130/110134:INFO:DebugEngineTracer.cpp(179)] DebugEngineTracer::OnStopTrace bexit_:1

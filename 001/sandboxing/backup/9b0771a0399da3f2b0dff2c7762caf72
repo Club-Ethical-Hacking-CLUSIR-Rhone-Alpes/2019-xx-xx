@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Services Version="3.00" BackoffDuration="PT24H" ordering="random" xmlns="urn:allservices-schema">
+  <Default Key="Bing" />
+  <Browse URL="http://go.microsoft.com/fwlink/?LinkId=28433&amp;SV=5" />
+   <Service Type="1" Key="Bing" XMLURL="http://onlinestores.metaservices.microsoft.com/bing/bing.xml" ServiceDropDown="true" Featured="false" LRM="0" Pos="1">
+    <FriendlyName>Bing</FriendlyName>
+    <Image MenuURL="http://images.windowsmedia.com/svcswitch/media_guide_16x16.png" />
+   </Service>
+</Services>

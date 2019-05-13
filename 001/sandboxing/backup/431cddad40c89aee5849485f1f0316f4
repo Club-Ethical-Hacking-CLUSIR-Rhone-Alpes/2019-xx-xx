@@ -1,0 +1,10 @@
+<ServiceInfo Version="1.0" Key="Bing">
+  <FriendlyName>Bing</FriendlyName>
+  <Color MediaPlayer="#0063B0" />
+  <Image MenuURL="http://images.windowsmedia.com/svcswitch/media_guide_16x16.png" ServiceLargeURL="http://images.windowsmedia.com/svcswitch/mg4_wmp12_30x30_2.png"/>
+  <ServiceTask1 URL="http://onlinestores.metaservices.microsoft.com/serviceswitching/BrowseAllServices.aspx">
+    <ButtonText>Bing</ButtonText>
+    <ButtonTip>Bing</ButtonTip>
+  </ServiceTask1>
+  <Navigate BaseURL="http://bing.com" />
+</ServiceInfo>

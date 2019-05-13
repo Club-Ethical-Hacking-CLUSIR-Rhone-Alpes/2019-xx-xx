@@ -1,0 +1,1852 @@
+2018-11-30(10:59:21) test(2588:3024):IsFilterProcess begin(5)!
+2018-11-30(10:59:21) test(2588:3024):IsFilterProcess! string1(12) = iexplore.exe,  string2(12) = iexplore.exe
+2018-11-30(10:59:21) test(2588:3024):IsFilterProcess! Hit!
+2018-11-30(10:59:21) test(2588:1268):IsFilterProcess begin(5)!
+2018-11-30(10:59:21) test(2588:1268):IsFilterProcess! string1(12) = iexplore.exe,  string2(12) = iexplore.exe
+2018-11-30(10:59:21) test(2588:1268):IsFilterProcess! Hit!
+2018-11-30(10:59:21) test(2588:2260):IsFilterProcess begin(5)!
+2018-11-30(10:59:21) test(2588:2260):IsFilterProcess! string1(12) = wmplayer.exe,  string2(12) = iexplore.exe
+2018-11-30(10:59:21) test(2588:2260):IsFilterProcess No Hit(wmplayer.exe)!
+2018-11-30(10:59:21) test(2588:2260):Start Dump Process C:\Program Files (x86)\Windows Media Player\wmplayer.exe(2112)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Program Files (x86)\Windows Media Player\wmplayer.exe(0xe60000:0xe8c000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\SysWOW64\ntdll.dll(0x76fd0000:0x77150000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\kernel32.dll(0x74da0000:0x74eb0000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\KERNELBASE.dll(0x759d0000:0x75a16000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\ADVAPI32.dll(0x76950000:0x769f0000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\msvcrt.dll(0x75890000:0x7593c000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\SysWOW64\sechost.dll(0x76930000:0x76949000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\RPCRT4.dll(0x757a0000:0x75890000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\SspiCli.dll(0x74b30000:0x74b90000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\CRYPTBASE.dll(0x74b20000:0x74b2c000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\USER32.dll(0x76ad0000:0x76bd0000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\GDI32.dll(0x75940000:0x759d0000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\LPK.dll(0x75550000:0x7555a000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\USP10.dll(0x75560000:0x755fd000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\WS2_32.dll(0x769f0000:0x76a25000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\NSI.dll(0x76fa0000:0x76fa6000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\system32\IMM32.DLL(0x76670000:0x766d0000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\MSCTF.dll(0x75480000:0x7554c000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\system32\uxtheme.dll(0x74410000:0x74490000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\SHELL32.dll(0x75a20000:0x7666a000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\SHLWAPI.dll(0x75040000:0x75097000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\ole32.dll(0x75280000:0x753dc000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\system32\PROPSYS.dll(0x73e00000:0x73ef5000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\OLEAUT32.dll(0x766d0000:0x7675f000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll(0x744a0000:0x7463e000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\system32\apphelp.dll(0x743a0000:0x743ec000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\CLBCatQ.DLL(0x74fb0000:0x75033000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\SysWOW64\ieframe.dll(0x72cc0000:0x73740000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\PSAPI.DLL(0x75240000:0x75245000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\SysWOW64\OLEACC.dll(0x74090000:0x740cc000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\iertutil.dll(0x74b90000:0x74d8b000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\urlmon.dll(0x76760000:0x76896000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\WININET.dll(0x74eb0000:0x74fa5000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\CRYPT32.dll(0x75600000:0x7571d000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\MSASN1.dll(0x74d90000:0x74d9c000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\SETUPAPI.dll(0x750a0000:0x7523d000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\CFGMGR32.dll(0x76aa0000:0x76ac7000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\DEVOBJ.dll(0x76a80000:0x76a92000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\system32\ntmarta.dll(0x74190000:0x741b1000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\syswow64\WLDAP32.dll(0x76a30000:0x76a75000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\system32\profapi.dll(0x740d0000:0x740db000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\SYSTEM32\ntdll.dll(0x76df0000:0x76f99000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\SYSTEM32\wow64.dll(0x74750000:0x7478f000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\SYSTEM32\wow64win.dll(0x746f0000:0x7474c000)
+2018-11-30(10:59:21) test(2588:2260):***Moudle: C:\Windows\SYSTEM32\wow64cpu.dll(0x746e0000:0x746e8000)
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x10000 size=65536 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x20000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x30000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x40000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x50000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x60000 size=12288 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x70000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x80000 size=421888 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0xf0000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x100000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x110000 size=8192 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x120000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x130000 size=8192 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x140000 size=94208 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x180000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x190000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x1db000 size=20480 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x1e0000 size=8192 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x1f0000 size=53248 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x200000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x24b000 size=20480 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x250000 size=913408 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x330000 size=24576 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x3b0000 size=126976 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x3d0000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x41c000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x420000 size=196608 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x450000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x460000 size=57344 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x490000 size=380928 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x590000 size=73728 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x6d0000 size=36864 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x6e0000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x860000 size=12288 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x870000 size=1576960 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0xa4e000 size=8192 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0xa8c000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0xa90000 size=417792 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0xb5e000 size=8192 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0xba0000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0xe60000 size=4096 Mod=C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0xe61000 size=12288 Mod=C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0xe64000 size=4096 Mod=C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0xe65000 size=159744 Mod=C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0xe90000 size=192512 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x2290000 size=2945024 Mod=
+2018-11-30(10:59:21) test(2588:2252):IsFilterProcess begin(5)!
+2018-11-30(10:59:21) test(2588:2252):IsFilterProcess! string1(12) = iexplore.exe,  string2(12) = iexplore.exe
+2018-11-30(10:59:21) test(2588:2252):IsFilterProcess! Hit!
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x72cc0000 size=4096 Mod=C:\Windows\SysWOW64\ieframe.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x72cc1000 size=3555328 Mod=C:\Windows\SysWOW64\ieframe.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x73025000 size=16384 Mod=C:\Windows\SysWOW64\ieframe.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x73029000 size=16384 Mod=C:\Windows\SysWOW64\ieframe.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x7302d000 size=7417856 Mod=C:\Windows\SysWOW64\ieframe.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x73e00000 size=4096 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x73e01000 size=491520 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x73e79000 size=8192 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x73e7b000 size=499712 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74090000 size=4096 Mod=C:\Windows\SysWOW64\OLEACC.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74091000 size=196608 Mod=C:\Windows\SysWOW64\OLEACC.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x740c1000 size=4096 Mod=C:\Windows\SysWOW64\OLEACC.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x740c2000 size=4096 Mod=C:\Windows\SysWOW64\OLEACC.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x740c3000 size=36864 Mod=C:\Windows\SysWOW64\OLEACC.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x740d0000 size=4096 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x740d1000 size=28672 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x740d8000 size=4096 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x740d9000 size=8192 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74190000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74191000 size=110592 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x741ac000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x741ad000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x741ae000 size=12288 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x743a0000 size=4096 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x743a1000 size=245760 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x743dd000 size=4096 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x743de000 size=8192 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x743e0000 size=49152 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74410000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74420000 size=229376 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74460000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74461000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74470000 size=8192 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74480000 size=8192 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x744a0000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x744a1000 size=1355776 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x745ec000 size=8192 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x745ee000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x745ef000 size=323584 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x746e0000 size=4096 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x746e1000 size=12288 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x746e4000 size=4096 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x746e5000 size=12288 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x746f0000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x746f1000 size=315392 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x7473e000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x7473f000 size=12288 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74742000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74743000 size=36864 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74750000 size=4096 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74751000 size=229376 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74789000 size=8192 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x7478b000 size=16384 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b20000 size=4096 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b21000 size=32768 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b29000 size=4096 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b2a000 size=8192 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b30000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b40000 size=90112 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b60000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b70000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b80000 size=8192 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b90000 size=4096 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74b91000 size=1945600 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74d6c000 size=12288 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74d6f000 size=8192 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74d71000 size=106496 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74d90000 size=4096 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74d91000 size=32768 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74d99000 size=4096 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74d9a000 size=8192 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74da0000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74db0000 size=790528 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74e80000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74e81000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74e90000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74ea0000 size=45056 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74eb0000 size=4096 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74eb1000 size=753664 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74f69000 size=12288 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74f6c000 size=16384 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74f70000 size=217088 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74fb0000 size=4096 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x74fb1000 size=487424 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75028000 size=8192 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x7502a000 size=8192 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x7502c000 size=28672 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75040000 size=4096 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75041000 size=331776 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75092000 size=4096 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75093000 size=16384 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x750a0000 size=4096 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x750a1000 size=716800 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75150000 size=4096 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75151000 size=16384 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75155000 size=950272 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75240000 size=4096 Mod=C:\Windows\syswow64\PSAPI.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75241000 size=4096 Mod=C:\Windows\syswow64\PSAPI.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75242000 size=4096 Mod=C:\Windows\syswow64\PSAPI.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75243000 size=8192 Mod=C:\Windows\syswow64\PSAPI.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75280000 size=4096 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75281000 size=1331200 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x753c6000 size=16384 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x753ca000 size=73728 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75480000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75481000 size=536576 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75504000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75505000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75506000 size=286720 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75550000 size=4096 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75551000 size=24576 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75557000 size=4096 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75558000 size=8192 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75560000 size=4096 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75561000 size=372736 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x755bc000 size=8192 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x755be000 size=258048 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75600000 size=4096 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75601000 size=737280 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x756b5000 size=4096 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:21) test(2588:2596):IsFilterProcess begin(5)!
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x756b6000 size=4096 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:21) test(2588:2596):IsFilterProcess! string1(12) = iexplore.exe,  string2(12) = iexplore.exe
+2018-11-30(10:59:21) test(2588:2596):IsFilterProcess! Hit!
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x756b7000 size=417792 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x757a0000 size=4096 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x757b0000 size=614400 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75850000 size=12288 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75860000 size=4096 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75870000 size=16384 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75880000 size=20480 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75890000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75891000 size=651264 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75930000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75931000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75932000 size=8192 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75934000 size=12288 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75937000 size=20480 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75940000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75950000 size=299008 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x759a0000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x759b0000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x759c0000 size=8192 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x759d0000 size=4096 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x759d1000 size=258048 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75a10000 size=8192 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75a12000 size=16384 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75a20000 size=4096 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75a21000 size=3969024 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75dea000 size=16384 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75dee000 size=12288 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x75df1000 size=8884224 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76670000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76680000 size=94208 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x766a0000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x766b0000 size=20480 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x766c0000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x766d0000 size=4096 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x766d1000 size=544768 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76756000 size=8192 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76758000 size=28672 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76760000 size=4096 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76761000 size=839680 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x7682e000 size=8192 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76830000 size=36864 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76839000 size=380928 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76930000 size=4096 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76931000 size=77824 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76944000 size=4096 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76945000 size=8192 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76947000 size=8192 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76950000 size=4096 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76951000 size=466944 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x769c3000 size=4096 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x769c4000 size=12288 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x769c7000 size=167936 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x769f0000 size=4096 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x769f1000 size=155648 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a17000 size=4096 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a18000 size=53248 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a30000 size=4096 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a31000 size=249856 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a6e000 size=4096 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a6f000 size=24576 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a80000 size=4096 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a81000 size=57344 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a8f000 size=4096 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76a90000 size=8192 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76aa0000 size=4096 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76aa1000 size=139264 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76ac3000 size=4096 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76ac4000 size=12288 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76ad0000 size=4096 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76ae0000 size=446464 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76b50000 size=4096 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76b60000 size=372736 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76bc0000 size=16384 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76df0000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76df1000 size=1056768 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76ef3000 size=192512 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76f22000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76f23000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76f24000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76f25000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76f27000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76f28000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76f29000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76f2b000 size=12288 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76f2e000 size=438272 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76fa0000 size=4096 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76fa1000 size=8192 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76fa3000 size=4096 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76fa4000 size=8192 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76fd0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x76fe0000 size=876544 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x770c0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x770d0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x770d1000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x770d2000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x770d3000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x770d4000 size=12288 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x770d7000 size=8192 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x770e0000 size=356352 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):Skip addr=0x77140000 size=20480 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x7efb0000 size=143360 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x7efd5000 size=12288 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x7efd8000 size=12288 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x7efdb000 size=12288 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x7efde000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x7efdf000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:2260):MemBlock addr=0x7efe0000 size=20480 Mod=
+2018-11-30(10:59:21) test(2588:2260):End Dump Process C:\Program Files (x86)\Windows Media Player\wmplayer.exe(2112)
+2018-11-30(10:59:21) test(2588:272):IsFilterProcess begin(5)!
+2018-11-30(10:59:21) test(2588:272):IsFilterProcess! string1(12) = wmplayer.exe,  string2(12) = iexplore.exe
+2018-11-30(10:59:21) test(2588:272):IsFilterProcess No Hit(wmplayer.exe)!
+2018-11-30(10:59:21) test(2588:272):Start Dump Process C:\Program Files (x86)\Windows Media Player\wmplayer.exe(2112)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Program Files (x86)\Windows Media Player\wmplayer.exe(0xe60000:0xe8c000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\SysWOW64\ntdll.dll(0x76fd0000:0x77150000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\kernel32.dll(0x74da0000:0x74eb0000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\KERNELBASE.dll(0x759d0000:0x75a16000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\ADVAPI32.dll(0x76950000:0x769f0000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\msvcrt.dll(0x75890000:0x7593c000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\SysWOW64\sechost.dll(0x76930000:0x76949000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\RPCRT4.dll(0x757a0000:0x75890000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\SspiCli.dll(0x74b30000:0x74b90000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\CRYPTBASE.dll(0x74b20000:0x74b2c000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\USER32.dll(0x76ad0000:0x76bd0000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\GDI32.dll(0x75940000:0x759d0000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\LPK.dll(0x75550000:0x7555a000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\USP10.dll(0x75560000:0x755fd000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\WS2_32.dll(0x769f0000:0x76a25000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\NSI.dll(0x76fa0000:0x76fa6000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\system32\IMM32.DLL(0x76670000:0x766d0000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\MSCTF.dll(0x75480000:0x7554c000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\system32\uxtheme.dll(0x74410000:0x74490000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\SHELL32.dll(0x75a20000:0x7666a000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\SHLWAPI.dll(0x75040000:0x75097000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\ole32.dll(0x75280000:0x753dc000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\system32\PROPSYS.dll(0x73e00000:0x73ef5000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\OLEAUT32.dll(0x766d0000:0x7675f000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll(0x744a0000:0x7463e000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\system32\apphelp.dll(0x743a0000:0x743ec000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\CLBCatQ.DLL(0x74fb0000:0x75033000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\iertutil.dll(0x74b90000:0x74d8b000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\urlmon.dll(0x76760000:0x76896000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\WININET.dll(0x74eb0000:0x74fa5000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\CRYPT32.dll(0x75600000:0x7571d000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\MSASN1.dll(0x74d90000:0x74d9c000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\SETUPAPI.dll(0x750a0000:0x7523d000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\CFGMGR32.dll(0x76aa0000:0x76ac7000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\DEVOBJ.dll(0x76a80000:0x76a92000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\system32\ntmarta.dll(0x74190000:0x741b1000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\syswow64\WLDAP32.dll(0x76a30000:0x76a75000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\system32\profapi.dll(0x740d0000:0x740db000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\SYSTEM32\ntdll.dll(0x76df0000:0x76f99000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\SYSTEM32\wow64.dll(0x74750000:0x7478f000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\SYSTEM32\wow64win.dll(0x746f0000:0x7474c000)
+2018-11-30(10:59:21) test(2588:272):***Moudle: C:\Windows\SYSTEM32\wow64cpu.dll(0x746e0000:0x746e8000)
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x10000 size=65536 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x20000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x30000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x40000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x50000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x60000 size=12288 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x70000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x80000 size=421888 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0xf0000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x100000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x110000 size=8192 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x130000 size=8192 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x140000 size=94208 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x180000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x1db000 size=20480 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x1f0000 size=53248 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x200000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x24b000 size=20480 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x250000 size=913408 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x330000 size=24576 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x3b0000 size=126976 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x3d0000 size=4096 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x41c000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x420000 size=196608 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x450000 size=16384 Mod=
+2018-11-30(10:59:21) test(2588:272):MemBlock addr=0x460000 size=57344 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x490000 size=389120 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x590000 size=73728 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x6d0000 size=36864 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x6e0000 size=16384 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x860000 size=12288 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x870000 size=1576960 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0xa4e000 size=8192 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0xa8c000 size=16384 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0xa90000 size=417792 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0xb5e000 size=8192 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0xba0000 size=4096 Mod=
+2018-11-30(10:59:22) test(2588:272):Skip addr=0xe60000 size=4096 Mod=C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+2018-11-30(10:59:22) test(2588:272):Skip addr=0xe61000 size=12288 Mod=C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+2018-11-30(10:59:22) test(2588:272):Skip addr=0xe64000 size=4096 Mod=C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+2018-11-30(10:59:22) test(2588:272):Skip addr=0xe65000 size=159744 Mod=C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0xe90000 size=192512 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x2290000 size=2945024 Mod=
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x73e00000 size=4096 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x73e01000 size=491520 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x73e79000 size=8192 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x73e7b000 size=499712 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x740d0000 size=4096 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x740d1000 size=28672 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x740d8000 size=4096 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x740d9000 size=8192 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74190000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74191000 size=110592 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x741ac000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x741ad000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x741ae000 size=12288 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x743a0000 size=4096 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x743a1000 size=245760 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x743dd000 size=8192 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x743df000 size=4096 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x743e0000 size=49152 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74410000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74420000 size=229376 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74460000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74461000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74470000 size=8192 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74480000 size=8192 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x744a0000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x744a1000 size=1355776 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x745ec000 size=8192 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x745ee000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x745ef000 size=323584 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x746e0000 size=4096 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x746e1000 size=12288 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x746e4000 size=4096 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x746e5000 size=12288 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x746f0000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x746f1000 size=315392 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x7473e000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x7473f000 size=12288 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74742000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74743000 size=36864 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74750000 size=4096 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74751000 size=229376 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74789000 size=8192 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x7478b000 size=16384 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b20000 size=4096 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b21000 size=32768 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b29000 size=4096 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b2a000 size=8192 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b30000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b40000 size=90112 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b60000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b70000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b80000 size=8192 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b90000 size=4096 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74b91000 size=1945600 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74d6c000 size=12288 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74d6f000 size=8192 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74d71000 size=106496 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74d90000 size=4096 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74d91000 size=32768 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74d99000 size=4096 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74d9a000 size=8192 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74da0000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74db0000 size=790528 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74e80000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74e81000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74e90000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74ea0000 size=45056 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74eb0000 size=4096 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74eb1000 size=753664 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74f69000 size=12288 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74f6c000 size=16384 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74f70000 size=217088 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74fb0000 size=4096 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x74fb1000 size=487424 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75028000 size=8192 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x7502a000 size=8192 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x7502c000 size=28672 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75040000 size=4096 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75041000 size=331776 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75092000 size=4096 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75093000 size=16384 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x750a0000 size=4096 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x750a1000 size=716800 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75150000 size=4096 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75151000 size=16384 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75155000 size=950272 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75280000 size=4096 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75281000 size=1331200 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x753c6000 size=16384 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x753ca000 size=73728 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75480000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75481000 size=536576 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75504000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75505000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75506000 size=286720 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75550000 size=4096 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75551000 size=24576 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75557000 size=4096 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75558000 size=8192 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75560000 size=4096 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75561000 size=372736 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x755bc000 size=8192 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x755be000 size=258048 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75600000 size=4096 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75601000 size=737280 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x756b5000 size=4096 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x756b6000 size=4096 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x756b7000 size=417792 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x757a0000 size=4096 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x757b0000 size=614400 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75850000 size=12288 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75860000 size=4096 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75870000 size=16384 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75880000 size=20480 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75890000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75891000 size=651264 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75930000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75931000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75932000 size=8192 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75934000 size=12288 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75937000 size=20480 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75940000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75950000 size=299008 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x759a0000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x759b0000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x759c0000 size=8192 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x759d0000 size=4096 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x759d1000 size=258048 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75a10000 size=8192 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75a12000 size=16384 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75a20000 size=4096 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75a21000 size=3969024 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75dea000 size=16384 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75dee000 size=12288 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x75df1000 size=8884224 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76670000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76680000 size=94208 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x766a0000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x766b0000 size=20480 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x766c0000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x766d0000 size=4096 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x766d1000 size=544768 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76756000 size=8192 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76758000 size=28672 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76760000 size=4096 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76761000 size=839680 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x7682e000 size=8192 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76830000 size=36864 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76839000 size=380928 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76930000 size=4096 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76931000 size=77824 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76944000 size=4096 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76945000 size=8192 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76947000 size=8192 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76950000 size=4096 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76951000 size=466944 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x769c3000 size=4096 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x769c4000 size=12288 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x769c7000 size=167936 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x769f0000 size=4096 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x769f1000 size=155648 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a17000 size=4096 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a18000 size=53248 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a30000 size=4096 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a31000 size=249856 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a6e000 size=4096 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a6f000 size=24576 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a80000 size=4096 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a81000 size=57344 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a8f000 size=4096 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76a90000 size=8192 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76aa0000 size=4096 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76aa1000 size=139264 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76ac3000 size=4096 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76ac4000 size=12288 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76ad0000 size=4096 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76ae0000 size=446464 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76b50000 size=4096 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76b60000 size=372736 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76bc0000 size=16384 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76df0000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76df1000 size=1056768 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76ef3000 size=192512 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76f22000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76f23000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76f24000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76f25000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76f27000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76f28000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76f29000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76f2b000 size=12288 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76f2e000 size=438272 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76fa0000 size=4096 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76fa1000 size=8192 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76fa3000 size=4096 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76fa4000 size=8192 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76fd0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x76fe0000 size=876544 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x770c0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x770d0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x770d1000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x770d2000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x770d3000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x770d4000 size=12288 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x770d7000 size=8192 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x770e0000 size=356352 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):Skip addr=0x77140000 size=20480 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x7efb0000 size=143360 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x7efd5000 size=12288 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x7efd8000 size=12288 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x7efdb000 size=12288 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x7efde000 size=4096 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x7efdf000 size=4096 Mod=
+2018-11-30(10:59:22) test(2588:272):MemBlock addr=0x7efe0000 size=20480 Mod=
+2018-11-30(10:59:22) test(2588:272):End Dump Process C:\Program Files (x86)\Windows Media Player\wmplayer.exe(2112)
+2018-11-30(11:1:33) test(2588:2684):IsFilterProcess begin(5)!
+2018-11-30(11:1:33) test(2588:2684):IsFilterProcess No Hit(4184533593578543520.exe)!
+2018-11-30(11:1:33) test(2588:2684):Start Dump Process C:\work\4184533593578543520.exe(2708)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: c:\work\4184533593578543520.exe(0x400000:0x478000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\SysWOW64\ntdll.dll(0x76fd0000:0x77150000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\kernel32.dll(0x74da0000:0x74eb0000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\KERNELBASE.dll(0x759d0000:0x75a16000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\USER32.dll(0x76ad0000:0x76bd0000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\GDI32.dll(0x75940000:0x759d0000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\LPK.dll(0x75550000:0x7555a000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\USP10.dll(0x75560000:0x755fd000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\msvcrt.dll(0x75890000:0x7593c000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\ADVAPI32.dll(0x76950000:0x769f0000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\SysWOW64\sechost.dll(0x76930000:0x76949000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\RPCRT4.dll(0x757a0000:0x75890000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\SspiCli.dll(0x74b30000:0x74b90000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\CRYPTBASE.dll(0x74b20000:0x74b2c000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\IMM32.DLL(0x76670000:0x766d0000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\MSCTF.dll(0x75480000:0x7554c000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\SHLWAPI.dll(0x75040000:0x75097000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\OLEAUT32.dll(0x766d0000:0x7675f000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\ole32.dll(0x75280000:0x753dc000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\uxtheme.dll(0x74410000:0x74490000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\CLBCatQ.DLL(0x74fb0000:0x75033000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\wbem\wbemprox.dll(0x74370000:0x7437a000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\wbemcomn.dll(0x74310000:0x7436c000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\WS2_32.dll(0x769f0000:0x76a25000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\syswow64\NSI.dll(0x76fa0000:0x76fa6000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\CRYPTSP.dll(0x742f0000:0x74306000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\rsaenh.dll(0x742b0000:0x742eb000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\RpcRtRemote.dll(0x742a0000:0x742ae000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\wbem\wbemsvc.dll(0x74290000:0x7429f000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\wbem\fastprox.dll(0x741f0000:0x74286000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\NTDSAPI.dll(0x741d0000:0x741e8000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\system32\SXS.DLL(0x739b0000:0x73a0f000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\ntdll.dll(0x76df0000:0x76f99000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\wow64.dll(0x74750000:0x7478f000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\wow64win.dll(0x746f0000:0x7474c000)
+2018-11-30(11:1:33) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\wow64cpu.dll(0x746e0000:0x746e8000)
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x10000 size=65536 Mod=
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x20000 size=4096 Mod=
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x30000 size=4096 Mod=
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x40000 size=4096 Mod=
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x8b000 size=20480 Mod=
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x18d000 size=12288 Mod=
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x190000 size=16384 Mod=
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x1a0000 size=4096 Mod=
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x1b0000 size=4096 Mod=
+2018-11-30(11:1:33) test(2588:2684):MemBlock addr=0x1c0000 size=421888 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x230000 size=106496 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x250000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x260000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x270000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x271000 size=36864 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x27a000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x27b000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x27d000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x27e000 size=49152 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x290000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2dc000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x300000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x360000 size=24576 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x400000 size=4096 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x401000 size=12288 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x404000 size=4096 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x405000 size=8192 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x407000 size=36864 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x410000 size=98304 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x428000 size=110592 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x443000 size=12288 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x446000 size=16384 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x44a000 size=24576 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x450000 size=163840 Mod=c:\work\4184533593578543520.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x480000 size=913408 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x59c000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x5dc000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x5e0000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x620000 size=335872 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x720000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x8a0000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x8b0000 size=1576960 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xa40000 size=200704 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x1e80000 size=4194304 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2280000 size=2945024 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2580000 size=4194304 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x29bc000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x29fc000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2a20000 size=167936 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2b10000 size=94208 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2c4f000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2d4f000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2e4f000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x304f000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x314f000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x739b0000 size=4096 Mod=C:\Windows\system32\SXS.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x739b1000 size=356352 Mod=C:\Windows\system32\SXS.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a08000 size=4096 Mod=C:\Windows\system32\SXS.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a09000 size=24576 Mod=C:\Windows\system32\SXS.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x741d0000 size=4096 Mod=C:\Windows\system32\NTDSAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x741d1000 size=81920 Mod=C:\Windows\system32\NTDSAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x741e5000 size=4096 Mod=C:\Windows\system32\NTDSAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x741e6000 size=8192 Mod=C:\Windows\system32\NTDSAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x741f0000 size=4096 Mod=C:\Windows\system32\wbem\fastprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x741f1000 size=565248 Mod=C:\Windows\system32\wbem\fastprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7427b000 size=4096 Mod=C:\Windows\system32\wbem\fastprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7427c000 size=40960 Mod=C:\Windows\system32\wbem\fastprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74290000 size=4096 Mod=C:\Windows\system32\wbem\wbemsvc.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74291000 size=40960 Mod=C:\Windows\system32\wbem\wbemsvc.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7429b000 size=4096 Mod=C:\Windows\system32\wbem\wbemsvc.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7429c000 size=12288 Mod=C:\Windows\system32\wbem\wbemsvc.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742a0000 size=4096 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742a1000 size=40960 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742ab000 size=4096 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742ac000 size=8192 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742b0000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742b1000 size=212992 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742e5000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742e6000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742e7000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742e8000 size=12288 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742f0000 size=4096 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742f1000 size=73728 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74303000 size=4096 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74304000 size=8192 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74310000 size=4096 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74311000 size=327680 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74361000 size=20480 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74366000 size=4096 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74367000 size=20480 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74370000 size=4096 Mod=C:\Windows\system32\wbem\wbemprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74371000 size=24576 Mod=C:\Windows\system32\wbem\wbemprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74377000 size=4096 Mod=C:\Windows\system32\wbem\wbemprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74378000 size=8192 Mod=C:\Windows\system32\wbem\wbemprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74410000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74420000 size=229376 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74460000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74461000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74470000 size=8192 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74480000 size=8192 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746e0000 size=4096 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746e1000 size=12288 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746e4000 size=4096 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746e5000 size=12288 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746f0000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746f1000 size=315392 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7473e000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7473f000 size=12288 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74742000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74743000 size=36864 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74750000 size=4096 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74751000 size=229376 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74789000 size=8192 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7478b000 size=16384 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b20000 size=4096 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b21000 size=32768 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b29000 size=4096 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b2a000 size=8192 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b30000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b40000 size=90112 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b60000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b70000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b80000 size=8192 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74da0000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74db0000 size=790528 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74e80000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74e81000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74e90000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74ea0000 size=45056 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74fb0000 size=4096 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74fb1000 size=487424 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75028000 size=8192 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7502a000 size=8192 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7502c000 size=28672 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75040000 size=4096 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75041000 size=331776 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75092000 size=4096 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75093000 size=16384 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75280000 size=4096 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75281000 size=1331200 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x753c6000 size=16384 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x753ca000 size=73728 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75480000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75481000 size=536576 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75504000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75505000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75506000 size=286720 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75550000 size=4096 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75551000 size=24576 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75557000 size=4096 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75558000 size=8192 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75560000 size=4096 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75561000 size=372736 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x755bc000 size=8192 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x755be000 size=258048 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x757a0000 size=4096 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x757b0000 size=614400 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75850000 size=12288 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75860000 size=4096 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75870000 size=16384 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75880000 size=20480 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75890000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75891000 size=651264 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75930000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75931000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75932000 size=8192 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75934000 size=12288 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75937000 size=20480 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75940000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75950000 size=299008 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759a0000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759b0000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759c0000 size=8192 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759d0000 size=4096 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759d1000 size=258048 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75a10000 size=8192 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75a12000 size=16384 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76670000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76680000 size=94208 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766a0000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766b0000 size=20480 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766c0000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766d0000 size=4096 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766d1000 size=544768 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76756000 size=8192 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76758000 size=28672 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76930000 size=4096 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76931000 size=77824 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76944000 size=4096 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76945000 size=8192 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76947000 size=8192 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76950000 size=4096 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76951000 size=466944 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769c3000 size=4096 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769c4000 size=12288 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769c7000 size=167936 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769f0000 size=4096 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769f1000 size=155648 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a17000 size=4096 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a18000 size=53248 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76ad0000 size=4096 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76ae0000 size=446464 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76b50000 size=4096 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76b60000 size=372736 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76bc0000 size=16384 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76df0000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76df1000 size=1056768 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76ef3000 size=192512 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f22000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f23000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f24000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f25000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f27000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f28000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f29000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f2b000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f2c000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f2e000 size=438272 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fa0000 size=4096 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fa1000 size=8192 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fa3000 size=4096 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fa4000 size=8192 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fd0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fe0000 size=876544 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770c0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d1000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d2000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d3000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d4000 size=20480 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770e0000 size=356352 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x77140000 size=20480 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efa4000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efa7000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efad000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efb0000 size=143360 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efd5000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efd8000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efdb000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efde000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efdf000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efe0000 size=20480 Mod=
+2018-11-30(11:1:34) test(2588:2684):End Dump Process C:\work\4184533593578543520.exe(2708)
+2018-11-30(11:1:34) test(2588:2684):IsFilterProcess begin(5)!
+2018-11-30(11:1:34) test(2588:2684):IsFilterProcess! string1(11) = svchost.exe,  string2(11) = tloader.exe
+2018-11-30(11:1:34) test(2588:2684):IsFilterProcess No Hit(svchost.exe)!
+2018-11-30(11:1:34) test(2588:2684):Start Dump Process C:\Windows\System32\svchost.exe(576)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\svchost.exe(0xff070000:0xff07b000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\ntdll.dll(0x76df0000:0x76f99000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\kernel32.dll(0x76bd0000:0x76cef000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\KERNELBASE.dll(0xfd000000:0xfd06b000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\msvcrt.dll(0xfd2c0000:0xfd35f000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\sechost.dll(0xff050000:0xff06f000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\RPCRT4.dll(0xfd5c0000:0xfd6ed000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: c:\windows\system32\umpnpmgr.dll(0xfc0f0000:0xfc157000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: c:\windows\system32\SPINF.dll(0xfc0d0000:0xfc0ef000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\USER32.dll(0x76cf0000:0x76dea000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\GDI32.dll(0xfd6f0000:0xfd757000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\LPK.dll(0xff070000:0xff07e000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\USP10.dll(0xfd390000:0xfd459000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: c:\windows\system32\DEVRTL.dll(0xfc0b0000:0xfc0c2000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\IMM32.DLL(0xfd360000:0xfd38e000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\MSCTF.dll(0xfd1b0000:0xfd2b9000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\RpcRtRemote.dll(0xfcd20000:0xfcd34000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\USERENV.dll(0xfc090000:0xfc0ae000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\profapi.dll(0xfcd40000:0xfcd4f000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\GPAPI.dll(0xfc070000:0xfc08b000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\WINSTA.dll(0xfcce0000:0xfcd1d000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\ADVAPI32.dll(0xfdcb0000:0xfdd8b000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\CRYPTBASE.dll(0xfcc30000:0xfcc3f000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: c:\windows\system32\umpo.dll(0xfc040000:0xfc06c000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\SETUPAPI.dll(0xfd9f0000:0xfdbc7000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\CFGMGR32.dll(0xfcf80000:0xfcfb6000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\OLEAUT32.dll(0xfdbd0000:0xfdca7000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\ole32.dll(0xfd7e0000:0xfd9e3000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\DEVOBJ.dll(0xfcdf0000:0xfce0a000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: c:\windows\system32\pcwum.DLL(0xfc030000:0xfc03d000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: c:\windows\system32\rpcss.dll(0xfbfa0000:0xfc021000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: c:\windows\system32\SspiCli.dll(0xfcba0000:0xfcbc5000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\credssp.dll(0xfc1a0000:0xfc1aa000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\CLBCatQ.DLL(0xfef50000:0xfefe9000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\apphelp.dll(0xfcbd0000:0xfcc27000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\WINTRUST.dll(0xfcfc0000:0xfcffa000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\CRYPT32.dll(0xfce10000:0xfcf77000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\MSASN1.dll(0xfcde0000:0xfcdef000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\ntmarta.dll(0xfb180000:0xfb1ad000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\WLDAP32.dll(0xfeff0000:0xff042000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\wbem\wmidcprv.dll(0xf2500000:0xf2532000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\wbem\FastProx.dll(0xf23b0000:0xf2492000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\wbemcomn.dll(0xf3980000:0xf3a06000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\WS2_32.dll(0xfed80000:0xfedcd000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\NSI.dll(0xfd480000:0xfd488000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\NTDSAPI.dll(0xf2360000:0xf2387000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\wbem\wbemprox.dll(0xf2350000:0xf235f000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\CRYPTSP.dll(0xfc5d0000:0xfc5e7000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\rsaenh.dll(0xfc2d0000:0xfc317000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\WTSAPI32.dll(0xfaf20000:0xfaf31000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\wbem\wbemsvc.dll(0xf1ff0000:0xf2004000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\wbem\wmiutils.dll(0xf1fc0000:0xf1fe6000)
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x10000 size=65536 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x20000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x30000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x40000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xc8000 size=32768 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xd0000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xe0000 size=1048576 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x1e0000 size=421888 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x250000 size=131072 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x350000 size=24576 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x410000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x420000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x430000 size=53248 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x440000 size=65536 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x4c5000 size=45056 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x4d0000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x4e0000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x4f0000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x500000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x510000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x520000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x630000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x716000 size=40960 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x720000 size=2945024 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x9f0000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xb70000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xb80000 size=1576960 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xe06000 size=40960 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xe10000 size=65536 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xef8000 size=32768 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xf78000 size=32768 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x1018000 size=32768 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x10e5000 size=45056 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x1178000 size=32768 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x11c0000 size=180224 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x13c8000 size=32768 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x1518000 size=32768 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x1520000 size=290816 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x17d0000 size=237568 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x1910000 size=172032 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x1a10000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76bd0000 size=4096 Mod=C:\Windows\system32\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76bd1000 size=634880 Mod=C:\Windows\system32\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76c6c000 size=450560 Mod=C:\Windows\system32\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76cda000 size=8192 Mod=C:\Windows\system32\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76cdc000 size=77824 Mod=C:\Windows\system32\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76cf0000 size=4096 Mod=C:\Windows\system32\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76cf1000 size=528384 Mod=C:\Windows\system32\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76d72000 size=65536 Mod=C:\Windows\system32\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76d82000 size=8192 Mod=C:\Windows\system32\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76d84000 size=417792 Mod=C:\Windows\system32\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76df0000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76df1000 size=1056768 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76ef3000 size=192512 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f22000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f23000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f24000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f25000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f27000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f28000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f29000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f2b000 size=12288 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f2e000 size=438272 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efe0000 size=20480 Mod=
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff070000 size=4096 Mod=C:\Windows\system32\svchost.exe
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff071000 size=16384 Mod=C:\Windows\system32\svchost.exe
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff075000 size=8192 Mod=C:\Windows\system32\svchost.exe
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff077000 size=4096 Mod=C:\Windows\system32\svchost.exe
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff078000 size=12288 Mod=C:\Windows\system32\svchost.exe
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1fc0000 size=4096 Mod=C:\Windows\system32\wbem\wmiutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1fc1000 size=86016 Mod=C:\Windows\system32\wbem\wmiutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1fd6000 size=36864 Mod=C:\Windows\system32\wbem\wmiutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1fdf000 size=4096 Mod=C:\Windows\system32\wbem\wmiutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1fe0000 size=4096 Mod=C:\Windows\system32\wbem\wmiutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1fe1000 size=20480 Mod=C:\Windows\system32\wbem\wmiutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1ff0000 size=4096 Mod=C:\Windows\system32\wbem\wbemsvc.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1ff1000 size=12288 Mod=C:\Windows\system32\wbem\wbemsvc.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1ff4000 size=45056 Mod=C:\Windows\system32\wbem\wbemsvc.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf1fff000 size=8192 Mod=C:\Windows\system32\wbem\wbemsvc.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2001000 size=12288 Mod=C:\Windows\system32\wbem\wbemsvc.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2350000 size=4096 Mod=C:\Windows\system32\wbem\wbemprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2351000 size=28672 Mod=C:\Windows\system32\wbem\wbemprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2358000 size=12288 Mod=C:\Windows\system32\wbem\wbemprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf235b000 size=4096 Mod=C:\Windows\system32\wbem\wbemprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf235c000 size=12288 Mod=C:\Windows\system32\wbem\wbemprox.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2360000 size=4096 Mod=C:\Windows\system32\NTDSAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2361000 size=77824 Mod=C:\Windows\system32\NTDSAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2374000 size=61440 Mod=C:\Windows\system32\NTDSAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2383000 size=4096 Mod=C:\Windows\system32\NTDSAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2384000 size=12288 Mod=C:\Windows\system32\NTDSAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf23b0000 size=4096 Mod=C:\Windows\system32\wbem\FastProx.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf23b1000 size=585728 Mod=C:\Windows\system32\wbem\FastProx.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2440000 size=266240 Mod=C:\Windows\system32\wbem\FastProx.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2481000 size=4096 Mod=C:\Windows\system32\wbem\FastProx.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2482000 size=4096 Mod=C:\Windows\system32\wbem\FastProx.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2483000 size=61440 Mod=C:\Windows\system32\wbem\FastProx.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2500000 size=4096 Mod=C:\Windows\system32\wbem\wmidcprv.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf2501000 size=172032 Mod=C:\Windows\system32\wbem\wmidcprv.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf252b000 size=12288 Mod=C:\Windows\system32\wbem\wmidcprv.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf252e000 size=16384 Mod=C:\Windows\system32\wbem\wmidcprv.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf3980000 size=4096 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf3981000 size=315392 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf39ce000 size=155648 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf39f4000 size=36864 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xf39fd000 size=36864 Mod=C:\Windows\system32\wbemcomn.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfaf20000 size=4096 Mod=C:\Windows\system32\WTSAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfaf21000 size=36864 Mod=C:\Windows\system32\WTSAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfaf2a000 size=12288 Mod=C:\Windows\system32\WTSAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfaf2d000 size=4096 Mod=C:\Windows\system32\WTSAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfaf2e000 size=12288 Mod=C:\Windows\system32\WTSAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfb180000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfb181000 size=131072 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfb1a1000 size=20480 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfb1a6000 size=8192 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfb1a8000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfb1a9000 size=16384 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfbfa0000 size=4096 Mod=c:\windows\system32\rpcss.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfbfa1000 size=413696 Mod=c:\windows\system32\rpcss.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc006000 size=65536 Mod=c:\windows\system32\rpcss.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc016000 size=8192 Mod=c:\windows\system32\rpcss.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc018000 size=4096 Mod=c:\windows\system32\rpcss.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc019000 size=32768 Mod=c:\windows\system32\rpcss.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc030000 size=4096 Mod=c:\windows\system32\pcwum.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc031000 size=24576 Mod=c:\windows\system32\pcwum.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc037000 size=4096 Mod=c:\windows\system32\pcwum.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc038000 size=20480 Mod=c:\windows\system32\pcwum.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc040000 size=4096 Mod=c:\windows\system32\umpo.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc041000 size=106496 Mod=c:\windows\system32\umpo.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc05b000 size=40960 Mod=c:\windows\system32\umpo.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc065000 size=4096 Mod=c:\windows\system32\umpo.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc066000 size=24576 Mod=c:\windows\system32\umpo.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc070000 size=4096 Mod=C:\Windows\system32\GPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc071000 size=49152 Mod=C:\Windows\system32\GPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc07d000 size=40960 Mod=C:\Windows\system32\GPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc087000 size=4096 Mod=C:\Windows\system32\GPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc088000 size=12288 Mod=C:\Windows\system32\GPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc090000 size=4096 Mod=C:\Windows\system32\USERENV.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc091000 size=73728 Mod=C:\Windows\system32\USERENV.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0a3000 size=24576 Mod=C:\Windows\system32\USERENV.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0a9000 size=4096 Mod=C:\Windows\system32\USERENV.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0aa000 size=16384 Mod=C:\Windows\system32\USERENV.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0b0000 size=4096 Mod=c:\windows\system32\DEVRTL.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0b1000 size=40960 Mod=c:\windows\system32\DEVRTL.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0bb000 size=12288 Mod=c:\windows\system32\DEVRTL.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0be000 size=4096 Mod=c:\windows\system32\DEVRTL.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0bf000 size=12288 Mod=c:\windows\system32\DEVRTL.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0d0000 size=4096 Mod=c:\windows\system32\SPINF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0d1000 size=77824 Mod=c:\windows\system32\SPINF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0e4000 size=20480 Mod=c:\windows\system32\SPINF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0e9000 size=4096 Mod=c:\windows\system32\SPINF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0ea000 size=4096 Mod=c:\windows\system32\SPINF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0eb000 size=16384 Mod=c:\windows\system32\SPINF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0f0000 size=4096 Mod=c:\windows\system32\umpnpmgr.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc0f1000 size=274432 Mod=c:\windows\system32\umpnpmgr.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc134000 size=86016 Mod=c:\windows\system32\umpnpmgr.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc149000 size=8192 Mod=c:\windows\system32\umpnpmgr.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc14b000 size=49152 Mod=c:\windows\system32\umpnpmgr.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc1a0000 size=4096 Mod=C:\Windows\system32\credssp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc1a1000 size=20480 Mod=C:\Windows\system32\credssp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc1a6000 size=4096 Mod=C:\Windows\system32\credssp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc1a7000 size=12288 Mod=C:\Windows\system32\credssp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc2d0000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc2d1000 size=196608 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc301000 size=53248 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc30e000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc30f000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc310000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc311000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc312000 size=20480 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc5d0000 size=4096 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc5d1000 size=73728 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc5e3000 size=4096 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfc5e4000 size=12288 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcba0000 size=4096 Mod=c:\windows\system32\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcba1000 size=94208 Mod=c:\windows\system32\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcbb8000 size=28672 Mod=c:\windows\system32\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcbbf000 size=4096 Mod=c:\windows\system32\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcbc0000 size=4096 Mod=c:\windows\system32\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcbc1000 size=16384 Mod=c:\windows\system32\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcbd0000 size=4096 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcbd1000 size=200704 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcc02000 size=81920 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcc16000 size=4096 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcc17000 size=12288 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcc1a000 size=53248 Mod=C:\Windows\system32\apphelp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcc30000 size=4096 Mod=C:\Windows\system32\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcc31000 size=16384 Mod=C:\Windows\system32\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcc35000 size=24576 Mod=C:\Windows\system32\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcc3b000 size=4096 Mod=C:\Windows\system32\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcc3c000 size=12288 Mod=C:\Windows\system32\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcce0000 size=4096 Mod=C:\Windows\system32\WINSTA.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcce1000 size=110592 Mod=C:\Windows\system32\WINSTA.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfccfc000 size=102400 Mod=C:\Windows\system32\WINSTA.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd15000 size=4096 Mod=C:\Windows\system32\WINSTA.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd16000 size=4096 Mod=C:\Windows\system32\WINSTA.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd17000 size=8192 Mod=C:\Windows\system32\WINSTA.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd19000 size=16384 Mod=C:\Windows\system32\WINSTA.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd20000 size=4096 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd21000 size=40960 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd2b000 size=20480 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd30000 size=4096 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd31000 size=12288 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd40000 size=4096 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd41000 size=28672 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd48000 size=12288 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd4b000 size=4096 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcd4c000 size=12288 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcde0000 size=4096 Mod=C:\Windows\system32\MSASN1.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcde1000 size=32768 Mod=C:\Windows\system32\MSASN1.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcde9000 size=8192 Mod=C:\Windows\system32\MSASN1.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcdeb000 size=4096 Mod=C:\Windows\system32\MSASN1.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcdec000 size=12288 Mod=C:\Windows\system32\MSASN1.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcdf0000 size=4096 Mod=C:\Windows\system32\DEVOBJ.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcdf1000 size=65536 Mod=C:\Windows\system32\DEVOBJ.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfce01000 size=20480 Mod=C:\Windows\system32\DEVOBJ.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfce06000 size=4096 Mod=C:\Windows\system32\DEVOBJ.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfce07000 size=12288 Mod=C:\Windows\system32\DEVOBJ.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfce10000 size=4096 Mod=C:\Windows\system32\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfce11000 size=843776 Mod=C:\Windows\system32\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcedf000 size=167936 Mod=C:\Windows\system32\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcf08000 size=8192 Mod=C:\Windows\system32\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcf0a000 size=4096 Mod=C:\Windows\system32\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcf0b000 size=442368 Mod=C:\Windows\system32\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcf80000 size=4096 Mod=C:\Windows\system32\CFGMGR32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcf81000 size=131072 Mod=C:\Windows\system32\CFGMGR32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcfa1000 size=65536 Mod=C:\Windows\system32\CFGMGR32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcfb1000 size=4096 Mod=C:\Windows\system32\CFGMGR32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcfb2000 size=16384 Mod=C:\Windows\system32\CFGMGR32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcfc0000 size=4096 Mod=C:\Windows\system32\WINTRUST.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcfc1000 size=159744 Mod=C:\Windows\system32\WINTRUST.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcfe8000 size=49152 Mod=C:\Windows\system32\WINTRUST.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcff4000 size=4096 Mod=C:\Windows\system32\WINTRUST.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfcff5000 size=20480 Mod=C:\Windows\system32\WINTRUST.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd000000 size=4096 Mod=C:\Windows\system32\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd001000 size=299008 Mod=C:\Windows\system32\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd04a000 size=90112 Mod=C:\Windows\system32\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd060000 size=8192 Mod=C:\Windows\system32\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd062000 size=36864 Mod=C:\Windows\system32\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd1b0000 size=4096 Mod=C:\Windows\system32\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd1b1000 size=655360 Mod=C:\Windows\system32\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd251000 size=98304 Mod=C:\Windows\system32\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd269000 size=4096 Mod=C:\Windows\system32\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd26a000 size=8192 Mod=C:\Windows\system32\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd26c000 size=315392 Mod=C:\Windows\system32\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd2c0000 size=4096 Mod=C:\Windows\system32\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd2c1000 size=495616 Mod=C:\Windows\system32\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd33a000 size=94208 Mod=C:\Windows\system32\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd351000 size=8192 Mod=C:\Windows\system32\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd353000 size=4096 Mod=C:\Windows\system32\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd354000 size=4096 Mod=C:\Windows\system32\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd355000 size=8192 Mod=C:\Windows\system32\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd357000 size=32768 Mod=C:\Windows\system32\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd360000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd361000 size=114688 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd37d000 size=20480 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd382000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd383000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd384000 size=40960 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd390000 size=4096 Mod=C:\Windows\system32\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd391000 size=532480 Mod=C:\Windows\system32\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd413000 size=4096 Mod=C:\Windows\system32\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd414000 size=4096 Mod=C:\Windows\system32\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd415000 size=4096 Mod=C:\Windows\system32\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd416000 size=274432 Mod=C:\Windows\system32\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd480000 size=4096 Mod=C:\Windows\system32\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd481000 size=8192 Mod=C:\Windows\system32\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd483000 size=4096 Mod=C:\Windows\system32\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd484000 size=4096 Mod=C:\Windows\system32\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd485000 size=12288 Mod=C:\Windows\system32\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd5c0000 size=4096 Mod=C:\Windows\system32\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd5c1000 size=925696 Mod=C:\Windows\system32\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd6a3000 size=180224 Mod=C:\Windows\system32\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd6cf000 size=8192 Mod=C:\Windows\system32\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd6d1000 size=114688 Mod=C:\Windows\system32\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd6f0000 size=4096 Mod=C:\Windows\system32\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd6f1000 size=331776 Mod=C:\Windows\system32\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd742000 size=40960 Mod=C:\Windows\system32\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd74c000 size=4096 Mod=C:\Windows\system32\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd74d000 size=4096 Mod=C:\Windows\system32\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd74e000 size=36864 Mod=C:\Windows\system32\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd7e0000 size=4096 Mod=C:\Windows\system32\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd7e1000 size=1564672 Mod=C:\Windows\system32\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd95f000 size=352256 Mod=C:\Windows\system32\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd9b5000 size=28672 Mod=C:\Windows\system32\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd9bc000 size=159744 Mod=C:\Windows\system32\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd9f0000 size=4096 Mod=C:\Windows\system32\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfd9f1000 size=761856 Mod=C:\Windows\system32\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdaab000 size=192512 Mod=C:\Windows\system32\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdada000 size=8192 Mod=C:\Windows\system32\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdadc000 size=16384 Mod=C:\Windows\system32\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdae0000 size=946176 Mod=C:\Windows\system32\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdbd0000 size=4096 Mod=C:\Windows\system32\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdbd1000 size=638976 Mod=C:\Windows\system32\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdc6d000 size=155648 Mod=C:\Windows\system32\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdc93000 size=8192 Mod=C:\Windows\system32\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdc95000 size=4096 Mod=C:\Windows\system32\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdc96000 size=69632 Mod=C:\Windows\system32\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdcb0000 size=4096 Mod=C:\Windows\system32\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdcb1000 size=479232 Mod=C:\Windows\system32\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdd26000 size=204800 Mod=C:\Windows\system32\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdd58000 size=12288 Mod=C:\Windows\system32\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdd5b000 size=8192 Mod=C:\Windows\system32\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfdd5d000 size=188416 Mod=C:\Windows\system32\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfed80000 size=4096 Mod=C:\Windows\system32\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfed81000 size=196608 Mod=C:\Windows\system32\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfedb1000 size=45056 Mod=C:\Windows\system32\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfedbc000 size=4096 Mod=C:\Windows\system32\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfedbd000 size=65536 Mod=C:\Windows\system32\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfef50000 size=4096 Mod=C:\Windows\system32\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfef51000 size=401408 Mod=C:\Windows\system32\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfefb3000 size=163840 Mod=C:\Windows\system32\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfefdb000 size=12288 Mod=C:\Windows\system32\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfefde000 size=12288 Mod=C:\Windows\system32\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfefe1000 size=32768 Mod=C:\Windows\system32\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfeff0000 size=4096 Mod=C:\Windows\system32\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xfeff1000 size=233472 Mod=C:\Windows\system32\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff02a000 size=65536 Mod=C:\Windows\system32\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff03a000 size=4096 Mod=C:\Windows\system32\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff03b000 size=4096 Mod=C:\Windows\system32\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff03c000 size=24576 Mod=C:\Windows\system32\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff050000 size=4096 Mod=C:\Windows\SYSTEM32\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff051000 size=98304 Mod=C:\Windows\SYSTEM32\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff069000 size=12288 Mod=C:\Windows\SYSTEM32\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff06c000 size=12288 Mod=C:\Windows\SYSTEM32\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff070000 size=4096 Mod=C:\Windows\system32\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff071000 size=28672 Mod=C:\Windows\system32\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff078000 size=8192 Mod=C:\Windows\system32\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff07a000 size=4096 Mod=C:\Windows\system32\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0xff07b000 size=12288 Mod=C:\Windows\system32\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):End Dump Process C:\Windows\System32\svchost.exe(576)
+2018-11-30(11:1:34) test(2588:2684):IsFilterProcess begin(5)!
+2018-11-30(11:1:34) test(2588:2684):IsFilterProcess! string1(12) = setup_wm.exe,  string2(12) = iexplore.exe
+2018-11-30(11:1:34) test(2588:2684):IsFilterProcess No Hit(setup_wm.exe)!
+2018-11-30(11:1:34) test(2588:2684):Start Dump Process C:\Program Files (x86)\Windows Media Player\setup_wm.exe(2240)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Program Files (x86)\Windows Media Player\setup_wm.exe(0x140000:0x32f000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SysWOW64\ntdll.dll(0x76fd0000:0x77150000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\kernel32.dll(0x74da0000:0x74eb0000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\KERNELBASE.dll(0x759d0000:0x75a16000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\ADVAPI32.dll(0x76950000:0x769f0000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\msvcrt.dll(0x75890000:0x7593c000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SysWOW64\sechost.dll(0x76930000:0x76949000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\RPCRT4.dll(0x757a0000:0x75890000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\SspiCli.dll(0x74b30000:0x74b90000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\CRYPTBASE.dll(0x74b20000:0x74b2c000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\GDI32.dll(0x75940000:0x759d0000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\USER32.dll(0x76ad0000:0x76bd0000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\LPK.dll(0x75550000:0x7555a000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\USP10.dll(0x75560000:0x755fd000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\ATL.DLL(0x740b0000:0x740c4000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\pdh.dll(0x74070000:0x740ac000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\ole32.dll(0x75280000:0x753dc000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\OLEAUT32.dll(0x766d0000:0x7675f000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\COMCTL32.dll(0x744a0000:0x7463e000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\SHLWAPI.dll(0x75040000:0x75097000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\SHELL32.dll(0x75a20000:0x7666a000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll(0x73c70000:0x73e00000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\WININET.dll(0x74eb0000:0x74fa5000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\urlmon.dll(0x76760000:0x76896000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\CRYPT32.dll(0x75600000:0x7571d000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\MSASN1.dll(0x74d90000:0x74d9c000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\iertutil.dll(0x74b90000:0x74d8b000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\SETUPAPI.dll(0x750a0000:0x7523d000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\CFGMGR32.dll(0x76aa0000:0x76ac7000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\DEVOBJ.dll(0x76a80000:0x76a92000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\WINTRUST.dll(0x75450000:0x7547d000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\USERENV.dll(0x740e0000:0x740f7000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\profapi.dll(0x740d0000:0x740db000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\Secur32.dll(0x74060000:0x74068000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\VERSION.dll(0x74640000:0x74649000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\MPR.dll(0x74040000:0x74052000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\MF.dll(0x73420000:0x73732000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\MFPlat.DLL(0x73fe0000:0x74039000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\WS2_32.dll(0x769f0000:0x76a25000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\NSI.dll(0x76fa0000:0x76fa6000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\AVRT.dll(0x73fd0000:0x73fd7000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\ksuser.dll(0x73fc0000:0x73fc4000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\IMM32.DLL(0x76670000:0x766d0000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\MSCTF.dll(0x75480000:0x7554c000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\uxtheme.dll(0x74410000:0x74490000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\dwmapi.dll(0x743f0000:0x74403000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\PROPSYS.dll(0x73e00000:0x73ef5000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\CLBCatQ.DLL(0x74fb0000:0x75033000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\ntmarta.dll(0x74190000:0x741b1000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\syswow64\WLDAP32.dll(0x76a30000:0x76a75000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SysWOW64\quartz.dll(0x73af0000:0x73c67000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SysWOW64\WINMM.dll(0x74650000:0x74682000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SysWOW64\devenum.dll(0x73fa0000:0x73fb4000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\msdmo.dll(0x73f90000:0x73f9b000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\CRYPTSP.dll(0x742f0000:0x74306000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\rsaenh.dll(0x742b0000:0x742eb000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\RpcRtRemote.dll(0x742a0000:0x742ae000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\System32\netprofm.dll(0x73f30000:0x73f8a000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\System32\nlaapi.dll(0x73f20000:0x73f30000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\System32\npmproxy.dll(0x73f10000:0x73f18000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\dnsapi.DLL(0x73aa0000:0x73ae4000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\iphlpapi.DLL(0x74690000:0x746ac000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\WINNSI.DLL(0x74490000:0x74497000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\RASAPI32.dll(0x73a40000:0x73a92000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\rasman.dll(0x73a20000:0x73a35000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\rtutils.dll(0x73f00000:0x73f0d000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\sensapi.dll(0x73a10000:0x73a16000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\rasadhlp.dll(0x739a0000:0x739a6000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\system32\mswsock.dll(0x73960000:0x7399c000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\System32\wshtcpip.dll(0x73950000:0x73955000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\System32\wship6.dll(0x73940000:0x73946000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\System32\fwpuclnt.dll(0x73900000:0x73938000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\System32\msxml6.dll(0x732c0000:0x73418000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\ntdll.dll(0x76df0000:0x76f99000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\wow64.dll(0x74750000:0x7478f000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\wow64win.dll(0x746f0000:0x7474c000)
+2018-11-30(11:1:34) test(2588:2684):***Moudle: C:\Windows\SYSTEM32\wow64cpu.dll(0x746e0000:0x746e8000)
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x10000 size=65536 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x20000 size=57344 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x30000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x40000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x50000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x60000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x70000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x80000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x90000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xa0000 size=53248 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xb0000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xc0000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xd0000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x119000 size=28672 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x120000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x130000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x140000 size=4096 Mod=C:\Program Files (x86)\Windows Media Player\setup_wm.exe
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x141000 size=462848 Mod=C:\Program Files (x86)\Windows Media Player\setup_wm.exe
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x1b2000 size=16384 Mod=C:\Program Files (x86)\Windows Media Player\setup_wm.exe
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x1b6000 size=1544192 Mod=C:\Program Files (x86)\Windows Media Player\setup_wm.exe
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x330000 size=421888 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3a0000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x420000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x430000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x440000 size=126976 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x495000 size=45056 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x4a0000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x620000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x630000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x640000 size=20480 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x650000 size=24576 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x6d0000 size=1576960 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x860000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x870000 size=65536 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x880000 size=802816 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x980000 size=32768 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x990000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x9d0000 size=172032 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xb0e000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xb10000 size=49152 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xb20000 size=53248 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xb30000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xb40000 size=40960 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0xb50000 size=200704 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x1f50000 size=786432 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2010000 size=32768 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2020000 size=102400 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2060000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2070000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x20dc000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x20f0000 size=20480 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2130000 size=913408 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2210000 size=2945024 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x253e000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x25cc000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2600000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x279c000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x280c000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x28ed000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x299b000 size=20480 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x29dc000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x29e0000 size=126976 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x2a20000 size=9633792 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x339c000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x33a0000 size=73728 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x34d0000 size=24576 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x358e000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x35b0000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3660000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x36bc000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x36fc000 size=16384 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3720000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3760000 size=786432 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3830000 size=90112 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x38ee000 size=8192 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3910000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3a00000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3a50000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3c00000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x3c40000 size=65536 Mod=
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x732c0000 size=4096 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x732c1000 size=1097728 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x733cd000 size=8192 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x733cf000 size=4096 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x733d0000 size=4096 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x733d1000 size=4096 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x733d2000 size=24576 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x733d8000 size=4096 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x733d9000 size=4096 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x733da000 size=253952 Mod=C:\Windows\System32\msxml6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73420000 size=4096 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73421000 size=2990080 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x736fb000 size=45056 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73706000 size=4096 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73707000 size=8192 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73709000 size=4096 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7370a000 size=4096 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7370b000 size=28672 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73712000 size=4096 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73713000 size=126976 Mod=C:\Windows\system32\MF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73900000 size=4096 Mod=C:\Windows\System32\fwpuclnt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73901000 size=208896 Mod=C:\Windows\System32\fwpuclnt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73934000 size=4096 Mod=C:\Windows\System32\fwpuclnt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73935000 size=12288 Mod=C:\Windows\System32\fwpuclnt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73940000 size=4096 Mod=C:\Windows\System32\wship6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73941000 size=8192 Mod=C:\Windows\System32\wship6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73943000 size=4096 Mod=C:\Windows\System32\wship6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73944000 size=8192 Mod=C:\Windows\System32\wship6.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73950000 size=4096 Mod=C:\Windows\System32\wshtcpip.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73951000 size=4096 Mod=C:\Windows\System32\wshtcpip.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73952000 size=4096 Mod=C:\Windows\System32\wshtcpip.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73953000 size=8192 Mod=C:\Windows\System32\wshtcpip.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73960000 size=4096 Mod=C:\Windows\system32\mswsock.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73961000 size=217088 Mod=C:\Windows\system32\mswsock.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73996000 size=4096 Mod=C:\Windows\system32\mswsock.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73997000 size=4096 Mod=C:\Windows\system32\mswsock.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73998000 size=16384 Mod=C:\Windows\system32\mswsock.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x739a0000 size=4096 Mod=C:\Windows\system32\rasadhlp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x739a1000 size=8192 Mod=C:\Windows\system32\rasadhlp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x739a3000 size=4096 Mod=C:\Windows\system32\rasadhlp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x739a4000 size=8192 Mod=C:\Windows\system32\rasadhlp.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a10000 size=4096 Mod=C:\Windows\system32\sensapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a11000 size=8192 Mod=C:\Windows\system32\sensapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a13000 size=4096 Mod=C:\Windows\system32\sensapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a14000 size=8192 Mod=C:\Windows\system32\sensapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a20000 size=4096 Mod=C:\Windows\system32\rasman.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a21000 size=69632 Mod=C:\Windows\system32\rasman.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a32000 size=4096 Mod=C:\Windows\system32\rasman.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a33000 size=8192 Mod=C:\Windows\system32\rasman.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a40000 size=4096 Mod=C:\Windows\system32\RASAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a41000 size=307200 Mod=C:\Windows\system32\RASAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a8c000 size=4096 Mod=C:\Windows\system32\RASAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a8d000 size=4096 Mod=C:\Windows\system32\RASAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73a8e000 size=16384 Mod=C:\Windows\system32\RASAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73aa0000 size=4096 Mod=C:\Windows\system32\dnsapi.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73aa1000 size=229376 Mod=C:\Windows\system32\dnsapi.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73ad9000 size=8192 Mod=C:\Windows\system32\dnsapi.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73adb000 size=4096 Mod=C:\Windows\system32\dnsapi.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73adc000 size=32768 Mod=C:\Windows\system32\dnsapi.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73af0000 size=4096 Mod=C:\Windows\SysWOW64\quartz.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73af1000 size=1200128 Mod=C:\Windows\SysWOW64\quartz.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73c16000 size=4096 Mod=C:\Windows\SysWOW64\quartz.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73c17000 size=225280 Mod=C:\Windows\SysWOW64\quartz.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73c4e000 size=102400 Mod=C:\Windows\SysWOW64\quartz.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73c70000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73c71000 size=1486848 Mod=C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73ddc000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73ddd000 size=12288 Mod=C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73de0000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73de1000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73de2000 size=8192 Mod=C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73de4000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73de5000 size=110592 Mod=C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73e00000 size=4096 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73e01000 size=491520 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73e79000 size=4096 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73e7a000 size=4096 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73e7b000 size=499712 Mod=C:\Windows\system32\PROPSYS.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f00000 size=4096 Mod=C:\Windows\system32\rtutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f01000 size=36864 Mod=C:\Windows\system32\rtutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f0a000 size=4096 Mod=C:\Windows\system32\rtutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f0b000 size=8192 Mod=C:\Windows\system32\rtutils.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f10000 size=4096 Mod=C:\Windows\System32\npmproxy.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f11000 size=16384 Mod=C:\Windows\System32\npmproxy.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f15000 size=4096 Mod=C:\Windows\System32\npmproxy.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f16000 size=8192 Mod=C:\Windows\System32\npmproxy.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f20000 size=4096 Mod=C:\Windows\System32\nlaapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f21000 size=49152 Mod=C:\Windows\System32\nlaapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f2d000 size=4096 Mod=C:\Windows\System32\nlaapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f2e000 size=8192 Mod=C:\Windows\System32\nlaapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f30000 size=4096 Mod=C:\Windows\System32\netprofm.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f31000 size=233472 Mod=C:\Windows\System32\netprofm.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f6a000 size=4096 Mod=C:\Windows\System32\netprofm.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f6b000 size=126976 Mod=C:\Windows\System32\netprofm.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f90000 size=4096 Mod=C:\Windows\system32\msdmo.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f91000 size=28672 Mod=C:\Windows\system32\msdmo.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f98000 size=4096 Mod=C:\Windows\system32\msdmo.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73f99000 size=8192 Mod=C:\Windows\system32\msdmo.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fa0000 size=4096 Mod=C:\Windows\SysWOW64\devenum.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fa1000 size=57344 Mod=C:\Windows\SysWOW64\devenum.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73faf000 size=4096 Mod=C:\Windows\SysWOW64\devenum.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fb0000 size=16384 Mod=C:\Windows\SysWOW64\devenum.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fc0000 size=4096 Mod=C:\Windows\system32\ksuser.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fc1000 size=4096 Mod=C:\Windows\system32\ksuser.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fc2000 size=8192 Mod=C:\Windows\system32\ksuser.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fd0000 size=4096 Mod=C:\Windows\system32\AVRT.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fd1000 size=12288 Mod=C:\Windows\system32\AVRT.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fd4000 size=4096 Mod=C:\Windows\system32\AVRT.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fd5000 size=8192 Mod=C:\Windows\system32\AVRT.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fe0000 size=4096 Mod=C:\Windows\system32\MFPlat.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x73fe1000 size=245760 Mod=C:\Windows\system32\MFPlat.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7401d000 size=4096 Mod=C:\Windows\system32\MFPlat.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7401e000 size=4096 Mod=C:\Windows\system32\MFPlat.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7401f000 size=106496 Mod=C:\Windows\system32\MFPlat.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74040000 size=4096 Mod=C:\Windows\system32\MPR.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74041000 size=57344 Mod=C:\Windows\system32\MPR.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7404f000 size=4096 Mod=C:\Windows\system32\MPR.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74050000 size=8192 Mod=C:\Windows\system32\MPR.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74060000 size=4096 Mod=C:\Windows\system32\Secur32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74061000 size=16384 Mod=C:\Windows\system32\Secur32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74065000 size=4096 Mod=C:\Windows\system32\Secur32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74066000 size=8192 Mod=C:\Windows\system32\Secur32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74070000 size=4096 Mod=C:\Windows\system32\pdh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74071000 size=221184 Mod=C:\Windows\system32\pdh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740a7000 size=4096 Mod=C:\Windows\system32\pdh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740a8000 size=16384 Mod=C:\Windows\system32\pdh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740b0000 size=4096 Mod=C:\Windows\system32\ATL.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740b1000 size=57344 Mod=C:\Windows\system32\ATL.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740bf000 size=4096 Mod=C:\Windows\system32\ATL.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740c0000 size=16384 Mod=C:\Windows\system32\ATL.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740d0000 size=4096 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740d1000 size=28672 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740d8000 size=4096 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740d9000 size=8192 Mod=C:\Windows\system32\profapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740e0000 size=4096 Mod=C:\Windows\system32\USERENV.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740e1000 size=73728 Mod=C:\Windows\system32\USERENV.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740f3000 size=4096 Mod=C:\Windows\system32\USERENV.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x740f4000 size=12288 Mod=C:\Windows\system32\USERENV.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74190000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74191000 size=110592 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x741ac000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x741ad000 size=4096 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x741ae000 size=12288 Mod=C:\Windows\system32\ntmarta.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742a0000 size=4096 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742a1000 size=40960 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742ab000 size=4096 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742ac000 size=8192 Mod=C:\Windows\system32\RpcRtRemote.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742b0000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742b1000 size=212992 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742e5000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742e6000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742e7000 size=4096 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742e8000 size=12288 Mod=C:\Windows\system32\rsaenh.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742f0000 size=4096 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x742f1000 size=73728 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74303000 size=4096 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74304000 size=8192 Mod=C:\Windows\system32\CRYPTSP.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x743f0000 size=4096 Mod=C:\Windows\system32\dwmapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x743f1000 size=45056 Mod=C:\Windows\system32\dwmapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x743fc000 size=8192 Mod=C:\Windows\system32\dwmapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x743fe000 size=20480 Mod=C:\Windows\system32\dwmapi.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74410000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74420000 size=229376 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74460000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74461000 size=4096 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74470000 size=8192 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74480000 size=8192 Mod=C:\Windows\system32\uxtheme.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74490000 size=4096 Mod=C:\Windows\system32\WINNSI.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74491000 size=12288 Mod=C:\Windows\system32\WINNSI.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74494000 size=4096 Mod=C:\Windows\system32\WINNSI.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74495000 size=8192 Mod=C:\Windows\system32\WINNSI.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x744a0000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\COMCTL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x744a1000 size=1355776 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\COMCTL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x745ec000 size=8192 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\COMCTL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x745ee000 size=4096 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\COMCTL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x745ef000 size=323584 Mod=C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\COMCTL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74640000 size=4096 Mod=C:\Windows\system32\VERSION.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74641000 size=20480 Mod=C:\Windows\system32\VERSION.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74646000 size=4096 Mod=C:\Windows\system32\VERSION.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74647000 size=8192 Mod=C:\Windows\system32\VERSION.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74650000 size=4096 Mod=C:\Windows\SysWOW64\WINMM.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74651000 size=159744 Mod=C:\Windows\SysWOW64\WINMM.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74678000 size=8192 Mod=C:\Windows\SysWOW64\WINMM.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7467a000 size=4096 Mod=C:\Windows\SysWOW64\WINMM.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7467b000 size=28672 Mod=C:\Windows\SysWOW64\WINMM.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74690000 size=4096 Mod=C:\Windows\system32\iphlpapi.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74691000 size=98304 Mod=C:\Windows\system32\iphlpapi.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746a9000 size=4096 Mod=C:\Windows\system32\iphlpapi.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746aa000 size=8192 Mod=C:\Windows\system32\iphlpapi.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746e0000 size=4096 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746e1000 size=12288 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746e4000 size=4096 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746e5000 size=12288 Mod=C:\Windows\SYSTEM32\wow64cpu.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746f0000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x746f1000 size=315392 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7473e000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7473f000 size=12288 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74742000 size=4096 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74743000 size=36864 Mod=C:\Windows\SYSTEM32\wow64win.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74750000 size=4096 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74751000 size=229376 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74789000 size=8192 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7478b000 size=16384 Mod=C:\Windows\SYSTEM32\wow64.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b20000 size=4096 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b21000 size=32768 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b29000 size=4096 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b2a000 size=8192 Mod=C:\Windows\syswow64\CRYPTBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b30000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b40000 size=90112 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b60000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b70000 size=4096 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b80000 size=8192 Mod=C:\Windows\syswow64\SspiCli.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b90000 size=4096 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74b91000 size=1945600 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74d6c000 size=12288 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74d6f000 size=8192 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74d71000 size=106496 Mod=C:\Windows\syswow64\iertutil.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74d90000 size=4096 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74d91000 size=32768 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74d99000 size=4096 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74d9a000 size=8192 Mod=C:\Windows\syswow64\MSASN1.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74da0000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74db0000 size=790528 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74e80000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74e81000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74e90000 size=4096 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74ea0000 size=45056 Mod=C:\Windows\syswow64\kernel32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74eb0000 size=4096 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74eb1000 size=753664 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74f69000 size=12288 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74f6c000 size=16384 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74f70000 size=217088 Mod=C:\Windows\syswow64\WININET.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74fb0000 size=4096 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x74fb1000 size=487424 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75028000 size=8192 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7502a000 size=8192 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7502c000 size=28672 Mod=C:\Windows\syswow64\CLBCatQ.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75040000 size=4096 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75041000 size=331776 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75092000 size=4096 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75093000 size=16384 Mod=C:\Windows\syswow64\SHLWAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x750a0000 size=4096 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x750a1000 size=716800 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75150000 size=4096 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75151000 size=16384 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75155000 size=950272 Mod=C:\Windows\syswow64\SETUPAPI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75280000 size=4096 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75281000 size=1331200 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x753c6000 size=16384 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x753ca000 size=73728 Mod=C:\Windows\syswow64\ole32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75450000 size=4096 Mod=C:\Windows\syswow64\WINTRUST.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75451000 size=163840 Mod=C:\Windows\syswow64\WINTRUST.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75479000 size=4096 Mod=C:\Windows\syswow64\WINTRUST.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7547a000 size=12288 Mod=C:\Windows\syswow64\WINTRUST.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75480000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75481000 size=536576 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75504000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75505000 size=4096 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75506000 size=286720 Mod=C:\Windows\syswow64\MSCTF.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75550000 size=4096 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75551000 size=24576 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75557000 size=4096 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75558000 size=8192 Mod=C:\Windows\syswow64\LPK.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75560000 size=4096 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75561000 size=372736 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x755bc000 size=8192 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x755be000 size=258048 Mod=C:\Windows\syswow64\USP10.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75600000 size=4096 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75601000 size=737280 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x756b5000 size=4096 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x756b6000 size=4096 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x756b7000 size=417792 Mod=C:\Windows\syswow64\CRYPT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x757a0000 size=4096 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x757b0000 size=614400 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75850000 size=12288 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75860000 size=4096 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75870000 size=16384 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75880000 size=20480 Mod=C:\Windows\syswow64\RPCRT4.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75890000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75891000 size=651264 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75930000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75931000 size=4096 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75932000 size=8192 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75934000 size=12288 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75937000 size=20480 Mod=C:\Windows\syswow64\msvcrt.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75940000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75950000 size=299008 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759a0000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759b0000 size=4096 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759c0000 size=8192 Mod=C:\Windows\syswow64\GDI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759d0000 size=4096 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x759d1000 size=258048 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75a10000 size=8192 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75a12000 size=16384 Mod=C:\Windows\syswow64\KERNELBASE.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75a20000 size=4096 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75a21000 size=3969024 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75dea000 size=16384 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75dee000 size=12288 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x75df1000 size=8884224 Mod=C:\Windows\syswow64\SHELL32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76670000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76680000 size=94208 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766a0000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766b0000 size=20480 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766c0000 size=4096 Mod=C:\Windows\system32\IMM32.DLL
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766d0000 size=4096 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x766d1000 size=544768 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76756000 size=8192 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76758000 size=28672 Mod=C:\Windows\syswow64\OLEAUT32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76760000 size=4096 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76761000 size=839680 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x7682e000 size=12288 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76831000 size=32768 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76839000 size=380928 Mod=C:\Windows\syswow64\urlmon.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76930000 size=4096 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76931000 size=77824 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76944000 size=12288 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76947000 size=8192 Mod=C:\Windows\SysWOW64\sechost.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76950000 size=4096 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76951000 size=466944 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769c3000 size=12288 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769c6000 size=4096 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769c7000 size=167936 Mod=C:\Windows\syswow64\ADVAPI32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769f0000 size=4096 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x769f1000 size=155648 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a17000 size=4096 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a18000 size=53248 Mod=C:\Windows\syswow64\WS2_32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a30000 size=4096 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a31000 size=249856 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a6e000 size=4096 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a6f000 size=24576 Mod=C:\Windows\syswow64\WLDAP32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a80000 size=4096 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a81000 size=57344 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a8f000 size=4096 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76a90000 size=8192 Mod=C:\Windows\syswow64\DEVOBJ.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76aa0000 size=4096 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76aa1000 size=139264 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76ac3000 size=4096 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76ac4000 size=12288 Mod=C:\Windows\syswow64\CFGMGR32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76ad0000 size=4096 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76ae0000 size=446464 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76b50000 size=4096 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76b60000 size=372736 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76bc0000 size=16384 Mod=C:\Windows\syswow64\USER32.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76df0000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76df1000 size=1056768 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76ef3000 size=192512 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f22000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f23000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f24000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f25000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f27000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f28000 size=4096 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f29000 size=8192 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f2b000 size=12288 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76f2e000 size=438272 Mod=C:\Windows\SYSTEM32\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fa0000 size=4096 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fa1000 size=8192 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fa3000 size=4096 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fa4000 size=8192 Mod=C:\Windows\syswow64\NSI.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fd0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x76fe0000 size=876544 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770c0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d0000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d1000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d2000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d3000 size=4096 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d4000 size=12288 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770d7000 size=8192 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x770e0000 size=356352 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):Skip addr=0x77140000 size=20480 Mod=C:\Windows\SysWOW64\ntdll.dll
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7ef9b000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7ef9e000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efa1000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efa4000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efa7000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efad000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efb0000 size=143360 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efd8000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efdb000 size=12288 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efde000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efdf000 size=4096 Mod=
+2018-11-30(11:1:34) test(2588:2684):MemBlock addr=0x7efe0000 size=20480 Mod=
+2018-11-30(11:1:34) test(2588:2684):End Dump Process C:\Program Files (x86)\Windows Media Player\setup_wm.exe(2240)

@@ -1,0 +1,3011 @@
+{
+  "category": "Downloader", 
+  "rating": 77, 
+  "rating_mlp": 100, 
+  "objects": {
+    "1": {
+      "size": 188407, 
+      "ftype": 131074, 
+      "sha1": "00850e47ec88075d4a0ceebc3ef9f93676eeb7c2", 
+      "score": 77, 
+      "id": 1, 
+      "meta": {
+        "exit_status": "timeout", 
+        "log_version": 2, 
+        "audit_time": "2018-11-30 10:01:48", 
+        "trace_time": "2018-11-30 9:58:44", 
+        "tracer_version": "3.0.0.0027", 
+        "guest_os": "Microsoft Windows 7 Professional Service Pack 1 (build 7601), 64-bit", 
+        "source_id": 3, 
+        "aee_version": "1.0.0.1"
+      }, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/tracer.log", 
+      "sha256": "f76be95f34d204484d8db17d63b64f08ca997fc99e12001d170fcec8c2ac8605", 
+      "children": [
+        {
+          "tag": "ROOT_PROC", 
+          "id": 2
+        }
+      ], 
+      "md5": "1ef9f0f7ff77e08776e4102c489b7fbe"
+    }, 
+    "2": {
+      "registry_ops": {
+        "created": [
+          {
+            "count": 4, 
+            "line": 53, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\WBEM\\CIMOM", 
+            "time": "2018-11-30 09:59:20"
+          }
+        ]
+      }, 
+      "ftype": 131084, 
+      "pid": "2708", 
+      "network_ops": [
+        {
+          "name": "tracer_log/tracer.4.pcap", 
+          "id": 40
+        }, 
+        {
+          "name": "tracer_log/tracer.292.pcap", 
+          "id": 44
+        }, 
+        {
+          "name": "tracer_log/tracer.1780.pcap", 
+          "id": 45
+        }
+      ], 
+      "children": [
+        {
+          "tag": "PCAP_FILE", 
+          "id": 40
+        }, 
+        {
+          "tag": "CHILD_PROC", 
+          "id": 5
+        }, 
+        {
+          "tag": "CHILD_PROC", 
+          "id": 42
+        }, 
+        {
+          "tag": "CHILD_PROC", 
+          "id": 43
+        }, 
+        {
+          "tag": "PCAP_FILE", 
+          "id": 44
+        }, 
+        {
+          "tag": "PCAP_FILE", 
+          "id": 45
+        }, 
+        {
+          "tag": "CMD_LINE", 
+          "id": 46
+        }
+      ], 
+      "source_id": 3, 
+      "score": 77, 
+      "cmd_line": "c:\\work\\4184533593578543520.exe", 
+      "indicators": [
+        {
+          "count": 1, 
+          "msg": "The executable had visible window(s)", 
+          "score": -20, 
+          "type": 5, 
+          "id": 1048584
+        }
+      ], 
+      "path": "%CURRENTFILE%", 
+      "ppid": "-1", 
+      "id": 2, 
+      "md5": "03fa2f7502f5f6b9169e67d17cbf51bb"
+    }, 
+    "3": {
+      "meta": {
+        "version_info": [
+          {
+            "CompanyName": "Axiom EPM Minute"
+          }
+        ], 
+        "icon": "tracer_log/backup\\9093c695c5bc423363ddec12df400522.ico"
+      }, 
+      "id": 3, 
+      "md5": "0d7a18ff70d35c8ae1806363ccd862d9"
+    }, 
+    "4": {
+      "size": 2376, 
+      "sha1": "04543e07b3852514515011d679f966458b874836", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/d69666bc8777d6bfd7bddf646a35a7be", 
+      "sha256": "03033ee582266c882cf25006e470aec80727990ecf23a0decbd63acd1e1aae69", 
+      "id": 4, 
+      "md5": "1928b966d5e58ae3c1cfb0e7025afe01"
+    }, 
+    "5": {
+      "ftype": 131084, 
+      "memory_ops": {
+        "process_created": [
+          {
+            "id": 12, 
+            "line": 63, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "written": [
+          {
+            "line": 60, 
+            "id": 9, 
+            "name": "%SYSTEMROOT%\\system32\\wbem\\WmiPrvSE.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-2972-7efdf368.dmp"
+          }, 
+          {
+            "line": 61, 
+            "id": 10, 
+            "name": "%SYSTEMROOT%\\system32\\wbem\\WmiPrvSE.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-2972-7efde238.dmp"
+          }, 
+          {
+            "line": 58, 
+            "id": 6, 
+            "name": "%SYSTEMROOT%\\system32\\wbem\\WmiPrvSE.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-2972-000b0000.dmp"
+          }, 
+          {
+            "line": 64, 
+            "id": 13, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-3016-00060000.dmp"
+          }, 
+          {
+            "line": 67, 
+            "id": 15, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-3016-7efde238.dmp"
+          }, 
+          {
+            "line": 66, 
+            "id": 14, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-3016-7efdf368.dmp"
+          }
+        ], 
+        "process_injected": [
+          {
+            "line": 64, 
+            "id": 12, 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "line": 58, 
+            "id": 7, 
+            "time": "2018-11-30 09:59:20"
+          }
+        ]
+      }, 
+      "pid": "576", 
+      "children": [
+        {
+          "tag": "MEM_DMP", 
+          "id": 6
+        }, 
+        {
+          "tag": "CHILD_PROC", 
+          "id": 7
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 9
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 10
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 11
+        }, 
+        {
+          "tag": "CHILD_PROC", 
+          "id": 12
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 13
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 14
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 15
+        }, 
+        {
+          "tag": "CMD_LINE", 
+          "id": 47
+        }
+      ], 
+      "score": 40, 
+      "create_time": "2018-11-30 09:59:20", 
+      "cmd_line": "C:\\Windows\\system32\\svchost.exe -k DcomLaunch", 
+      "source_id": 41, 
+      "path": "%SYSTEMROOT%\\system32\\svchost.exe", 
+      "ppid": "2708", 
+      "id": 5, 
+      "md5": "a7aeed74714116f3b292a982238f83d2"
+    }, 
+    "6": {
+      "size": 84, 
+      "ftype": 131085, 
+      "sha1": "f159adfaa64df9bf3d2e67a1c1e1cc77ce6efb7b", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-2972-000b0000.dmp", 
+      "sha256": "bbb3a7197ff49d5313b7f4ae02a300ede9b7d69ed9ace79e1d94d6e9372e660c", 
+      "id": 6, 
+      "md5": "24b9eb95ede4c1bf3e6cc06631a51c2a"
+    }, 
+    "7": {
+      "ftype": 131084, 
+      "pid": "2972", 
+      "children": [
+        {
+          "tag": "CMD_LINE", 
+          "id": 50
+        }
+      ], 
+      "create_time": "2018-11-30 09:59:20", 
+      "cmd_line": "C:\\Windows\\sysWOW64\\wbem\\wmiprvse.exe -secured -Embedding", 
+      "source_id": 8, 
+      "path": "%SYSTEMX86%\\wbem\\WmiPrvSE.exe", 
+      "ppid": "576", 
+      "id": 7, 
+      "md5": "0f21f0349462cacdc5796990d37760ae"
+    }, 
+    "8": {
+      "meta": {
+        "version_info": [
+          {
+            "FileVersion": "6.1.7601.17514 (win7sp1_rtm.101119-1850)", 
+            "CompanyName": "Microsoft Corporation"
+          }
+        ]
+      }, 
+      "id": 8, 
+      "md5": "4fb491ac8d46aaf22ba8bc5c73dabef7"
+    }, 
+    "9": {
+      "size": 8, 
+      "ftype": 131085, 
+      "sha1": "bbbecc6e6a4f7b7d9ffacb358178b05732fe89c7", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-2972-7efdf368.dmp", 
+      "sha256": "b4b6c5fd2d0f2e2764a1ef44418fd965360691618abef1cb11b1fd190cc4ba5e", 
+      "id": 9, 
+      "md5": "c285d6c112673736b221f29d9642926a"
+    }, 
+    "10": {
+      "ftype": 131085, 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-2972-7efde238.dmp", 
+      "md5": "0b461d73146a5bc732cfb7908be257e9", 
+      "id": 10, 
+      "size": 4
+    }, 
+    "11": {
+      "size": "673040", 
+      "meta": {
+        "trusted_vendor": true, 
+        "digital_signed": true, 
+        "icon": "tracer_log/backup\\14e20e8facd3870fd1a23507b525f011.ico", 
+        "signers": [
+          "Microsoft Windows"
+        ], 
+        "version_info": [
+          {
+            "FileVersion": "8.00.7600.16385 (win7_rtm.090713-1255)", 
+            "CompanyName": "Microsoft Corporation"
+          }
+        ]
+      }, 
+      "id": 11, 
+      "md5": "c613e69c3b191bb02c7a191741a1d024"
+    }, 
+    "12": {
+      "registry_ops": {
+        "deleted": [
+          {
+            "count": 1, 
+            "line": 555, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Recovery\\AdminActive\\{9B2FB9F2-F486-11E8-A8D1-00900BC83821}", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "created": [
+          {
+            "count": 2, 
+            "line": 112, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Toolbar\\WebBrowser", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 122, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\LowRegistry", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 102, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\LowRegistry", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 135, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\UNCAsIntranet", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 116, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\PageSetup", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 89, 
+            "data": "1e8d5b71e981d40100fc7237f376d4010000000000a80200000001000b000000000001000b00000009040000", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{67E9834D-B226-49E6-B6F6-85AA64E14BA3}\\VerCache", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 168, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Recovery\\AdminActive\\{9B2FB9F2-F486-11E8-A8D1-00900BC83821}", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 202, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 551, 
+            "data": "4f01f85d9388d401", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\WindowsSearch\\UpgradeTime", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 120, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 100, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\InternetRegistry", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 118, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Passport\\LowDAMap", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 154, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 128, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\IETld\\LowMic", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 150, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 160, 
+            "data": "4600000028000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 537, 
+            "data": "no", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FullScreen", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 108, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\IntelliForms", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 167, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Recovery\\AdminActive", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 98, 
+            "reg_key": "HKCU\\Software\\AppDataLow", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 399, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MenuOrder\\Favorites\\Links", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 104, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\LowRegistry\\DontShowMeThisDialogAgain", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 124, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Zoom", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 88, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{67E9834D-B226-49E6-B6F6-85AA64E14BA3}", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 536, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Main", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 155, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyEnable", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 400, 
+            "data": "08000000020000000c01000001000000020000007e0000000000000070003200ec000000ed4a440220005355474745537e312e55524c0000540008000400efbeed4a4402ed4a44022a000000e2f400000000060000000000000000000000000000005300750067006700650073007400650064002000530069007400650073002e00750072006c0000001c00000000000000820000000100000074003200e2000000ed4a25022000574542534c497e312e55524c0000580008000400efbeec4a79b7ed4a25022a00000086590000000003000000000000000000000000000000570065006200200053006c006900630065002000470061006c006c006500720079002e00750072006c0000001c00000000000000", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MenuOrder\\Favorites\\Links\\Order", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 10, 
+            "line": 159, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 550, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\WindowsSearch", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 114, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MenuOrder\\Favorites", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 164, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Network\\Location Awareness", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 84, 
+            "data": "43116753", 
+            "reg_key": "HKLM\\SOFTWARE\\Microsoft\\Rpc\\UuidSequenceNumber", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 110, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Toolbar", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 203, 
+            "data": "1", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\SecuritySafe", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 553, 
+            "data": "a963fa5d9388d401", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\WindowsSearch\\UpgradeTime", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 92, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\CompatibilityFlags", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 106, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\LowCache", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 126, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\LowMic", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 136, 
+            "data": "1", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\AutoDetect", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ]
+      }, 
+      "ftype": 131084, 
+      "memory_ops": {
+        "process_created": [
+          {
+            "id": 16, 
+            "line": 142, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "written": [
+          {
+            "line": 145, 
+            "id": 15, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/3016-1780-7efde238.dmp"
+          }, 
+          {
+            "line": 143, 
+            "id": 13, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/3016-1780-00060000.dmp"
+          }, 
+          {
+            "line": 146, 
+            "id": 14, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/3016-1780-7efdf368.dmp"
+          }
+        ], 
+        "process_injected": [
+          {
+            "line": 143, 
+            "id": 16, 
+            "time": "2018-11-30 09:59:21"
+          }
+        ]
+      }, 
+      "pid": "3016", 
+      "children": [
+        {
+          "tag": "BAK_FILE", 
+          "id": 11
+        }, 
+        {
+          "tag": "CHILD_PROC", 
+          "id": 16
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 13
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 15
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 14
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 28
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 29
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 30
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 33
+        }, 
+        {
+          "tag": "CMD_LINE", 
+          "id": 51
+        }
+      ], 
+      "score": 40, 
+      "create_time": "2018-11-30 09:59:21", 
+      "cmd_line": "\"C:\\Program Files (x86)\\Internet Explorer\\iexplore.exe\" -Embedding", 
+      "source_id": 11, 
+      "path": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+      "ppid": "576", 
+      "id": 12, 
+      "md5": "53a1320cb5d2f56130ad5222f93da374", 
+      "file_ops": {
+        "attributes_set": [
+          {
+            "id": -1, 
+            "line": 72, 
+            "attr": 8326, 
+            "name": "%INTERNET_CACHE%\\Content.IE5", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 74, 
+            "attr": 8326, 
+            "name": "%COOKIES%", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 76, 
+            "attr": 8326, 
+            "name": "%HISTORY%\\History.IE5", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 93, 
+            "attr": 8322, 
+            "name": "%INTERNET_CACHE%\\Virtualized", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 94, 
+            "attr": 8322, 
+            "name": "%APPDATA%\\Microsoft\\Windows\\PrivacIE\\Low", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 95, 
+            "attr": 8322, 
+            "name": "%APPDATA%\\Microsoft\\Windows\\IECompatCache\\Low", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 96, 
+            "attr": 8322, 
+            "name": "%APPDATA%\\Microsoft\\Windows\\IETldCache\\Low", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 392, 
+            "attr": 8322, 
+            "name": "%LOCAL_APPDATA%\\Microsoft\\Feeds\\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\\WebSlices~", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 393, 
+            "attr": 8322, 
+            "name": "%LOCAL_APPDATA%\\Microsoft\\Feeds\\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "deleted": [
+          {
+            "id": 28, 
+            "line": 538, 
+            "name": "%TEMP%\\~DFABBC5FD472EF3FC7.TMP", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 29, 
+            "line": 554, 
+            "name": "%LOCAL_APPDATA%\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{9B2FB9F3-F486-11E8-A8D1-00900BC83821}.dat", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 28, 
+            "line": 556, 
+            "name": "%TEMP%\\~DFDD85D385DE918DDB.TMP", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 33, 
+            "line": 558, 
+            "name": "%LOCAL_APPDATA%\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\RecoveryStore.{9B2FB9F2-F486-11E8-A8D1-00900BC83821}.dat", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "modified": [
+          {
+            "id": 30, 
+            "line": 546, 
+            "name": "%LOCAL_APPDATA%\\Microsoft\\Internet Explorer\\frameiconcache.dat", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "created": [
+          {
+            "id": 33, 
+            "line": 557, 
+            "name": "%LOCAL_APPDATA%\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\RecoveryStore.{9B2FB9F2-F486-11E8-A8D1-00900BC83821}.dat", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "line": 175, 
+            "time": "2018-11-30 09:59:21", 
+            "id": 28, 
+            "name": "%TEMP%\\~DFDD85D385DE918DDB.TMP"
+          }, 
+          {
+            "id": 29, 
+            "line": 539, 
+            "name": "%LOCAL_APPDATA%\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{9B2FB9F3-F486-11E8-A8D1-00900BC83821}.dat", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "line": 216, 
+            "time": "2018-11-30 09:59:21", 
+            "id": 28, 
+            "name": "%TEMP%\\~DFABBC5FD472EF3FC7.TMP"
+          }
+        ]
+      }
+    }, 
+    "13": {
+      "size": 84, 
+      "ftype": 131085, 
+      "sha1": "600caa3c054e8e0c61d7aaf562874f07c7cbd49e", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-3016-00060000.dmp", 
+      "sha256": "72febbab9797e509f732d4d153b7f21cf420732b0816bd48a9ef433bfc228ad4", 
+      "id": 13, 
+      "md5": "cb05f852ce2af0fb6f53c8122b48bde0"
+    }, 
+    "14": {
+      "size": 8, 
+      "ftype": 131085, 
+      "sha1": "f537c8b97f22f5595583b0134663d948606fae4f", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-3016-7efdf368.dmp", 
+      "sha256": "22558f2ba1ba3f5f6e91ecfe2ae5f68b2f1130c56921b66264638f3b9c8174d9", 
+      "id": 14, 
+      "md5": "b67535087018a9965abe940bb05f3aa8"
+    }, 
+    "15": {
+      "ftype": 131085, 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/576-3016-7efde238.dmp", 
+      "md5": "73137e9b82a45268ca959433c88bc16b", 
+      "id": 15, 
+      "size": 4
+    }, 
+    "16": {
+      "registry_ops": {
+        "deleted": [
+          {
+            "count": 1, 
+            "line": 511, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Extensible Cache\\MSHist012017071920170720", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 497, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Health\\{AE1ABB62-B4E9-41DB-864B-B7297A7F5171}", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 508, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Extensible Cache\\MSHist012017071020170717", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "created": [
+          {
+            "count": 6, 
+            "line": 324, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Toolbar\\WebBrowser", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 314, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\LowRegistry", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 421, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{CFBFAE00-17A6-11D0-99CB-00C04FD64497}\\iexplore\\Flags", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 377, 
+            "data": "4", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\Count", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 507, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Extensible Cache\\MSHist012018113020181201\\CacheRepair", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 347, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{06849E9F-C8D7-4D59-B87D-784B7D6BE0B3}\\iexplore", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 388, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 328, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\PageSetup", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 503, 
+            "data": "8192", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Extensible Cache\\MSHist012018113020181201\\CacheLimit", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 502, 
+            "data": ":2018113020181201: ", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Extensible Cache\\MSHist012018113020181201\\CachePrefix", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 415, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 490, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Preferences\\ProxySettings", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 389, 
+            "data": "19", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\LoadTime", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 504, 
+            "data": "11", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Extensible Cache\\MSHist012018113020181201\\CacheOptions", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 411, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 5, 
+            "line": 372, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{67E9834D-B226-49E6-B6F6-85AA64E14BA3}\\iexplore", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 381, 
+            "data": "82", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\LoadTime", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 332, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 312, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\InternetRegistry", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 9, 
+            "line": 465, 
+            "reg_key": "HKLM\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 423, 
+            "data": "e2070b0005001e0009003b0015000d02", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{CFBFAE00-17A6-11D0-99CB-00C04FD64497}\\iexplore\\Time", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 443, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 422, 
+            "data": "1", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{CFBFAE00-17A6-11D0-99CB-00C04FD64497}\\iexplore\\Count", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 340, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\IETld\\LowMic", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 437, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 405, 
+            "reg_key": "HKCU\\Software", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 432, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\UNCAsIntranet", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 320, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\IntelliForms", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 409, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 368, 
+            "data": "1", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{67E9834D-B226-49E6-B6F6-85AA64E14BA3}\\iexplore\\Count", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 344, 
+            "data": "4", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{06849E9F-C8D7-4D59-B87D-784B7D6BE0B3}\\iexplore\\Count", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 492, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Preferences\\ProxySettings\\RTSP", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 495, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Player\\Tasks\\NowPlaying\\", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 310, 
+            "reg_key": "HKCU\\Software\\AppDataLow", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 369, 
+            "data": "e2070b0005001e0009003b001500af01", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{67E9834D-B226-49E6-B6F6-85AA64E14BA3}\\iexplore\\Time", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 500, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Extensible Cache\\MSHist012018113020181201", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 469, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\PREFERENCES", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 316, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\LowRegistry\\DontShowMeThisDialogAgain", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 336, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Zoom", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 334, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\LowRegistry", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 373, 
+            "data": "14", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{67E9834D-B226-49E6-B6F6-85AA64E14BA3}\\iexplore\\LoadTime", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 8, 
+            "line": 448, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 367, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{67E9834D-B226-49E6-B6F6-85AA64E14BA3}\\iexplore\\Flags", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 444, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyEnable", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 420, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{CFBFAE00-17A6-11D0-99CB-00C04FD64497}\\iexplore\\Type", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 488, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Preferences\\ProxySettings\\HTTP", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 348, 
+            "data": "87", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{06849E9F-C8D7-4D59-B87D-784B7D6BE0B3}\\iexplore\\LoadTime", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 496, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Player\\Tasks\\NowPlaying", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 330, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Passport\\LowDAMap", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 3, 
+            "line": 477, 
+            "reg_key": "HKLM\\SOFTWARE\\RegisteredApplications", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 489, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Preferences\\ProxySettings\\", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 407, 
+            "reg_key": "HKCU\\Software\\Microsoft", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 366, 
+            "data": "3", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{67E9834D-B226-49E6-B6F6-85AA64E14BA3}\\iexplore\\Type", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 326, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MenuOrder\\Favorites", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 453, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Network\\Location Awareness", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 378, 
+            "data": "e2070b0005001e0009003b001500af01", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\Time", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 12, 
+            "line": 322, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\Toolbar", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 493, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Preferences\\", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 345, 
+            "data": "e2070b0005001e0009003b001500a001", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{06849E9F-C8D7-4D59-B87D-784B7D6BE0B3}\\iexplore\\Time", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 338, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\LowMic", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 343, 
+            "data": "3", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{06849E9F-C8D7-4D59-B87D-784B7D6BE0B3}\\iexplore\\Type", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 6, 
+            "line": 318, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\LowCache", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 468, 
+            "reg_key": "HKLM\\Software\\Wow6432Node\\Microsoft\\MediaPlayer\\Preferences\\", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 449, 
+            "data": "4600000029000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 386, 
+            "data": "e2070b0005001e0009003b001500bf01", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\Time", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 413, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 363, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{67E9834D-B226-49E6-B6F6-85AA64E14BA3}", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 506, 
+            "data": "%userprofile%\\appdata\\local\\microsoft\\windows\\history\\history.ie5\\mshist012018113020181201", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Extensible Cache\\MSHist012018113020181201\\CachePath", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 417, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{CFBFAE00-17A6-11D0-99CB-00C04FD64497}", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 494, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Preferences", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 433, 
+            "data": "1", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\AutoDetect", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 4, 
+            "line": 380, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 384, 
+            "data": "3", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\Type", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 474, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Health\\{AE1ABB62-B4E9-41DB-864B-B7297A7F5171}", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 385, 
+            "data": "4", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\Count", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 376, 
+            "data": "3", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\Type", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 3, 
+            "line": 419, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{CFBFAE00-17A6-11D0-99CB-00C04FD64497}\\iexplore", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ]
+      }, 
+      "ftype": 131084, 
+      "pid": "1780", 
+      "memory_ops": {
+        "process_created": [
+          {
+            "id": 18, 
+            "line": 478, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\wmplayer.exe", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "written": [
+          {
+            "line": 482, 
+            "id": 20, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\wmplayer.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/1780-2112-7efdf368.dmp"
+          }, 
+          {
+            "line": 479, 
+            "id": 6, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\wmplayer.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/1780-2112-00070000.dmp"
+          }, 
+          {
+            "line": 481, 
+            "id": 19, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\wmplayer.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/1780-2112-7efde238.dmp"
+          }
+        ], 
+        "process_injected": [
+          {
+            "line": 479, 
+            "id": 18, 
+            "time": "2018-11-30 09:59:21"
+          }
+        ]
+      }, 
+      "network_ops": [
+        {
+          "name": "tracer_log/tracer.1780.pcap", 
+          "id": 45
+        }
+      ], 
+      "children": [
+        {
+          "tag": "PCAP_FILE", 
+          "id": 45
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 17
+        }, 
+        {
+          "tag": "CHILD_PROC", 
+          "id": 18
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 6
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 19
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 20
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 23
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 24
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 25
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 26
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 27
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 31
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 32
+        }, 
+        {
+          "tag": "CMD_LINE", 
+          "id": 52
+        }
+      ], 
+      "score": 40, 
+      "create_time": "2018-11-30 09:59:21", 
+      "cmd_line": "\"C:\\Program Files (x86)\\Internet Explorer\\iexplore.exe\" SCODEF:3016 CREDAT:79873", 
+      "source_id": 11, 
+      "path": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe", 
+      "ppid": "3016", 
+      "id": 16, 
+      "md5": "f63f65b503e22cb970527f23c9ad7db1", 
+      "file_ops": {
+        "attributes_set": [
+          {
+            "id": -1, 
+            "line": 235, 
+            "attr": 8326, 
+            "name": "%INTERNET_CACHE%\\Content.IE5", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 236, 
+            "attr": 8326, 
+            "name": "%COOKIES%", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 237, 
+            "attr": 8326, 
+            "name": "%HISTORY%\\History.IE5", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 425, 
+            "attr": 8326, 
+            "name": "%LOCAL_APPDATA%\\Microsoft\\Feeds Cache", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 456, 
+            "attr": 8326, 
+            "name": "%APPDATA%\\Microsoft\\Windows\\IECompatCache", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": -1, 
+            "line": 516, 
+            "attr": 8326, 
+            "name": "%HISTORY%\\History.IE5\\MSHist012018113020181201", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 25, 
+            "line": 518, 
+            "attr": 8326, 
+            "name": "%HISTORY%\\History.IE5\\MSHist012018113020181201\\index.dat", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "deleted": [
+          {
+            "id": 23, 
+            "line": 509, 
+            "name": "%HISTORY%\\History.IE5\\MSHist012017071020170717\\index.dat", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 24, 
+            "line": 512, 
+            "name": "%HISTORY%\\History.IE5\\MSHist012017071920170720\\index.dat", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 26, 
+            "line": 525, 
+            "name": "%INTERNET_CACHE%\\Content.IE5\\OCYMFOBU\\_2FD[1].avi", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "modified": [
+          {
+            "id": 32, 
+            "line": 548, 
+            "name": "%TEMP%\\JavaDeployReg.log", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "created": [
+          {
+            "id": 31, 
+            "line": 547, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\fortibho.txt", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 26, 
+            "line": 524, 
+            "name": "%INTERNET_CACHE%\\Content.IE5\\OCYMFOBU\\_2FD[1].avi", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 25, 
+            "line": 523, 
+            "name": "%HISTORY%\\History.IE5\\MSHist012018113020181201\\index.dat", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 27, 
+            "line": 529, 
+            "name": "%INTERNET_CACHE%\\Content.IE5\\OCYMFOBU\\navcancl[1]", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ]
+      }
+    }, 
+    "17": {
+      "size": "164864", 
+      "meta": {
+        "trusted_vendor": true, 
+        "digital_signed": true, 
+        "icon": "tracer_log/backup\\416ba676cab5b9f179870e06b475100a.ico", 
+        "signers": [
+          "Microsoft Windows"
+        ], 
+        "version_info": [
+          {
+            "FileVersion": "12.0.7600.16385 (win7_rtm.090713-1255)", 
+            "CompanyName": "Microsoft Corporation"
+          }
+        ]
+      }, 
+      "id": 17, 
+      "md5": "a80c173ac5c75706bb74ae4d78f2a53d"
+    }, 
+    "18": {
+      "ftype": 131084, 
+      "memory_ops": {
+        "process_created": [
+          {
+            "id": 22, 
+            "line": 505, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\setup_wm.exe", 
+            "time": "2018-11-30 09:59:21"
+          }
+        ], 
+        "written": [
+          {
+            "line": 563, 
+            "id": 19, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\setup_wm.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2112-2240-7efde1e8.dmp"
+          }, 
+          {
+            "line": 565, 
+            "id": 6, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\setup_wm.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2112-2240-00080000.dmp"
+          }, 
+          {
+            "line": 568, 
+            "id": 36, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\setup_wm.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2112-2240-7efdf368.dmp"
+          }, 
+          {
+            "line": 564, 
+            "id": 20, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\setup_wm.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2112-2240-7efdf2d8.dmp"
+          }, 
+          {
+            "line": 562, 
+            "id": 34, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\setup_wm.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2112-2240-00070000.dmp"
+          }, 
+          {
+            "line": 567, 
+            "id": 35, 
+            "name": "%PROGRAMFILES(X86)%\\Windows Media Player\\setup_wm.exe", 
+            "bak": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2112-2240-7efde238.dmp"
+          }
+        ], 
+        "process_injected": [
+          {
+            "line": 562, 
+            "id": 22, 
+            "time": "2018-11-30 09:59:21"
+          }
+        ]
+      }, 
+      "pid": "2112", 
+      "children": [
+        {
+          "tag": "BAK_FILE", 
+          "id": 21
+        }, 
+        {
+          "tag": "CHILD_PROC", 
+          "id": 22
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 34
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 19
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 20
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 6
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 35
+        }, 
+        {
+          "tag": "MEM_DMP", 
+          "id": 36
+        }, 
+        {
+          "tag": "CMD_LINE", 
+          "id": 53
+        }
+      ], 
+      "score": 40, 
+      "create_time": "2018-11-30 09:59:21", 
+      "cmd_line": "\"C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe\" /OCX /NoLibraryAdd /Play \"http://cyanteread.com/images/fxX86e_2F4/hNGggnUISubVRhWU1/Dyw0B7ZLNnem/ufLBAtKtnu3/XVsEXbOTHjxWT5/sd3QR311TnMSoQ4F6LJNd/nTeP4d04C8X4g20_/2F_2Bn8_2FDKCt5/grp1X463eWV_2BAhxf/2EcjlSe2W/fzttUfCfZcYYDHg/_2FD.avi\" /prefetch:10", 
+      "source_id": 17, 
+      "path": "%PROGRAMFILES(X86)%\\Windows Media Player\\wmplayer.exe", 
+      "ppid": "1780", 
+      "id": 18, 
+      "md5": "a29d1598024f9e87beab4b98411d48ce"
+    }, 
+    "19": {
+      "ftype": 131085, 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/1780-2112-7efde238.dmp", 
+      "md5": "49521f7b427da07ae600697268db0c17", 
+      "id": 19, 
+      "size": 4
+    }, 
+    "20": {
+      "size": 8, 
+      "ftype": 131085, 
+      "sha1": "e7b430bfa689113eeb30ee6cc57ec3d69855eb2b", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/1780-2112-7efdf368.dmp", 
+      "sha256": "fb7e7b4c359db5a10fe00b1a7ebba523a25e127dddfd56fae3035794e71ff561", 
+      "id": 20, 
+      "md5": "3397c911e8f0b00cbf31749a43126b12"
+    }, 
+    "21": {
+      "size": "2012672", 
+      "meta": {
+        "trusted_vendor": true, 
+        "digital_signed": true, 
+        "icon": "tracer_log/backup\\416ba676cab5b9f179870e06b475100a.ico", 
+        "signers": [
+          "Microsoft Windows"
+        ], 
+        "version_info": [
+          {
+            "FileVersion": "12.0.7600.16385 (win7_rtm.090713-1255)", 
+            "CompanyName": "Microsoft Corporation"
+          }
+        ]
+      }, 
+      "id": 21, 
+      "md5": "50dcd2c685d22348da268f2aab398230"
+    }, 
+    "22": {
+      "registry_ops": {
+        "created": [
+          {
+            "count": 1, 
+            "line": 611, 
+            "data": "{79376820-07d0-11cf-a24d-0020afd79767}", 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default DirectSound Device\\CLSID", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 9, 
+            "line": 701, 
+            "reg_key": "HKLM\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 621, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Multimedia\\ActiveMovie\\Filter Cache", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 653, 
+            "data": "-65536", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASAPI32\\ConsoleTracingMask", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 661, 
+            "data": "0", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASMANCS\\EnableConsoleTracing", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 677, 
+            "data": "460000002a000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 581, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Setup\\UserOptions", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 690, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\UNCAsIntranet", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 627, 
+            "data": "0", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Setup\\Progress_CurrentDialog", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 660, 
+            "data": "0", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASMANCS\\EnableFileTracing", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 591, 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 650, 
+            "data": "0", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASAPI32\\EnableFileTracing", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 718, 
+            "data": "1", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\Bing\\Type", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 1, 
+            "line": 654, 
+            "data": "1048576", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASAPI32\\MaxFileSize", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 4, 
+            "line": 671, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 3, 
+            "line": 724, 
+            "data": "1", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Setup\\Progress_MaxInstall", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 6, 
+            "line": 657, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 719, 
+            "data": "bing", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\PREFERENCES\\DefaultSubscriptionService", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 1, 
+            "line": 571, 
+            "data": "6", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Setup\\Progress_MaxDialog", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 651, 
+            "data": "0", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASAPI32\\EnableConsoleTracing", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 625, 
+            "data": "0", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Setup\\Progress_CurrentInstall", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 714, 
+            "data": "http://images.windowsmedia.com/svcswitch/mg4_wmp12_30x30_2.png", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\Bing\\ImageLargeURL", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 1, 
+            "line": 600, 
+            "data": "02000000000080000100000000000000307069330200000000000000010000000000000000000000307479330000000038000000480000006d69647300001000800000aa00389b7100000000000000000000000000000000", 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\Default MidiOut Device\\FilterData", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 717, 
+            "data": "bing", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\Bing\\Task1ButtonTip", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 1, 
+            "line": 655, 
+            "data": "%windir%\\tracing", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASAPI32\\FileDirectory", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 623, 
+            "data": "0", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Setup\\InstallResult", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 605, 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 713, 
+            "data": "#0063b0", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\Bing\\ColorPlayer", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 8, 
+            "line": 616, 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default DirectSound Device", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 614, 
+            "data": "0200000000008000010000000000000030706933020000000000000013000000000000000000000030747933000000005801000068010000317479330000000058010000780100003274793300000000580100008801000033747933000000005801000098010000347479330000000058010000a8010000357479330000000058010000b8010000367479330000000058010000c8010000377479330000000058010000d8010000387479330000000058010000e8010000397479330000000058010000f80100003a7479330000000058010000080200003b7479330000000058010000180200003c7479330000000058010000280200003d7479330000000058010000380200003e7479330000000058010000480200003f7479330000000058010000580200004074793300000000580100006802000041747933000000005801000078020000427479330000000058010000880200006175647300001000800000aa00389b710100000000001000800000aa00389b710900000000001000800000aa00389b710300000000001000800000aa00389b714902000000001000800000aa00389b714002000000001000800000aa00389b714102000000001000800000aa00389b7103000000ea0c1000800000aa00389b7104000000ea0c1000800000aa00389b7105000000ea0c1000800000aa00389b7106000000ea0c1000800000aa00389b7108000000ea0c1000800000aa00389b7109000000ea0c1000800000aa00389b710a000000ea0c1000800000aa00389b710b000000ea0c1000800000aa00389b710c000000ea0c1000800000aa00389b710d000000ea0c1000800000aa00389b710800000000001000800000aa00389b719200000000001000800000aa00389b716401000000001000800000aa00389b71", 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default DirectSound Device\\FilterData", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 649, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASAPI32", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 662, 
+            "data": "-65536", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASMANCS\\FileTracingMask", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 594, 
+            "data": "default midiout device", 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\Default MidiOut Device\\FriendlyName", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 589, 
+            "data": "7", 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\Version", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 665, 
+            "data": "%windir%\\tracing", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASMANCS\\FileDirectory", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 652, 
+            "data": "-65536", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASAPI32\\FileTracingMask", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 577, 
+            "data": "0", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\NoServices", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 691, 
+            "data": "1", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\AutoDetect", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 715, 
+            "data": "http://images.windowsmedia.com/svcswitch/media_guide_16x16.png", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\Bing\\ImageMenuURL", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 1, 
+            "line": 608, 
+            "data": "default directsound device", 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default DirectSound Device\\FriendlyName", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 711, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\Bing", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 1, 
+            "line": 597, 
+            "data": "{07b65360-c445-11ce-afde-00aa006c14f4}", 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\Default MidiOut Device\\CLSID", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 619, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Multimedia\\ActiveMovie", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 664, 
+            "data": "1048576", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASMANCS\\MaxFileSize", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 682, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Network\\Location Awareness", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 624, 
+            "data": "9", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Setup\\Progress_MaxDialog", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 716, 
+            "data": "b\ng", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\Bing\\Task1ButtonText", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 8, 
+            "line": 676, 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 603, 
+            "data": "-1", 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\Default MidiOut Device\\MidiOutId", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 672, 
+            "data": "0", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyEnable", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 582, 
+            "data": "no", 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Setup\\UserOptions\\DesktopShortcut", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 8, 
+            "line": 602, 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\Default MidiOut Device", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 720, 
+            "reg_key": "HKLM\\Software\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 1, 
+            "line": 622, 
+            "data": "945100006568636600000000000000000201000000000000010020003800000040006400650076006900630065003a0064006d006f003a007b00320045004500420034004100440046002d0034003500370038002d0034004400310030002d0042004300410037002d004200420039003500350046003500360033003200300041007d007b00350037004600320044004200380042002d0045003600420042002d0034003500310033002d0039004400340033002d004400430044003200410036003500390033003100320035007d000000000040006400650076006900630065003a0064006d006f003a007b00350032003100300046003800450034002d0042003000420042002d0034003700430033002d0041003800440039002d003700420032003200380032004300430037003900450044007d007b00350037004600320044004200380042002d0045003600420042002d0034003500310033002d0039004400340033002d004400430044003200410036003500390033003100320035007d000000000040006400650076006900630065003a0064006d006f003a007b00380037003400310033003100430042002d0034004500430043002d0034003400330042002d0038003900340038002d003700340036004200380039003500390035004400320030007d007b00350037004600320044004200380042002d0045003600420042002d0034003500310033002d0039004400340033002d004400430044003200410036003500390033003100320035007d000000000040006400650076006900630065003a0064006d006f003a007b00420042004500450041003800340031002d0030004100360033002d0034004600350032002d0041003700410042002d004100390042003300410038003400450044003300380041007d007b00350037004600320044004200380042002d0045003600420042002d0034003500310033002d0039004400340033002d004400430044003200410036003500390033003100320035007d000000100040006400650076006900630065003a0064006d006f003a007b00320041003100310042004100450032002d0046004500360045002d0034003200340039002d0038003600340042002d003900450039004500440036004500380044004200430032007d007b00340041003600390042003400340032002d0032003800420045002d0034003900390031002d0039003600390043002d004200350030003000410044004600350044003800410038007d000000000040006400650076006900630065003a0064006d006f003a007b00370042004100460042003300420031002d0044003800460034002d0034003200370039002d0039003200350033002d003200370044004100340032003300310030003800440045007d007b00340041003600390042003400340032002d0032003800420045002d0034003900390031002d0039003600390043002d004200350030003000410044004600350044003800410038007d000000000040006400650076006900630065003a0064006d006f003a007b00380032004400330035003300440046002d0039003000420044002d0034003300380032002d0038004200430032002d003300460036003100390032004200370036004500330034007d007b00340041003600390042003400340032002d0032003800420045002d0034003900390031002d0039003600390043002d004200350030003000410044004600350044003800410038007d000000000040006400650076006900630065003a0064006d006f003a007b00430042004100390045003700380042002d0034003900410033002d0034003900450041002d0039003300440034002d003600420043004200410038004300340044004500300037007d007b00340041003600390042003400340032002d0032003800420045002d0034003900390031002d0039003600390043002d004200350030003000410044004600350044003800410038007d000000000040006400650076006900630065003a0064006d006f003a007b00460033003700310037003200380041002d0036003000350032002d0034004400340037002d0038003200370043002d004400300033003900330033003500440046004500300041007d007b00340041003600390042003400340032002d0032003800420045002d0034003900390031002d0039003600390043002d004200350030003000410044004600350044003800410038007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00310032003900440037004500340030002d0043003100300044002d0031003100440030002d0041004600420039002d003000300041004100300030004200360037004100340032007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00310036003400330045003100380030002d0039003000460035002d0031003100430045002d0039003700440035002d003000300041004100300030003500350035003900350041007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00310038003700340036003300410030002d0035004200420037002d0031003100440033002d0041004300420045002d003000300038003000430037003500450032003400360045007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00310042003500340034004300320030002d0046004400300042002d0031003100430045002d0038004300360033002d003000300041004100300030003400340042003500310045007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00310044004100300038003500300030002d0039004500440043002d0031003100430046002d0042004300310030002d003000300041004100300030004100430037003400460036007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00320031003200360039003000460042002d0038003300450035002d0034003500320036002d0038004600440037002d003700340034003700380042003700390033003900430044007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00320038003000410033003000320030002d0038003600430046002d0031003100440031002d0041004200450036002d003000300041003000430039003000350046003300370035007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00330030003100300035003600440030002d0036004400460046002d0031003100440032002d0039004500450042002d003000300036003000300038003000330039004500330037007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00330033003600340037003500440030002d0039003400320041002d0031003100430045002d0041003800370030002d003000300041004100300030003200460045004100420035007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00330033004600410043004600450030002d0041003900420045002d0031003100440030002d0041003500320030002d003000300041003000440031003000310032003900430030007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00330037003000410031004400350044002d0044004400450042002d0034003100380043002d0038003100430044002d003100380039004500300044003400460041003400340033007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00330041004500380036004200320030002d0037004200450038002d0031003100440031002d0041004200450036002d003000300041003000430039003000350046003300370035007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00340038003000320035003200340033002d0032004400330039002d0031003100430045002d0038003700350044002d003000300036003000380043004200370038003000360036007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00340041003200320038003600450030002d0037004200450046002d0031003100430045002d0039004200440039002d003000300030003000450032003000320035003900390043007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00340045004200330031003600370030002d0039004600430036002d0031003100430046002d0041004600360045002d003000300041004100300030004200360037004100340032007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00360041003000380043004600380030002d0030004500310038002d0031003100430046002d0041003200340044002d003000300032003000410046004400370039003700360037007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00360042004300310043004600460041002d0038004600430031002d0034003200360031002d0041004300320032002d004300460042003400430043003300380044004200350030007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00360045003800440034004100320030002d0033003100300043002d0031003100440030002d0042003700390041002d003000300041004100300030003300370036003700410037007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00360046003200360041003600430044002d0039003600370042002d0034003700460044002d0038003700340041002d003700410045004400320043003900440032003500410032007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00370030004500310030003200420030002d0035003500350036002d0031003100430045002d0039003700430030002d003000300041004100300030003500350035003900350041007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00370043003200330032003200300045002d0035003500420042002d0031003100440033002d0038004200310036002d003000300043003000340046004200360042004400330044007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00380031003400420039003800300030002d0031004300380038002d0031003100440031002d0042004100440039002d003000300036003000390037003400340031003100310041007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00380038004500420043003100450045002d0046003900300041002d0034003800340041002d0042003900430035002d003800460039004300300046003300370041003800320038007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00380041003500310044004300320037002d0035004100330035002d0034004500300032002d0039003500410033002d003400320038004200430036003200340034004100330043007d0000009d0040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00410038003800380044004600360030002d0031004500390030002d0031003100430046002d0041004300390038002d003000300041004100300030003400430030004600410039007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00410042003900440036003400370032002d0037003500320046002d0034003300460036002d0042003200390045002d003600310032003000370042004400410038004500300036007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00410046004200360043003200380030002d0032004300340031002d0031003100440033002d0038004100360030002d003000300030003000460038003100450030004500340041007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00420031004200370037004300300030002d0043003300450034002d0031003100430046002d0041004600370039002d003000300041004100300030004200360037004100340032007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00430036003600360045003100310035002d0042004200360032002d0034003000320037002d0041003100310033002d003800320044003600340033004600450032004400390039007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00430046003400390044003400450030002d0031003100310035002d0031003100430045002d0042003000330041002d003000300032003000410046003000420041003700370030007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00440033003500380038004100420030002d0030003700380031002d0031003100430045002d0042003000330041002d003000300032003000410046003000420041003700370030007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00440035003100420044003500410031002d0037003500340038002d0031003100430046002d0041003500320030002d003000300038003000430037003700450046003500380041007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00440035003100420044003500410032002d0037003500340038002d0031003100430046002d0041003500320030002d003000300038003000430037003700450046003500380041007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00440035003100420044003500410033002d0037003500340038002d0031003100430046002d0041003500320030002d003000300038003000430037003700450046003500380041007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00440035003100420044003500410035002d0037003500340038002d0031003100430046002d0041003500320030002d003000300038003000430037003700450046003500380041007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00450031004600310041003000420038002d0042004500450045002d0034003900300044002d0042004100370043002d003000360036004300340030004200350045003200420039007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00450034003200300036003400330032002d0030003100410031002d0034004200450045002d0042003300450031002d003300370030003200430038004500440043003500370034007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00450034003300360045004200420035002d0035003200340046002d0031003100430045002d0039004600350033002d003000300032003000410046003000420041003700370030007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00450034003300360045004200420036002d0035003200340046002d0031003100430045002d0039004600350033002d003000300032003000410046003000420041003700370030007d000000000040006400650076006900630065003a00730077003a007b00300038003300380036003300460031002d0037003000440045002d0031003100440030002d0042004400340030002d003000300041003000430039003100310043004500380036007d005c007b00460045004200350030003700340030002d0037004200450046002d0031003100430045002d0039004200440039002d003000300030003000450032003000320035003900390043007d000000000040006400650076006900630065003a00730077003a007b00340041003500360041004600330032002d0043003200310046002d0031003100440042002d0039003600460041002d003000300035003000350036004300300030003000300038007d005c005000420044004100200044005400460069006c00740065007200000040006400650076006900630065003a0063006d003a007b00340045004600450032003400350032002d0031003600380041002d0031003100440031002d0042004300370036002d003000300043003000340046004200390034003500330042007d005c00440065006600610075006c00740020004d006900640069004f007500740020004400650076006900630065000000000040006400650076006900630065003a00730077003a007b00390043003200340041003900370037002d0030003900350031002d0034003500310041002d0038003000300036002d003000450034003900420044003200380043004400350046007d005c00560042004900200043006f00640065006300000040006400650076006900630065003a00730077003a007b00410032004500330030003700340046002d0036004300330044002d0031003100440033002d0042003600350033002d003000300043003000340046003700390034003900380045007d005c0042004400410020004d00500045004700320020005400720061006e00730070006f0072007400200049006e0066006f0072006d006100740069006f006e002000460069006c007400650072000000000040006400650076006900630065003a00730077003a007b00410032004500330030003700340046002d0036004300330044002d0031003100440033002d0042003600350033002d003000300043003000340046003700390034003900380045007d005c004d005000450047002d0032002000530065006300740069006f006e007300200061006e00640020005400610062006c00650073000000000040006400650076006900630065003a00730077003a007b00430034004300340043003400460043002d0030003000340039002d0034004500320042002d0039003800460042002d003900350033003700460036004300450035003100360044007d005c0044006500630072007900700074002f00540061006700000040006400650076006900630065003a0063006d003a007b00450030004600310035003800450031002d0043004200300034002d0031003100440030002d0042004400340045002d003000300041003000430039003100310043004500380036007d005c00440065006600610075006c007400200044006900720065006300740053006f0075006e006400200044006500760069006300650000000000746164660200000000088000020000000000000030706933000000000000000004000000000000000000000030747933000000008821000098210000317479330000000088210000a8210000327479330000000088210000b8210000337479330000000088210000c8210000317069330800000000000000020000000000000000000000307479330000000088210000d8210000317479330000000088210000e821000002000000000860000200000000000000307069330000000000000000010000000000000000000000307479330000000088210000b8210000317069330800000000000000010000000000000000000000307479330000000088210000f8210000020000000008600002000000000000003070693300000000000000000200000000000000000000003074793300000000882100000822000031747933000000008821000018220000317069330800000000000000010000000000000000000000307479330000000088210000d82100000200000000086000020000000000000030706933000000000000000001000000000000000000000030747933000000008821000028220000317069330800000000000000010000000000000000000000307479330000000088210000d8210000020000000100800002000000000000003070693300000000000000000a0000000000000000000000307479330000000038220000482200003174793300000000382200005822000032747933000000003822000068220000337479330000000038220000782200003474793300000000382200008822000035747933000000003822000098220000367479330000000038220000a8220000377479330000000038220000b8220000387479330000000038220000c8220000397479330000000038220000d82200003170693308000000000000000a0000000000000000000000307479330000000038220000e8220000317479330000000038220000f822000032747933000000003822000008230000337479330000000038220000182300003474793300000000382200002823000035747933000000003822000038230000367479330000000038220000482300003774793300000000382200005823000038747933000000003822000068230000397479330000000038220000782300000200000000086000020000000000000030706933000000000000000002000000000000000000000030747933000000003822000088230000317479330000000038220000982300003170693308000000000000000600000000000000000000003074793300000000382200005823000031747933000000003822000048230000327479330000000038220000a82300003374793300000000382200006823000034747933000000003822000078230000357479330000000038220000b823000002000000010080000200000000000000307069330000000000000000070000000000000000000000307479330000000038220000c8230000317479330000000038220000d8230000327479330000000038220000e8230000337479330000000038220000f82300003474793300000000382200000824000035747933000000003822000018240000367479330000000038220000282400003170693308000000000000000a0000000000000000000000307479330000000038220000e8220000317479330000000038220000f82200003274793300000000382200000823000033747933000000003822000018230000347479330000000038220000282300003574793300000000382200003823000036747933000000003822000048230000377479330000000038220000582300003874793300000000382200006823000039747933000000003822000078230000020000000100800002000000000000003070693300000000000000000200000000000000000000003074793300000000382200003824000031747933000000003822000048240000317069330800000000000000090000000000000000000000307479330000000038220000f822000031747933000000003822000008230000327479330000000038220000182300003374793300000000382200002823000034747933000000003822000048230000357479330000000038220000582300003674793300000000382200006823000037747933000000003822000078230000387479330000000038220000b82300000200000001008000020000000000000030706933000000000000000004000000000000000000000030747933000000003822000058240000317479330000000038220000682400003274793300000000382200007824000033747933000000003822000088240000317069330800000000000000090000000000000000000000307479330000000038220000f822000031747933000000003822000008230000327479330000000038220000182300003374793300000000382200002823000034747933000000003822000048230000357479330000000038220000582300003674793300000000382200006823000037747933000000003822000078230000387479330000000038220000b82300000200000000004000000000000000000002000000010040000200000000000000307069330000000000000000060000000000000000000000307479330000000038220000b823000031747933000000003822000078230000327479330000000038220000682300003374793300000000382200005823000034747933000000003822000048230000357479330000000038220000a8230000317069330800000000000000060000000000000000000000307479330000000038220000b823000031747933000000003822000078230000327479330000000038220000682300003374793300000000382200005823000034747933000000003822000048230000357479330000000038220000a82300000200000000004000000000000000000002000000000060000200000000000000307069330000000000000000010000000000000000000000307479330000000098240000a8240000317069330800000000000000010000000000000000000000307479330000000038220000b824000002000000000040000200000000000000307069330000000000000000010000000000000000000000307479330000000038220000b8230000317069330800000000000000010000000000000000000000307479330000000038220000c824000002000000ffff5f0006000000000000003070693300000000000000000a00000000000000000000003074793300000000d8240000e8240000317479330000000038220000e82400003274793300000000f8240000e8240000337479330000000038220000082500003474793300000000382200001825000035747933000000003822000028250000367479330000000038220000382500003774793300000000382200004825000038747933000000003822000058250000397479330000000038220000682500003170693300000000000000000100000000000000000000003074793300000000d8240000782500003270693308000000000000000a0000000000000000000000307479330000000038220000882500003174793300000000382200009825000032747933000000003822000038230000337479330000000038220000a8250000347479330000000038220000f8220000357479330000000038220000e8220000367479330000000038220000b8250000377479330000000038220000c8250000387479330000000038220000d8250000397479330000000038220000e82500003370693308000000000000000100000000000000000000003074793300000000f825000008260000347069330800000000000000040000000000000000000000307479330000000038220000182600003174793300000000382200002826000032747933000000003822000038260000337479330000000038220000a82300003570693308000000000000000a0000000000000000000000307479330000000038220000882500003174793300000000382200009825000032747933000000003822000038230000337479330000000038220000a8250000347479330000000038220000f8220000357479330000000038220000e8220000367479330000000038220000b8250000377479330000000038220000c8250000387479330000000038220000d8250000397479330000000038220000e82500000200000000006000020000000000000030706933090000000000000001000000000000000000000030747933000000008821000048260000317069330000000000000000010000000000000000000000307479330000000098240000482600000200000000006000020000000000000030706933000000000000000001000000000000000000000030747933000000003822000058260000317069330800000000000000010000000000000000000000307479330000000038220000b8240000020000000000600003000000000000003070693300000000000000000400000000000000000000003074793300000000982400006826000031747933000000009824000078260000327479330000000098240000882600003374793300000000982400009826000031706933090000000000000002000000000000000000000030747933000000008821000008250000317479330000000088210000a8260000327069330900000000000000020000000000000000000000307479330000000038220000082500003174793300000000382200001825000002000000000040000200000000000000307069330000000000000000010000000000000000000000307479330000000098240000b82600003170693308000000000000000100000000000000000000003074793300000000c8260000b8240000020000000000600005000000000000003070693300000000000000000100000000000000000000003074793300000000d8260000e82600003170693308000000000000000100000000000000000000003074793300000000d8260000f82600003270693308000000000000000100000000000000000000003074793300000000d8260000082700003370693308000000000000000100000000000000000000003074793300000000d8260000182700003470693308000000000000000100000000000000000000003074793300000000f82500002827000002000000ffff5f000100000000000000307069330000000000000000020000000000000000000000307479330000000098240000382700003174793300000000982400008826000002000000010080000100000000000000307069330200000000000000020000000000000000000000307479330000000048270000b82400003174793300000000c8260000b8240000020000000100680302000000000000003070693300000000000000000300000000000000000000003074793300000000882100000825000031747933000000008821000018250000327479330000000088210000a8260000317069330800000000000000010000000000000000000000307479330000000088210000d821000002000000000060000300000000000000307069330000000000000000030000000000000000000000307479330000000058270000682700003174793300000000582700007827000032747933000000005827000088270000317069330900000000000000010000000000000000000000307479330000000088210000d8210000327069330900000000000000010000000000000000000000307479330000000038220000b824000002000000000060000200000000000000307069330000000000000000010000000000000000000000307479330000000088210000b8240000317069330800000000000000010000000000000000000000307479330000000088210000b824000002000000010080000100000000000000307069330200000000000000010000000000000000000000307479330000000038220000b8240000020000000000600002000000000000003070693300000000000000000100000000000000000000003074793300000000f8250000b8240000317069330800000000000000010000000000000000000000307479330000000038220000b82400000200000000006000030000000000000030706933000000000000000001000000000000000000000030747933000000003822000098270000317069330000000000000000010000000000000000000000307479330000000038220000a8270000327069330800000000000000010000000000000000000000307479330000000038220000b824000002000000000040000100000000000000307069330200000000000000010000000000000000000000307479330000000038220000b82400000200000000004000000000000000000002000000000060000200000000000000307069330000000000000000010000000000000000000000307479330000000038220000a82700003170693308000000000000000100000000000000000000003074793300000000b8240000b8240000020000000000600001000000000000003070693302000000000000000100000000000000000000003074793300000000b8270000c8270000020000000000600002000000000000003070693300000000000000000100000000000000000000003074793300000000b8270000c82700003170693308000000000000000100000000000000000000003074793300000000b8270000c827000002000000640060000a0000000000000030706933000000000000000001000000000000000000000030747933000000003822000058260000317069330000000000000000010000000000000000000000307479330000000038220000d8270000327069330000000000000000010000000000000000000000307479330000000038220000e8270000337069330000000000000000010000000000000000000000307479330000000038220000f82700003470693300000000000000000100000000000000000000003074793300000000382200000828000035706933000000000000000001000000000000000000000030747933000000003822000018280000367069330000000000000000010000000000000000000000307479330000000038220000282800003770693300000000000000000100000000000000000000003074793300000000382200003828000038706933000000000000000001000000000000000000000030747933000000003822000048280000397069330800000000000000010000000000000000000000307479330000000038220000b824000002000000ffffffff01000000000000003070693302000000000000000100000000000000000000003074793300000000b8240000b824000002000000000060000200000000000000307069330000000000000000030000000000000000000000307479330000000098240000582800003174793300000000982400006828000032747933000000009824000038270000317069330800000000000000000000000000000000000000020000000000800002000000000000003070693300000000000000000200000000000000000000003074793300000000382200006827000031747933000000003822000078280000317069330800000000000000010000000000000000000000307479330000000038220000b824000002000000ffff5f0001000000000000003070693300000000000000000100000000000000000000003074793300000000b82700008828000002000000000060000200000000000000307069330000000000000000010000000000000000000000307479330000000038220000b8240000317069330800000000000000010000000000000000000000307479330000000038220000b824000002000000000040000200000000000000307069330d00000000000000010000000000000000000000307479330000000038220000b8240000317069330d00000000000000010000000000000000000000307479330000000088210000b82400000200000000004000020000000000000030706933000000000000000003000000000000000000000030747933000000009824000098280000317479330000000098240000a8280000327479330000000098240000b8280000317069330800000000000000010000000000000000000000307479330000000088210000b824000002000000000040000200000000000000307069330000000000000000010000000000000000000000307479330000000098240000c82800003170693308000000000000000100000000000000000000003074793300000000c8280000b824000002000000000040000200000000000000307069330000000000000000010000000000000000000000307479330000000098240000d8280000317069330c000000000000000100000000000000000000003074793300000000b8240000b8240000020000000000400002000000000000003070693300000000000000000100000000000000000000003074793300000000e8280000b82400003170693308000000000000000100000000000000000000003074793300000000b8240000b824000002000000ffff5f0002000000000000003070693300000000000000001a00000000000000000000003074793300000000d8240000482600003174793300000000d8240000f82800003274793300000000d8240000082900003374793300000000d8240000182900003474793300000000f8240000482600003574793300000000f8240000f82800003674793300000000f8240000082900003774793300000000f82400001829000038747933000000008821000018250000397479330000000088210000982600003a7479330000000088210000a82600003b7479330000000088210000f82800003c7479330000000088210000082900003d7479330000000088210000282900003e7479330000000098240000982600003f7479330000000098240000f8280000407479330000000098240000482600004174793300000000982400003829000042747933000000008821000048260000437479330000000088210000482900004474793300000000882100003829000045747933000000009824000058290000467479330000000098240000682900004774793300000000882100007829000048747933000000008821000058290000497479330000000088210000682900003170693308000000000000000400000000000000000000003074793300000000882100008829000031747933000000008821000098290000327479330000000088210000e8210000337479330000000088210000d8210000020000000200600002000000000000003070693300000000000000000100000000000000000000003074793300000000f8250000b8240000317069330800000000000000010000000000000000000000307479330000000038220000b824000002000000000040000100000000000000307069330800000000000000010000000000000000000000307479330000000098240000b824000002000000000040000100000000000000307069330800000000000000010000000000000000000000307479330000000098240000b8240000020000000100004002000000000000003070693300000000000000000200000000000000000000003074793300000000382200000825000031747933000000003822000018250000317069330800000000000000010000000000000000000000307479330000000038220000b824000002000000000060000200000000000000307069330000000000000000040000000000000000000000307479330000000088210000a8290000317479330000000038220000a82900003274793300000000b8290000a82900003374793300000000b8270000a82900003170693308000000000000000e0000000000000000000000307479330000000038220000e8240000317479330000000038220000282500003274793300000000882100001825000033747933000000008821000048260000347479330000000088210000f828000035747933000000008821000058290000367479330000000088210000682900003774793300000000b8270000882800003874793300000000b8270000c82900003974793300000000b8270000c82700003a74793300000000f8240000f82600003b74793300000000f8240000d82900003c74793300000000f8240000e82900003d74793300000000f8240000f8290000020000000000800001000000000000003070693302000000000000000100000000000000000000003074793300000000c8280000b8240000020000000000600005000000000000003070693300000000000000000100000000000000000000003074793300000000d8260000e82600003170693308000000000000000100000000000000000000003074793300000000d8260000f82600003270693308000000000000000100000000000000000000003074793300000000d8260000082700003370693308000000000000000100000000000000000000003074793300000000d8260000182700003470693308000000000000000100000000000000000000003074793300000000f825000028270000020000000000600002000000000000003070693300000000000000000100000000000000000000003074793300000000b8270000b82400003170693300000000000000000100000000000000000000003074793300000000b8270000082a0000020000000000600001000000000000003070693300000000000000000100000000000000000000003074793300000000b82700008828000002000000000060000200000000000000307069330000000000000000030000000000000000000000307479330000000088210000182a0000317479330000000038220000182a00003274793300000000f8250000182a00003170693308000000000000000a0000000000000000000000307479330000000038220000e82400003174793300000000882100001825000032747933000000008821000048260000337479330000000088210000f828000034747933000000008821000058290000357479330000000088210000682900003674793300000000b8270000882800003774793300000000b8270000c82900003874793300000000f8240000f82600003974793300000000f8240000d829000002000000000080000100000000000000307069330200000000000000130000000000000000000000307479330000000088210000d8210000317479330000000088210000282a0000327479330000000088210000e8210000337479330000000088210000382a0000347479330000000088210000482a0000357479330000000088210000582a0000367479330000000088210000682a0000377479330000000088210000782a0000387479330000000088210000882a0000397479330000000088210000982a00003a7479330000000088210000a82a00003b7479330000000088210000b82a00003c7479330000000088210000c82a00003d7479330000000088210000d82a00003e7479330000000088210000e82a00003f7479330000000088210000f82a00004074793300000000882100009829000041747933000000008821000088290000427479330000000088210000f82100006175647300001000800000aa00389b716001000000001000800000aa00389b716101000000001000800000aa00389b716201000000001000800000aa00389b716301000000001000800000aa00389b710100000000001000800000aa00389b710300000000001000800000aa00389b716401000000001000800000aa00389b710a00000000001000800000aa00389b710b00000000001000800000aa00389b715500000000001000800000aa00389b717669647300001000800000aa00389b716d70347300001000800000aa00389b714d50345300001000800000aa00389b716d34733200001000800000aa00389b714d34533200001000800000aa00389b714d50345600001000800000aa00389b716d70347600001000800000aa00389b715856494400001000800000aa00389b717876696400001000800000aa00389b714449565800001000800000aa00389b714458353000001000800000aa00389b715956313200001000800000aa00389b715955593200001000800000aa00389b715559565900001000800000aa00389b715956595500001000800000aa00389b714e56313100001000800000aa00389b714e56313200001000800000aa00389b717eeb36e44f52ce119f530020af0ba7707deb36e44f52ce119f530020af0ba7707beb36e44f52ce119f530020af0ba7707ceb36e44f52ce119f530020af0ba7704d53533100001000800000aa00389b714d53533200001000800000aa00389b71c09a3c777432d011b72400aa006c1a017aeb36e44f52ce119f530020af0ba770574d563100001000800000aa00389b71574d563200001000800000aa00389b71574d563300001000800000aa00389b71574d564100001000800000aa00389b715756433100001000800000aa00389b71574d565000001000800000aa00389b715756503200001000800000aa00389b716d70343300001000800000aa00389b714d50343300001000800000aa00389b714d50473400001000800000aa00389b716d70673400001000800000aa00389b716d70343200001000800000aa00389b714d50343200001000800000aa00389b7183eb36e44f52ce119f530020af0ba77088eb36e44f52ce119f530020af0ba7700000000000000000000000000000000079eb36e44f52ce119f530020af0ba7706a910bed4d04d111aa7800c04fc31d6026806de046dbcf11b4d100805f6cbbea20806de046dbcf11b4d100805f6cbbea80eb36e44f52ce119f530020af0ba77081eb36e44f52ce119f530020af0ba7704832363400001000800000aa00389b716832363400001000800000aa00389b714156433100001000800000aa00389b715832363400001000800000aa00389b717832363400001000800000aa00389b712d806de046dbcf11b4d100805f6cbbea0abe811bc7a0d311b98400c04f2e73c50cbe811bc7a0d311b98400c04f2e73c54934323000001000800000aa00389b71494d433400001000800000aa00389b71494d433300001000800000aa00389b715333343000001000800000aa00389b714e56323400001000800000aa00389b7180ea0a67823ad011b79b00aa003767a7234a8d6e0c31d011b79a00aa003767a74149343400001000800000aa00389b714159555600001000800000aa00389b71e615646e245c5f4293cd80102b3d1cca2c806de046dbcf11b4d100805f6cbbea4d4a504700001000800000aa00389b7184eb36e44f52ce119f530020af0ba77085eb36e44f52ce119f530020af0ba77086eb36e44f52ce119f530020af0ba77087eb36e44f52ce119f530020af0ba7705000000000001000800000aa00389b71e0cffa33bea9d011a52000a0d10129c07478747300001000800000aa00389b71e1762af70aebd011ace40000c0cc16baa0d920ca3e3ed1119bf900c04fbbdebfe3762af70aebd011ace40000c0cc16ba20f6b3a192978d4d81a486af2577209076d591277a8e6f469e905d3f3083738b224a8d6e0c31d011b79a00aa003767a722806de046dbcf11b4d100805f6cbbea646d637300001000800000aa00389b716961767300001000800000aa00389b716476736400001000800000aa00389b716476686400001000800000aa00389b716476736c00001000800000aa00389b71406a9b5a221ad111bad900609744111a416a9b5a221ad111bad900609744111a6c175f45064bce479aef8caef73df7b579859f4af86b92438a6dd2dd09fa786154564d4a00001000800000aa00389b7157414b4500001000800000aa00389b714346434300001000800000aa00389b71494a504700001000800000aa00389b71506c756d00001000800000aa00389b714456435300001000800000aa00389b714456534400001000800000aa00389b714d44564600001000800000aa00389b7123806de046dbcf11b4d100805f6cbbea42b3aef42903dd4fa8fd4aff4926c9786476632000001000800000aa00389b715be592c82d25b542a316d997e7a5d9958beb36e44f52ce119f530020af0ba7708ceb36e44f52ce119f530020af0ba7708deb36e44f52ce119f530020af0ba7706d69647300001000800000aa00389b71a3d51bd54875cf11a5200080c77ef58a66696c6500001000800000aa00389b712b806de046dbcf11b4d100805f6cbbea32806de046dbcf11b4d100805f6cbbea33806de046dbcf11b4d100805f6cbbea0120000000001000800000aa00389b71af87fba7022dfb42a4d405cd93843bdd0020000000001000800000aa00389b710016000000001000800000aa00389b710216000000001000800000aa00389b71ff00000000001000800000aa00389b719200000000001000800000aa00389b710800000000001000800000aa00389b7128bdad46d06f964793b2155c51dc048d898a8bb849b0804cadcf5898985e22c1b088d91efc3f23458725347beec1a8a0c3cbff34b3d571419002d4c60301697f7dd69d05552e414d8d1b01f5e4f50607286ddc36a6f1164290489cfcefeb5ebadb271795ced2284596f63301fabb2de0d0c4c4c449002b4e98fb9537f6ce516d0900000000001000800000aa00389b714902000000001000800000aa00389b714002000000001000800000aa00389b714102000000001000800000aa00389b7103000000ea0c1000800000aa00389b7104000000ea0c1000800000aa00389b7105000000ea0c1000800000aa00389b7106000000ea0c1000800000aa00389b7108000000ea0c1000800000aa00389b7109000000ea0c1000800000aa00389b710a000000ea0c1000800000aa00389b710b000000ea0c1000800000aa00389b710c000000ea0c1000800000aa00389b710d000000ea0c1000800000aa00389b71", 
+            "reg_key": "HKCU\\Software\\Microsoft\\Multimedia\\ActiveMovie\\Filter Cache\\0", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 585, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Cryptography\\RNG", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 2, 
+            "line": 588, 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 659, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASMANCS", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 2, 
+            "line": 579, 
+            "reg_key": "HKCU\\Software\\Microsoft\\MediaPlayer\\Preferences", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "count": 1, 
+            "line": 663, 
+            "data": "-65536", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\setup_wm_RASMANCS\\ConsoleTracingMask", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 5, 
+            "line": 723, 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services", 
+            "time": "2018-11-30 09:59:24"
+          }, 
+          {
+            "count": 1, 
+            "line": 617, 
+            "data": "{00000000-0000-0000-0000-000000000000}", 
+            "reg_key": "HKCU\\Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default DirectSound Device\\DSGuid", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "count": 1, 
+            "line": 712, 
+            "data": "bing", 
+            "reg_key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\MediaPlayer\\Services\\Bing\\FriendlyName", 
+            "time": "2018-11-30 09:59:24"
+          }
+        ]
+      }, 
+      "ftype": 131084, 
+      "pid": "2240", 
+      "children": [
+        {
+          "tag": "BAK_FILE", 
+          "id": 37
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 38
+        }, 
+        {
+          "tag": "CMD_LINE", 
+          "id": 54
+        }
+      ], 
+      "score": 40, 
+      "create_time": "2018-11-30 09:59:21", 
+      "cmd_line": "\"C:\\Program Files (x86)\\Windows Media Player\\setup_wm.exe\" /RunOnce:\"C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe\" /OCX /NoLibraryAdd /Play \"http://cyanteread.com/images/fxX86e_2F4/hNGggnUISubVRhWU1/Dyw0B7ZLNnem/ufLBAtKtnu3/XVsEXbOTHjxWT5/sd3QR311TnMSoQ4F6LJNd/nTeP4d04C8X4g20_/2F_2Bn8_2FDKCt5/grp1X463eWV_2BAhxf/2EcjlSe2W/fzttUfCfZcYYDHg/_2FD.avi\" /prefetch:10", 
+      "source_id": 21, 
+      "path": "%PROGRAMFILES(X86)%\\Windows Media Player\\setup_wm.exe", 
+      "ppid": "2112", 
+      "id": 22, 
+      "md5": "d4dd111a4fd973394238aca5c05bebe3", 
+      "file_ops": {
+        "attributes_set": [
+          {
+            "id": -1, 
+            "line": 635, 
+            "attr": 8326, 
+            "name": "%INTERNET_CACHE%\\Content.IE5", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "id": -1, 
+            "line": 637, 
+            "attr": 8326, 
+            "name": "%COOKIES%", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "id": -1, 
+            "line": 639, 
+            "attr": 8326, 
+            "name": "%HISTORY%\\History.IE5", 
+            "time": "2018-11-30 09:59:22"
+          }
+        ], 
+        "created": [
+          {
+            "line": 569, 
+            "time": "2018-11-30 09:59:21", 
+            "id": -1, 
+            "name": "%TEMP%\\wmsetup.log"
+          }, 
+          {
+            "id": 37, 
+            "line": 704, 
+            "name": "%TEMP%\\tmp73968.WMC\\allservices.xml", 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "id": 38, 
+            "line": 709, 
+            "name": "%TEMP%\\tmp75265.WMC\\serviceinfo.xml", 
+            "time": "2018-11-30 09:59:23"
+          }
+        ]
+      }
+    }, 
+    "23": {
+      "size": 32768, 
+      "sha1": "082ef3ec97ef3bd226ffdc2f62fd46ce74260c15", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/fed57d9187b119f056eaeed066e89d96", 
+      "sha256": "449fe3b646671d79e010a5f26513e2559f62f46bca534037c6c418c3eb2202a4", 
+      "id": 23, 
+      "md5": "94aae610983c2b89dbfa9f23558a0af4"
+    }, 
+    "24": {
+      "size": 32768, 
+      "sha1": "429421dc0bcae2675d6dc848ee8e41694b7d182d", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/abceab9b0a2794c95b3d31e7e18d03d9", 
+      "sha256": "ab0301e252424c5a1b324e10f31dc2f3aaeb5a478081ede1f60bf0cbd61adfd4", 
+      "id": 24, 
+      "md5": "8d18102f75a6ef413eaa66a7592f205c"
+    }, 
+    "25": {
+      "size": 32768, 
+      "sha1": "b267c307bdb05bc416fa9a058b804f13e27afa57", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/0fa788fe8ae71994dd6d40cdaf6e7cc7", 
+      "sha256": "fe25e0555372ef6dce5e8510446a4441ab2c289bfcca834e9afbd45601da2622", 
+      "id": 25, 
+      "md5": "15f1793d145ef06def1cba376628eef7"
+    }, 
+    "26": {
+      "size": 8192, 
+      "ftype": 33554944, 
+      "sha1": "3c4bc8d56bb717cd90ad1f0cda1eda55596dc24e", 
+      "meta": {
+        "date": "0x5399D0B7 [Thu Jun 12 16:09:27 2014 UTC]", 
+        "language": [
+          "LANG_ENGLISH"
+        ], 
+        "packers": [
+          "Microsoft Visual C++ v8.0"
+        ]
+      }, 
+      "indicators": [
+        {
+          "count": 1, 
+          "attack_tactic": "Execution", 
+          "attack_id": "T1204", 
+          "attack_name": "User Execution", 
+          "score": 2, 
+          "msg": "The file has an overlay", 
+          "type": 10, 
+          "id": 589827
+        }
+      ], 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/d6108452dadfa1ccff4ebed0e194d085", 
+      "sha256": "9b9402f938855828982f843e3175069291f7a6a1fe2da8cd049fe05a7b8060ea", 
+      "id": 26, 
+      "md5": "75eb21dd6c650b52447ed19953404025"
+    }, 
+    "27": {
+      "size": 2713, 
+      "ftype": 34078720, 
+      "sha1": "42464c70fc16f3f361c2419751acd57d51613cdf", 
+      "id": 27, 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/a5db61f858df48e9a7c6dae94032e1b2", 
+      "sha256": "bee0439fcf31de76d6e2d7fd377a24a34ac8763d5bf4114da5e1663009e24228", 
+      "children": [
+        {
+          "tag": "url", 
+          "id": 55
+        }
+      ], 
+      "md5": "4bcfe9f8db04948cddb5e31fe6a7f984"
+    }, 
+    "28": {
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/ac15067a21c18e065abc8fd9e3cf6a1f", 
+      "meta": {}, 
+      "id": 28, 
+      "md5": "d41d8cd98f00b204e9800998ecf8427e"
+    }, 
+    "29": {
+      "size": 4096, 
+      "ftype": 34209792, 
+      "sha1": "c233a72119b7c175bd12a3c9b2f5c61740b02103", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/3e7dbce94c33bd4a3121b9b17f328327", 
+      "sha256": "e175c5b6cf147ed8dd7654d3cb715d5fccd1f834c9b4fc6d4a4245894b94db5a", 
+      "id": 29, 
+      "md5": "88ca60da31162dd1d3d7757c55c37d7d"
+    }, 
+    "30": {
+      "size": 9204, 
+      "sha1": "52fecc956d5f47a2ae0d06a3dfb1247341dfa697", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/e1b2c21f10c2beac78f7175486cedf0c", 
+      "sha256": "4546ec7c005abd2100e361f587c3c298bb15c8bcbda01a55cda8622785767756", 
+      "id": 30, 
+      "md5": "83ae86edbffad85dc7cd699fe0257b4d"
+    }, 
+    "31": {
+      "size": 263, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2b89d8e80950a4be454740629f00a2cf", 
+      "meta": {}, 
+      "id": 31, 
+      "md5": "d0cf3d173a3cbc9a718df0ecefcee22f"
+    }, 
+    "32": {
+      "size": 374, 
+      "sha1": "1f8f524d65a364ceea5e7dbc9655f4d3f5e5d54f", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/afbcc8d29261c299bd9e2eb79a9bc013", 
+      "sha256": "227200ede022df90017e797481c91c423ca3c5caf16fc2213fd261152be7821b", 
+      "id": 32, 
+      "md5": "9c66718177c9175af718435be9b85e0f"
+    }, 
+    "33": {
+      "size": 5120, 
+      "ftype": 34209792, 
+      "sha1": "5408d0e9270a75bcd6cc9f01786571a2cca33475", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/a16113c943ffb23b944c97d1dfd95582", 
+      "sha256": "883bc75fc4ecb54af2aefba1407c182f75667c1cffb770a5ddb6f09dad2f82fa", 
+      "id": 33, 
+      "md5": "cd2b651f2d1749c07aa248cc1f977e16"
+    }, 
+    "34": {
+      "size": 1500, 
+      "ftype": 131085, 
+      "sha1": "19965fba3637e44aa57c8e8b8241c99ea5d75e1f", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2112-2240-00070000.dmp", 
+      "sha256": "a58c66ded3474f5205a8bc55da1d928fbf5843351dd040e79e4d08664050af0d", 
+      "id": 34, 
+      "md5": "de271de082402e451ae88b96aae43b4e"
+    }, 
+    "35": {
+      "ftype": 131085, 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2112-2240-7efde238.dmp", 
+      "md5": "5cc9a8cb8cd087d9d0fc15d796990a8e", 
+      "id": 35, 
+      "size": 4
+    }, 
+    "36": {
+      "size": 8, 
+      "ftype": 131085, 
+      "sha1": "d6e8bb0fba37d02b5d4a63dffdb9f963f8283097", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/2112-2240-7efdf368.dmp", 
+      "sha256": "dc18a1ce81873b758e5d4a7809a900f8f971478008443297fddf46570605a1a2", 
+      "id": 36, 
+      "md5": "13f0b6476e7f3eeed7b0b64e67637601"
+    }, 
+    "37": {
+      "size": 546, 
+      "ftype": 34078720, 
+      "sha1": "6b0dacbf38744c9a381830e6a5dc4c71bd7cedbf", 
+      "id": 37, 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/9b0771a0399da3f2b0dff2c7762caf72", 
+      "sha256": "155b9c588061c71832af329fafa5678835d9153b8fbb7592195ae953d0c455ba", 
+      "children": [
+        {
+          "tag": "url", 
+          "id": 56
+        }, 
+        {
+          "tag": "url", 
+          "id": 57
+        }, 
+        {
+          "tag": "url", 
+          "id": 58
+        }
+      ], 
+      "md5": "df03e65b8e082f24dab09c57bc9c6241"
+    }, 
+    "38": {
+      "size": 523, 
+      "sha1": "5f86b06b992a3146cb698a99932ead57a5ec4666", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/431cddad40c89aee5849485f1f0316f4", 
+      "sha256": "93acdb79543d9248ca3fca661f3ac287e6004e4b3dafd79d4c4070794ffbf2ad", 
+      "id": 38, 
+      "md5": "d58da90d6dc51f97cb84dfbffe2b2300"
+    }, 
+    "39": {
+      "size": 1310720, 
+      "sha1": "e00be34b4bdc386eef35f53448dc88ff97be7577", 
+      "meta": {}, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/backup/602fa9979555b366434b67dc4f717ddc", 
+      "sha256": "d8cb752864932b568418cfce9fdcc8e06e22c7545cb12f4445aba208cb266ba5", 
+      "id": 39, 
+      "md5": "f232ae5ae2fd8f6ab1c0e76da4e332df"
+    }, 
+    "40": {
+      "size": 74573, 
+      "ftype": 131073, 
+      "sha1": "52df3c118ce07c2927cb159c0bddd16e3b8c2192", 
+      "score": 87, 
+      "id": 40, 
+      "meta": {
+        "network_traffic": [
+          {
+            "destination_ip": "192.168.56.255", 
+            "protocol": "udp", 
+            "destination_port": 137, 
+            "time": "2018-11-30 09:58:44"
+          }, 
+          {
+            "destination_ip": "192.168.56.1", 
+            "protocol": "tcp", 
+            "destination_port": 21, 
+            "time": "2018-11-30 09:58:49"
+          }, 
+          {
+            "protocol": "dns", 
+            "details": {
+              "request": "cyanteread.com"
+            }, 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "destination_port": 80, 
+            "time": "2018-11-30 09:59:21", 
+            "protocol": "http", 
+            "destination_ip": "192.168.250.1", 
+            "details": {
+              "url": "/images/fxX86e_2F4/hNGggnUISubVRhWU1/Dyw0B7ZLNnem/ufLBAtKtnu3/XVsEXbOTHjxWT5/sd3QR311TnMSoQ4F6LJNd/nTeP4d04C8X4g20_/2F_2Bn8_2FDKCt5/grp1X463eWV_2BAhxf/2EcjlSe2W/fzttUfCfZcYYDHg/_2FD.avi", 
+              "host": "cyanteread.com", 
+              "method": "GET"
+            }
+          }, 
+          {
+            "source_port": 80, 
+            "source_ip": "192.168.250.1", 
+            "protocol": "http", 
+            "details": {
+              "status": "200", 
+              "reason": "OK"
+            }, 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "destination_ip": "192.168.57.33", 
+            "protocol": "tcp", 
+            "destination_port": 49187, 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "destination_ip": "192.168.250.1", 
+            "protocol": "tcp", 
+            "destination_port": 80, 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "protocol": "dns", 
+            "details": {
+              "request": "redir.metaservices.microsoft.com"
+            }, 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "destination_port": 80, 
+            "time": "2018-11-30 09:59:22", 
+            "protocol": "http", 
+            "destination_ip": "80.65.238.8", 
+            "details": {
+              "url": "/redir/allservices/?sv=5&version=12.0.7601.17514&locale=409&userlocale=409&geoid=f4&parch=x64&arch=x86", 
+              "host": "redir.metaservices.microsoft.com", 
+              "method": "GET"
+            }
+          }, 
+          {
+            "protocol": "dns", 
+            "details": {
+              "request": "onlinestores.metaservices.microsoft.com"
+            }, 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "source_port": 80, 
+            "source_ip": "80.65.238.8", 
+            "protocol": "http", 
+            "details": {
+              "status": "302", 
+              "reason": "Moved Temporarily"
+            }, 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "destination_ip": "80.65.238.8", 
+            "protocol": "tcp", 
+            "destination_port": 80, 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "destination_ip": "192.168.57.33", 
+            "protocol": "tcp", 
+            "destination_port": 49188, 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "destination_port": 80, 
+            "time": "2018-11-30 09:59:22", 
+            "protocol": "http", 
+            "destination_ip": "80.65.238.9", 
+            "details": {
+              "url": "/serviceswitching/AllServices.aspx?sv=5&version=12.0.7601.17514&locale=409&userlocale=409&geoid=f4&parch=x64&arch=x86", 
+              "host": "onlinestores.metaservices.microsoft.com", 
+              "method": "GET"
+            }
+          }, 
+          {
+            "source_port": 80, 
+            "source_ip": "80.65.238.9", 
+            "protocol": "http", 
+            "details": {
+              "status": "200", 
+              "reason": "OK"
+            }, 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "destination_ip": "192.168.57.33", 
+            "protocol": "tcp", 
+            "destination_port": 49189, 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "destination_ip": "80.65.238.9", 
+            "protocol": "tcp", 
+            "destination_port": 80, 
+            "time": "2018-11-30 09:59:22"
+          }, 
+          {
+            "destination_port": 80, 
+            "time": "2018-11-30 09:59:23", 
+            "protocol": "http", 
+            "destination_ip": "80.65.238.9", 
+            "details": {
+              "url": "/bing/bing.xml", 
+              "host": "onlinestores.metaservices.microsoft.com", 
+              "method": "GET"
+            }
+          }, 
+          {
+            "source_port": 80, 
+            "source_ip": "80.65.238.9", 
+            "protocol": "http", 
+            "details": {
+              "status": "200", 
+              "reason": "OK"
+            }, 
+            "time": "2018-11-30 09:59:23"
+          }, 
+          {
+            "destination_ip": "192.168.56.1", 
+            "protocol": "tcp", 
+            "destination_port": 21, 
+            "time": "2018-11-30 10:00:27"
+          }, 
+          {
+            "destination_ip": "192.168.57.255", 
+            "protocol": "udp", 
+            "destination_port": 137, 
+            "time": "2018-11-30 10:00:38"
+          }, 
+          {
+            "protocol": "dns", 
+            "details": {
+              "request": "sqm.microsoft.com"
+            }, 
+            "time": "2018-11-30 10:00:40"
+          }, 
+          {
+            "destination_ip": "192.168.250.1", 
+            "protocol": "tcp", 
+            "destination_port": 443, 
+            "time": "2018-11-30 10:00:40"
+          }, 
+          {
+            "destination_ip": "192.168.57.33", 
+            "protocol": "tcp", 
+            "destination_port": 49190, 
+            "time": "2018-11-30 10:00:40"
+          }
+        ]
+      }, 
+      "indicators": [
+        {
+          "count": 1, 
+          "attack_tactic": "Command and Control", 
+          "ips_attack": {
+            "Gozi.Botnet": {
+              "addresses": [
+                "192.168.250.1:80"
+              ], 
+              "vid": "25304"
+            }
+          }, 
+          "attack_id": "T1071", 
+          "attack_name": "Standard Application Layer Protocol", 
+          "score": 75, 
+          "msg": "Network attacks detected", 
+          "type": 210, 
+          "id": 524292
+        }
+      ], 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/tracer.4.pcap", 
+      "sha256": "4a1c916b52fc5121557d30eb1da300f4f1e5cbd4cc5380da12915926e93992ee", 
+      "children": [
+        {
+          "tag": "url", 
+          "id": 59
+        }, 
+        {
+          "tag": "url", 
+          "id": 60
+        }, 
+        {
+          "tag": "url", 
+          "id": 61
+        }, 
+        {
+          "tag": "url", 
+          "id": 62
+        }, 
+        {
+          "tag": "url", 
+          "id": 63
+        }, 
+        {
+          "tag": "url", 
+          "id": 64
+        }, 
+        {
+          "tag": "url", 
+          "id": 65
+        }, 
+        {
+          "tag": "url", 
+          "id": 66
+        }, 
+        {
+          "tag": "url", 
+          "id": 67
+        }, 
+        {
+          "tag": "url", 
+          "id": 56
+        }
+      ], 
+      "md5": "3e70a2150eb35cd3872cb6735a9dc2ad"
+    }, 
+    "41": {
+      "meta": {
+        "trusted_vendor": true, 
+        "digital_signed": true, 
+        "icon": "tracer_log/backup\\3423b557dccbed92e62bae8f52e55357.ico", 
+        "signers": [
+          "Microsoft Windows"
+        ], 
+        "version_info": [
+          {
+            "FileVersion": "6.1.7600.16385 (win7_rtm.090713-1255)", 
+            "CompanyName": "Microsoft Corporation"
+          }
+        ]
+      }, 
+      "id": 41, 
+      "md5": "C78655BC80301D76ED4FEF1C1EA40A7D"
+    }, 
+    "42": {
+      "memory_ops": {
+        "thread_remote_created": [
+          {
+            "line": 484, 
+            "name": "%PROGRAMFILES(X86)%\\Internet Explorer\\iexplore.exe"
+          }
+        ]
+      }, 
+      "pid": "748", 
+      "children": [
+        {
+          "tag": "CMD_LINE", 
+          "id": 48
+        }
+      ], 
+      "ftype": 131084, 
+      "cmd_line": "C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted", 
+      "source_id": 41, 
+      "path": "%SYSTEMROOT%\\system32\\svchost.exe", 
+      "ppid": "2708", 
+      "id": 42, 
+      "md5": "e49b8b4053df9505e1f48c3a701c0682"
+    }, 
+    "43": {
+      "pid": "824", 
+      "children": [
+        {
+          "tag": "BAK_FILE", 
+          "id": 4
+        }, 
+        {
+          "tag": "BAK_FILE", 
+          "id": 39
+        }, 
+        {
+          "tag": "CMD_LINE", 
+          "id": 49
+        }
+      ], 
+      "ftype": 131084, 
+      "cmd_line": "C:\\Windows\\system32\\svchost.exe -k netsvcs", 
+      "source_id": 41, 
+      "path": "%SYSTEMROOT%\\system32\\svchost.exe", 
+      "ppid": "2708", 
+      "id": 43, 
+      "md5": "677e09724f0e2df9b6c000b75b5da10d", 
+      "file_ops": {
+        "modified": [
+          {
+            "id": 4, 
+            "line": 561, 
+            "name": "%SYSTEMROOT%\\AppCompat\\Programs\\RecentFileCache.bcf", 
+            "time": "2018-11-30 09:59:21"
+          }, 
+          {
+            "id": 39, 
+            "line": 739, 
+            "name": "%SYSTEMROOT%\\SoftwareDistribution\\DataStore\\Logs\\edb.log", 
+            "time": "2018-11-30 10:00:55"
+          }
+        ], 
+        "created": [
+          {
+            "line": 740, 
+            "time": "2018-11-30 10:00:55", 
+            "id": -1, 
+            "name": "%SYSTEMROOT%\\SoftwareDistribution\\DataStore\\Logs\\tmp.edb"
+          }
+        ]
+      }
+    }, 
+    "44": {
+      "size": 504, 
+      "sha1": "74a96b12ab5be54c282dcdf6c861fcaeed8cf280", 
+      "ftype": 131073, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/tracer.292.pcap", 
+      "sha256": "66ba4a0032852f34a34010a30f09634e6bc1abc651edd11761c1d6e9d5c750dc", 
+      "id": 44, 
+      "md5": "60b411d7edd784d7d9209aaa6e6101ff"
+    }, 
+    "45": {
+      "size": 94, 
+      "ftype": 131073, 
+      "sha1": "c11163c12406e9a24849fd5ea641fc2a4413aa09", 
+      "meta": {
+        "network_traffic": [
+          {
+            "destination_ip": "192.168.250.1", 
+            "protocol": "tcp", 
+            "destination_port": 80, 
+            "time": "2018-11-30 09:59:21"
+          }
+        ]
+      }, 
+      "path": "/Storage/ftp/jobs/4184533593578543520/tracer_log/tracer.1780.pcap", 
+      "sha256": "b2994ad7db68f637cabbac2928400836a4a2bf419c10d600f3dbceef4d365154", 
+      "id": 45, 
+      "md5": "71e74d5ccca00e52e794b6ef7e9d8d2e"
+    }, 
+    "46": {
+      "size": 31, 
+      "ftype": 131080, 
+      "sha1": "84b86d29fb2d271bc78a7af802e3668d5f91db9f", 
+      "meta": {}, 
+      "sha256": "e91b7702ac46170ee828d7b23d02bec450112f8ce490c8ca4cbf1efc8e21d81d", 
+      "id": 46, 
+      "md5": "d08668dbfa71035fdd581afc7bb45d5e"
+    }, 
+    "47": {
+      "size": 45, 
+      "ftype": 131080, 
+      "sha1": "2ad77b107707285cb18502b008dd3a007a66f544", 
+      "meta": {}, 
+      "sha256": "3d2a91d286e9b5a1846dc1e2a2a6a995af920d76f1e04d3de08391b79881925c", 
+      "id": 47, 
+      "md5": "0175a1c7e237710cea26221da2f4320e"
+    }, 
+    "48": {
+      "size": 64, 
+      "ftype": 131080, 
+      "sha1": "72c649e74c147bad3bc9df7b1b393fc6e77ce5e0", 
+      "meta": {}, 
+      "sha256": "898dcbf5c52188fea2d8747942f8c52ffbfdfddaafef43132eb0cf241de8af08", 
+      "id": 48, 
+      "md5": "cadacd927638065b596272ce3e2a1c3a"
+    }, 
+    "49": {
+      "size": 42, 
+      "ftype": 131080, 
+      "sha1": "771a0d19ab18678d76a896d64ccf8dcfc762c139", 
+      "meta": {}, 
+      "sha256": "dfab307222b6850e1bbc7105cdf1a0f01f710b3cb566d515ccf2fc0589ecb8ac", 
+      "id": 49, 
+      "md5": "e23062a8f369902ffe0436db56723ff8"
+    }, 
+    "50": {
+      "size": 57, 
+      "ftype": 131080, 
+      "sha1": "9db0865ddf25debd2560a135e4332c0179f1d015", 
+      "meta": {}, 
+      "sha256": "34465954613a301bb785dde9fc4483e81a738fea648951f2ac838e1a3b02a68c", 
+      "id": 50, 
+      "md5": "dd9b3c6cdade149204c0076f5eb275b0"
+    }, 
+    "51": {
+      "size": 66, 
+      "ftype": 131080, 
+      "sha1": "12c809411b2ba120ccd5272b78f7c3ad9b15bf20", 
+      "meta": {}, 
+      "sha256": "f9a6ea61d2968aae75f6fa267dc896bc1c64e3e6833cffe37ea17de552a0e8f6", 
+      "id": 51, 
+      "md5": "89aa10a9d0d779bdefdb05c613aaa2da"
+    }, 
+    "52": {
+      "size": 80, 
+      "ftype": 131080, 
+      "sha1": "5481219cb017f39f668b9815d14b3365476c7db1", 
+      "meta": {}, 
+      "sha256": "e0646321784dcd0c2295df05745d57f6dd6a905400389e0568d84a2b8aaea97e", 
+      "id": 52, 
+      "md5": "3b698332a670de4805abadbecdf4bb9e"
+    }, 
+    "53": {
+      "size": 305, 
+      "ftype": 131080, 
+      "sha1": "244294868505b0dd3465c21e8d340e8cb5808d3c", 
+      "score": 40, 
+      "id": 53, 
+      "meta": {
+        "command_category": 32
+      }, 
+      "sha256": "d8d8bdd06f82686fe4a1a9c23209c94b178bf8d9d2ca2bb278c6c53be7cd3ada", 
+      "children": [
+        {
+          "tag": "url", 
+          "id": 65
+        }
+      ], 
+      "md5": "f0b37e0d8f3e32d69e8ab639252feedc"
+    }, 
+    "54": {
+      "size": 373, 
+      "ftype": 131080, 
+      "sha1": "0d8e5d388c622aec69f5f6141f2c7fe68a42bd1f", 
+      "score": 40, 
+      "id": 54, 
+      "meta": {
+        "command_category": 32
+      }, 
+      "sha256": "131f3ca75a35abc1438142967517d9af20d20dd2ac2ed3985cd6d6de32466be8", 
+      "children": [
+        {
+          "tag": "url", 
+          "id": 65
+        }
+      ], 
+      "md5": "97ec371e9da2348ba16e125357b2d79f"
+    }, 
+    "55": {
+      "category": 52, 
+      "ftype": 131078, 
+      "uri": "http://www.w3.org/TR/html4/loose.dtd", 
+      "md5": "2bd2c89f1e0fd6fbda9ae04a44f71f62", 
+      "id": 55
+    }, 
+    "56": {
+      "category": 52, 
+      "uri": "http://onlinestores.metaservices.microsoft.com/bing/bing.xml", 
+      "ftype": 131078, 
+      "time": "2018-11-30 09:59:23", 
+      "id": 56, 
+      "md5": "58f9cb9264b43d4f1b04eae642a2372d"
+    }, 
+    "57": {
+      "category": 41, 
+      "ftype": 131078, 
+      "uri": "http://images.windowsmedia.com/svcswitch/media_guide_16x16.png", 
+      "md5": "d6b40316670bcd92989c8774f6216326", 
+      "id": 57
+    }, 
+    "58": {
+      "category": 52, 
+      "ftype": 131078, 
+      "uri": "http://go.microsoft.com/fwlink/?LinkId=28433&amp;SV=5", 
+      "md5": "89395f6e2b8e77136a1befa386eac892", 
+      "id": 58
+    }, 
+    "59": {
+      "category": 52, 
+      "uri": "http://onlinestores.metaservices.microsoft.com", 
+      "ftype": 131078, 
+      "time": "2018-11-30 09:59:22", 
+      "id": 59, 
+      "md5": "d57bcf301bf63c9d2863193c11ba543a"
+    }, 
+    "60": {
+      "id": 60, 
+      "ftype": 131078, 
+      "uri": "80.65.238.9", 
+      "md5": "f2fb5b8adafabd74c1eb9e816803ff80", 
+      "time": "2018-11-30 09:59:22"
+    }, 
+    "61": {
+      "category": 52, 
+      "uri": "http://redir.metaservices.microsoft.com/redir/allservices/?sv=5&version=12.0.7601.17514&locale=409&userlocale=409&geoid=f4&parch=x64&arch=x86", 
+      "ftype": 131078, 
+      "time": "2018-11-30 09:59:22", 
+      "id": 61, 
+      "md5": "116e0809fd308781bc8ce20c0d3460fd"
+    }, 
+    "62": {
+      "category": 52, 
+      "uri": "http://onlinestores.metaservices.microsoft.com/serviceswitching/AllServices.aspx?sv=5&version=12.0.7601.17514&locale=409&userlocale=409&geoid=f4&parch=x64&arch=x86", 
+      "ftype": 131078, 
+      "time": "2018-11-30 09:59:22", 
+      "id": 62, 
+      "md5": "1c88f00ec7fb6fa7284fb4fad1f8a782"
+    }, 
+    "63": {
+      "category": 52, 
+      "uri": "http://redir.metaservices.microsoft.com", 
+      "ftype": 131078, 
+      "time": "2018-11-30 09:59:22", 
+      "id": 63, 
+      "md5": "93de479e5ce7c532b5e75803f15e932f"
+    }, 
+    "64": {
+      "category": 26, 
+      "score": 50, 
+      "uri": "http://cyanteread.com", 
+      "ftype": 131078, 
+      "time": "2018-11-30 09:59:21", 
+      "indicators": [
+        {
+          "msg": "Suspicious Domain", 
+          "count": 1, 
+          "score": 50, 
+          "type": 50, 
+          "id": 3221225473
+        }
+      ], 
+      "id": 64, 
+      "md5": "084b7d10ea4826d58011ce4e08892422"
+    }, 
+    "65": {
+      "category": 26, 
+      "score": 40, 
+      "uri": "http://cyanteread.com/images/fxX86e_2F4/hNGggnUISubVRhWU1/Dyw0B7ZLNnem/ufLBAtKtnu3/XVsEXbOTHjxWT5/sd3QR311TnMSoQ4F6LJNd/nTeP4d04C8X4g20_/2F_2Bn8_2FDKCt5/grp1X463eWV_2BAhxf/2EcjlSe2W/fzttUfCfZcYYDHg/_2FD.avi", 
+      "ftype": 131078, 
+      "time": "2018-11-30 09:59:21", 
+      "indicators": [
+        {
+          "msg": "Suspicious URL", 
+          "count": 1, 
+          "score": 40, 
+          "type": 50, 
+          "id": 3221225473
+        }
+      ], 
+      "id": 65, 
+      "md5": "f2dcbbb0790fc371ed2f76136317f582"
+    }, 
+    "66": {
+      "category": 52, 
+      "uri": "http://sqm.microsoft.com", 
+      "ftype": 131078, 
+      "time": "2018-11-30 10:00:40", 
+      "id": 66, 
+      "md5": "119c20faea61ce4219e546f8603100fd"
+    }, 
+    "67": {
+      "id": 67, 
+      "ftype": 131078, 
+      "uri": "80.65.238.8", 
+      "md5": "1e3b1ada1abb04b774131fc08e4025ec", 
+      "time": "2018-11-30 09:59:22"
+    }
+  }, 
+  "version": "300", 
+  "root": {
+    "dynamic": [
+      1
+    ]
+  }, 
+  "options": {
+    "debug": false, 
+    "webfilter": true, 
+    "antivirus": true
+  }, 
+  "revision": 430094
+}
